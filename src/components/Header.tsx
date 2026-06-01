@@ -2,19 +2,28 @@
 
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
-import { Music, Search, Menu, X } from 'lucide-react'
-import { useState } from 'react'
+import { Music, Search, Menu, X, ChevronDown } from 'lucide-react'
+import { useState, useRef, useEffect } from 'react'
+import { CATEGORY_GENRES, GENRE_LABELS, CATEGORY_LABELS, toSlug } from '@/lib/data'
+import type { Category } from '@/lib/data'
 
-const NAV = [
-  { label: 'Library', href: '/library' },
-  { label: 'Filmy', href: '/filmy' },
-  { label: 'Spiritual', href: '/spiritual' },
-  { label: 'Semi Classical', href: '/semi_classical' },
-]
+const CATEGORIES: Category[] = ['original_compositions', 'video_edits']
 
 export default function Header() {
   const pathname = usePathname()
-  const [open, setOpen] = useState(false)
+  const [mobileOpen, setMobileOpen] = useState(false)
+  const [dropdown, setDropdown] = useState<Category | null>(null)
+  const dropdownRef = useRef<HTMLDivElement>(null)
+
+  useEffect(() => {
+    function handleClick(e: MouseEvent) {
+      if (dropdownRef.current && !dropdownRef.current.contains(e.target as Node)) {
+        setDropdown(null)
+      }
+    }
+    document.addEventListener('mousedown', handleClick)
+    return () => document.removeEventListener('mousedown', handleClick)
+  }, [])
 
   return (
     <header className="sticky top-0 z-50 border-b border-border-subtle bg-bg-primary/95 backdrop-blur-sm">
@@ -30,72 +39,91 @@ export default function Header() {
           </Link>
 
           {/* Desktop nav */}
-          <nav className="hidden md:flex items-center gap-1">
-            {NAV.map((item) => (
-              <Link
-                key={item.href}
-                href={item.href}
-                className={`px-4 py-2 rounded-md text-sm transition-colors ${
-                  pathname.startsWith(item.href)
-                    ? 'text-accent-yellow bg-accent-yellow/10'
-                    : 'text-text-secondary hover:text-text-primary hover:bg-bg-elevated'
-                }`}
-              >
-                {item.label}
-              </Link>
-            ))}
+          <nav className="hidden md:flex items-center gap-1" ref={dropdownRef}>
+            <Link
+              href="/library"
+              className={`px-4 py-2 rounded-md text-sm transition-colors ${
+                pathname === '/library' ? 'text-accent-yellow bg-accent-yellow/10' : 'text-text-secondary hover:text-text-primary hover:bg-bg-elevated'
+              }`}
+            >
+              Library
+            </Link>
+
+            {CATEGORIES.map((cat) => {
+              const catSlug = toSlug(cat)
+              const isActive = pathname.startsWith(`/${catSlug}`)
+              const isOpen = dropdown === cat
+              return (
+                <div key={cat} className="relative">
+                  <button
+                    onClick={() => setDropdown(isOpen ? null : cat)}
+                    className={`flex items-center gap-1 px-4 py-2 rounded-md text-sm transition-colors ${
+                      isActive ? 'text-accent-yellow bg-accent-yellow/10' : 'text-text-secondary hover:text-text-primary hover:bg-bg-elevated'
+                    }`}
+                  >
+                    {CATEGORY_LABELS[cat]}
+                    <ChevronDown size={14} className={`transition-transform ${isOpen ? 'rotate-180' : ''}`} />
+                  </button>
+                  {isOpen && (
+                    <div className="absolute top-full left-0 mt-1 w-52 bg-bg-card border border-border-subtle rounded-xl shadow-lg py-1 z-50">
+                      <Link
+                        href={`/${catSlug}`}
+                        onClick={() => setDropdown(null)}
+                        className="block px-4 py-2 text-sm text-text-secondary hover:text-text-primary hover:bg-bg-elevated transition-colors"
+                      >
+                        All {CATEGORY_LABELS[cat]}
+                      </Link>
+                      <div className="border-t border-border-subtle my-1" />
+                      {CATEGORY_GENRES[cat].map((genre) => (
+                        <Link
+                          key={genre}
+                          href={`/${catSlug}/${toSlug(genre)}`}
+                          onClick={() => setDropdown(null)}
+                          className="block px-4 py-2 text-sm text-text-secondary hover:text-text-primary hover:bg-bg-elevated transition-colors"
+                        >
+                          {GENRE_LABELS[genre]}
+                        </Link>
+                      ))}
+                    </div>
+                  )}
+                </div>
+              )
+            })}
           </nav>
 
           {/* Right actions */}
           <div className="flex items-center gap-2">
-            <Link
-              href="/search"
-              className="p-2 rounded-md text-text-secondary hover:text-text-primary hover:bg-bg-elevated transition-colors"
-              aria-label="Search"
-            >
+            <Link href="/search" className="p-2 rounded-md text-text-secondary hover:text-text-primary hover:bg-bg-elevated transition-colors" aria-label="Search">
               <Search size={18} />
             </Link>
-            <Link
-              href="/friends"
-              className="hidden sm:inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-accent-yellow text-bg-primary text-xs font-semibold transition-opacity hover:opacity-90"
-            >
-              <Music size={12} />
-              Friends
+            <Link href="/friends" className="hidden sm:inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-accent-yellow text-bg-primary text-xs font-semibold transition-opacity hover:opacity-90">
+              <Music size={12} /> Friends
             </Link>
-            <button
-              className="md:hidden p-2 rounded-md text-text-secondary hover:text-text-primary"
-              onClick={() => setOpen(!open)}
-              aria-label="Menu"
-            >
-              {open ? <X size={20} /> : <Menu size={20} />}
+            <button className="md:hidden p-2 rounded-md text-text-secondary hover:text-text-primary" onClick={() => setMobileOpen(!mobileOpen)}>
+              {mobileOpen ? <X size={20} /> : <Menu size={20} />}
             </button>
           </div>
         </div>
       </div>
 
       {/* Mobile nav */}
-      {open && (
+      {mobileOpen && (
         <div className="md:hidden border-t border-border-subtle bg-bg-primary">
           <div className="px-4 py-3 space-y-1">
-            {NAV.map((item) => (
-              <Link
-                key={item.href}
-                href={item.href}
-                onClick={() => setOpen(false)}
-                className={`block px-3 py-2 rounded-md text-sm transition-colors ${
-                  pathname.startsWith(item.href)
-                    ? 'text-accent-yellow bg-accent-yellow/10'
-                    : 'text-text-secondary hover:text-text-primary hover:bg-bg-elevated'
-                }`}
-              >
-                {item.label}
-              </Link>
+            <Link href="/library" onClick={() => setMobileOpen(false)} className="block px-3 py-2 rounded-md text-sm text-text-secondary hover:text-text-primary hover:bg-bg-elevated">Library</Link>
+            {CATEGORIES.map((cat) => (
+              <div key={cat}>
+                <Link href={`/${toSlug(cat)}`} onClick={() => setMobileOpen(false)} className="block px-3 py-2 rounded-md text-sm font-medium text-text-primary hover:bg-bg-elevated">
+                  {CATEGORY_LABELS[cat]}
+                </Link>
+                {CATEGORY_GENRES[cat].map((genre) => (
+                  <Link key={genre} href={`/${toSlug(cat)}/${toSlug(genre)}`} onClick={() => setMobileOpen(false)} className="block pl-6 pr-3 py-1.5 rounded-md text-sm text-text-muted hover:text-text-secondary hover:bg-bg-elevated">
+                    {GENRE_LABELS[genre]}
+                  </Link>
+                ))}
+              </div>
             ))}
-            <Link
-              href="/friends"
-              onClick={() => setOpen(false)}
-              className="block mt-2 px-3 py-2 rounded-md text-sm text-accent-yellow font-medium"
-            >
+            <Link href="/friends" onClick={() => setMobileOpen(false)} className="block px-3 py-2 rounded-md text-sm text-accent-yellow font-medium">
               Friends of Music Instincts
             </Link>
           </div>

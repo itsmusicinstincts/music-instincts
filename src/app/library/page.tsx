@@ -2,31 +2,37 @@
 
 import { useState } from 'react'
 import { Search } from 'lucide-react'
-import { SONGS, GENRE_LABELS, LANGUAGE_LABELS, GENRE_LANGUAGES } from '@/lib/data'
-import type { Genre, Language } from '@/lib/data'
+import { SONGS, CATEGORY_LABELS, GENRE_LABELS, DISPLAY_LANGUAGE_LABELS, VALID_CATEGORIES, CATEGORY_GENRES, getDisplayGroup } from '@/lib/data'
+import type { Category, Genre, DisplayLanguageGroup } from '@/lib/data'
 import SongCard from '@/components/SongCard'
 
-const ALL_GENRES = Object.keys(GENRE_LABELS) as Genre[]
-
 export default function LibraryPage() {
+  const [activeCategory, setActiveCategory] = useState<Category | 'all'>('all')
   const [activeGenre, setActiveGenre] = useState<Genre | 'all'>('all')
-  const [activeLang, setActiveLang] = useState<Language | 'all'>('all')
+  const [activeLang, setActiveLang] = useState<DisplayLanguageGroup | 'all'>('all')
   const [query, setQuery] = useState('')
 
-  const availableLanguages: Language[] =
-    activeGenre === 'all'
-      ? (Array.from(new Set(SONGS.map((s) => s.language))) as Language[])
-      : GENRE_LANGUAGES[activeGenre]
+  const availableGenres: Genre[] =
+    activeCategory === 'all'
+      ? (Array.from(new Set(SONGS.map((s) => s.genre))) as Genre[])
+      : CATEGORY_GENRES[activeCategory]
 
   const filtered = SONGS.filter((s) => {
+    if (activeCategory !== 'all' && s.category !== activeCategory) return false
     if (activeGenre !== 'all' && s.genre !== activeGenre) return false
-    if (activeLang !== 'all' && s.language !== activeLang) return false
+    if (activeLang !== 'all' && getDisplayGroup(s.language) !== activeLang) return false
     if (query) {
       const q = query.toLowerCase()
       return s.title.toLowerCase().includes(q) || s.description.toLowerCase().includes(q)
     }
     return true
   })
+
+  function handleCategoryChange(c: Category | 'all') {
+    setActiveCategory(c)
+    setActiveGenre('all')
+    setActiveLang('all')
+  }
 
   function handleGenreChange(g: Genre | 'all') {
     setActiveGenre(g)
@@ -52,62 +58,50 @@ export default function LibraryPage() {
         />
       </div>
 
-      {/* Genre tabs */}
-      <div className="flex flex-wrap gap-2 mb-4">
-        <button
-          onClick={() => handleGenreChange('all')}
-          className={`px-4 py-1.5 rounded-full text-sm font-medium transition-colors border ${
-            activeGenre === 'all'
-              ? 'bg-accent-yellow text-bg-primary border-accent-yellow'
-              : 'border-border-subtle text-text-secondary hover:text-text-primary hover:border-border bg-transparent'
-          }`}
-        >
-          All
-        </button>
-        {ALL_GENRES.map((genre) => (
-          <button
-            key={genre}
-            onClick={() => handleGenreChange(genre)}
-            className={`px-4 py-1.5 rounded-full text-sm font-medium transition-colors border ${
-              activeGenre === genre
-                ? 'bg-accent-yellow text-bg-primary border-accent-yellow'
-                : 'border-border-subtle text-text-secondary hover:text-text-primary hover:border-border bg-transparent'
+      {/* Category tabs */}
+      <div className="flex flex-wrap gap-2 mb-3">
+        {(['all', ...VALID_CATEGORIES] as const).map((cat) => (
+          <button key={cat} onClick={() => handleCategoryChange(cat)}
+            className={`px-4 py-1.5 rounded-full text-sm font-medium border transition-colors ${
+              activeCategory === cat ? 'bg-accent-yellow text-bg-primary border-accent-yellow' : 'border-border-subtle text-text-secondary hover:text-text-primary hover:border-border bg-transparent'
             }`}
           >
-            {GENRE_LABELS[genre]}
+            {cat === 'all' ? 'All' : CATEGORY_LABELS[cat]}
           </button>
         ))}
       </div>
 
-      {/* Language sub-tabs */}
-      {activeGenre !== 'all' && (
-        <div className="flex flex-wrap gap-2 mb-8">
-          <button
-            onClick={() => setActiveLang('all')}
-            className={`px-3 py-1 rounded-md text-xs font-medium transition-colors ${
-              activeLang === 'all'
-                ? 'text-accent-yellow bg-accent-yellow/10'
-                : 'text-text-muted hover:text-text-secondary'
-            }`}
+      {/* Genre sub-tabs */}
+      {activeCategory !== 'all' && (
+        <div className="flex flex-wrap gap-2 mb-3">
+          <button onClick={() => handleGenreChange('all')}
+            className={`px-3 py-1 rounded-md text-xs font-medium transition-colors ${activeLang === 'all' && activeGenre === 'all' ? 'text-accent-yellow bg-accent-yellow/10' : 'text-text-muted hover:text-text-secondary'}`}
           >
-            All Languages
+            All Genres
           </button>
-          {availableLanguages.map((lang) => (
-            <button
-              key={lang}
-              onClick={() => setActiveLang(lang)}
-              className={`px-3 py-1 rounded-md text-xs font-medium transition-colors ${
-                activeLang === lang
-                  ? 'text-accent-yellow bg-accent-yellow/10'
-                  : 'text-text-muted hover:text-text-secondary'
-              }`}
+          {availableGenres.map((genre) => (
+            <button key={genre} onClick={() => handleGenreChange(genre)}
+              className={`px-3 py-1 rounded-md text-xs font-medium transition-colors ${activeGenre === genre ? 'text-accent-yellow bg-accent-yellow/10' : 'text-text-muted hover:text-text-secondary'}`}
             >
-              {LANGUAGE_LABELS[lang]}
+              {GENRE_LABELS[genre]}
             </button>
           ))}
         </div>
       )}
-      {activeGenre === 'all' && <div className="mb-8" />}
+
+      {/* Language sub-tabs */}
+      {activeGenre !== 'all' && (
+        <div className="flex flex-wrap gap-2 mb-8">
+          {(['all', 'hindi', 'tamil', 'other'] as const).map((lang) => (
+            <button key={lang} onClick={() => setActiveLang(lang)}
+              className={`px-3 py-1 rounded-md text-xs font-medium transition-colors ${activeLang === lang ? 'text-accent-yellow bg-accent-yellow/10' : 'text-text-muted hover:text-text-secondary'}`}
+            >
+              {lang === 'all' ? 'All Languages' : DISPLAY_LANGUAGE_LABELS[lang]}
+            </button>
+          ))}
+        </div>
+      )}
+      {(activeCategory === 'all' || activeGenre === 'all') && <div className="mb-8" />}
 
       {/* Results */}
       {filtered.length === 0 ? (
@@ -122,7 +116,6 @@ export default function LibraryPage() {
           ))}
         </div>
       )}
-
       <p className="mt-8 text-xs text-text-muted">{filtered.length} composition{filtered.length !== 1 ? 's' : ''}</p>
     </div>
   )

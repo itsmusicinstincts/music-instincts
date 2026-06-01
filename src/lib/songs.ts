@@ -1,13 +1,15 @@
 import { supabase } from './supabase'
 import {
   SONGS,
-  getSongBySlug as staticGetSongBySlug,
-  getSongsByGenre as staticGetSongsByGenre,
-  getSongsByGenreAndLanguage as staticGetSongsByGenreAndLanguage,
-  getFeaturedSongs as staticGetFeaturedSongs,
-  searchSongs as staticSearchSongs,
+  getSongBySlug as staticGetBySlug,
+  getFeaturedSongs as staticGetFeatured,
+  getSongsByCategory as staticGetByCategory,
+  getSongsByCategoryAndGenre as staticGetByCategoryAndGenre,
+  getSongsByCategoryGenreAndLanguageGroup as staticGetByCategoryGenreAndGroup,
+  searchSongs as staticSearch,
+  getDisplayGroup,
 } from './data'
-import type { Song, Genre, Language } from './data'
+import type { Song, Category, Genre, DisplayLanguageGroup } from './data'
 
 function mapRow(row: Record<string, unknown>): Song {
   return {
@@ -16,8 +18,9 @@ function mapRow(row: Record<string, unknown>): Song {
     title: row.title as string,
     composer: (row.composer as string) ?? 'Music Instincts',
     description: (row.description as string) ?? '',
+    category: (row.category as Category) ?? 'original_compositions',
     genre: row.genre as Genre,
-    language: row.language as Language,
+    language: row.language as string,
     year: row.year as number | undefined,
     youtube_url: row.youtube_url as string | undefined,
     spotify_url: row.spotify_url as string | undefined,
@@ -33,73 +36,68 @@ function mapRow(row: Record<string, unknown>): Song {
 export async function getAllSongs(): Promise<Song[]> {
   if (!supabase) return SONGS
   const { data, error } = await supabase
-    .from('songs')
-    .select('*')
-    .eq('status', 'published')
-    .order('created_at', { ascending: false })
+    .from('songs').select('*').eq('status', 'published').order('created_at', { ascending: false })
   if (error || !data) return SONGS
   return data.map(mapRow)
 }
 
 export async function getSongBySlug(slug: string): Promise<Song | undefined> {
-  if (!supabase) return staticGetSongBySlug(slug)
+  if (!supabase) return staticGetBySlug(slug)
   const { data, error } = await supabase
-    .from('songs')
-    .select('*')
-    .eq('slug', slug)
-    .eq('status', 'published')
-    .single()
-  if (error || !data) return staticGetSongBySlug(slug)
+    .from('songs').select('*').eq('slug', slug).eq('status', 'published').single()
+  if (error || !data) return staticGetBySlug(slug)
   return mapRow(data)
 }
 
-export async function getSongsByGenre(genre: Genre): Promise<Song[]> {
-  if (!supabase) return staticGetSongsByGenre(genre)
-  const { data, error } = await supabase
-    .from('songs')
-    .select('*')
-    .eq('genre', genre)
-    .eq('status', 'published')
-    .order('created_at', { ascending: false })
-  if (error || !data) return staticGetSongsByGenre(genre)
-  return data.map(mapRow)
-}
-
-export async function getSongsByGenreAndLanguage(genre: Genre, language: Language): Promise<Song[]> {
-  if (!supabase) return staticGetSongsByGenreAndLanguage(genre, language)
-  const { data, error } = await supabase
-    .from('songs')
-    .select('*')
-    .eq('genre', genre)
-    .eq('language', language)
-    .eq('status', 'published')
-    .order('created_at', { ascending: false })
-  if (error || !data) return staticGetSongsByGenreAndLanguage(genre, language)
-  return data.map(mapRow)
-}
-
 export async function getFeaturedSongs(): Promise<Song[]> {
-  if (!supabase) return staticGetFeaturedSongs()
+  if (!supabase) return staticGetFeatured()
   const { data, error } = await supabase
-    .from('songs')
-    .select('*')
-    .eq('featured', true)
-    .eq('status', 'published')
-    .order('created_at', { ascending: false })
-  if (error || !data) return staticGetFeaturedSongs()
+    .from('songs').select('*').eq('featured', true).eq('status', 'published').order('created_at', { ascending: false })
+  if (error || !data) return staticGetFeatured()
+  return data.map(mapRow)
+}
+
+export async function getSongsByCategory(category: Category): Promise<Song[]> {
+  if (!supabase) return staticGetByCategory(category)
+  const { data, error } = await supabase
+    .from('songs').select('*').eq('category', category).eq('status', 'published').order('created_at', { ascending: false })
+  if (error || !data) return staticGetByCategory(category)
+  return data.map(mapRow)
+}
+
+export async function getSongsByCategoryAndGenre(category: Category, genre: Genre): Promise<Song[]> {
+  if (!supabase) return staticGetByCategoryAndGenre(category, genre)
+  const { data, error } = await supabase
+    .from('songs').select('*').eq('category', category).eq('genre', genre).eq('status', 'published').order('created_at', { ascending: false })
+  if (error || !data) return staticGetByCategoryAndGenre(category, genre)
+  return data.map(mapRow)
+}
+
+export async function getSongsByCategoryGenreAndLanguageGroup(
+  category: Category, genre: Genre, group: DisplayLanguageGroup
+): Promise<Song[]> {
+  if (!supabase) return staticGetByCategoryGenreAndGroup(category, genre, group)
+  let query = supabase.from('songs').select('*').eq('category', category).eq('genre', genre).eq('status', 'published')
+  if (group === 'hindi') {
+    query = query.eq('language', 'hindi')
+  } else if (group === 'tamil') {
+    query = query.eq('language', 'tamil')
+  } else {
+    query = query.not('language', 'in', '(hindi,tamil)')
+  }
+  const { data, error } = await query.order('created_at', { ascending: false })
+  if (error || !data) return staticGetByCategoryGenreAndGroup(category, genre, group)
   return data.map(mapRow)
 }
 
 export async function searchSongs(query: string): Promise<Song[]> {
-  if (!supabase) return staticSearchSongs(query)
+  if (!supabase) return staticSearch(query)
   const q = query.trim()
   if (!q) return []
   const { data, error } = await supabase
-    .from('songs')
-    .select('*')
-    .eq('status', 'published')
+    .from('songs').select('*').eq('status', 'published')
     .or(`title.ilike.%${q}%,description.ilike.%${q}%,composer.ilike.%${q}%`)
     .order('created_at', { ascending: false })
-  if (error || !data) return staticSearchSongs(query)
+  if (error || !data) return staticSearch(query)
   return data.map(mapRow)
 }

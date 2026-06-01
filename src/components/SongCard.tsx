@@ -2,13 +2,15 @@ import Link from 'next/link'
 import Image from 'next/image'
 import { Play } from 'lucide-react'
 import type { Song } from '@/lib/data'
-import { GENRE_LABELS, LANGUAGE_LABELS } from '@/lib/data'
+import { GENRE_LABELS, getLanguageLabel } from '@/lib/data'
 import StreamingLinks from './StreamingLinks'
 
-const GENRE_COLORS = {
+const GENRE_COLORS: Record<string, string> = {
   spiritual: 'bg-violet-500/15 text-violet-300 border-violet-500/25',
   filmy: 'bg-blue-500/15 text-blue-300 border-blue-500/25',
   semi_classical: 'bg-amber-500/15 text-amber-300 border-amber-500/25',
+  original: 'bg-cyan-500/15 text-cyan-300 border-cyan-500/25',
+  bollywood_recreated: 'bg-pink-500/15 text-pink-300 border-pink-500/25',
 }
 
 interface Props {
@@ -37,7 +39,7 @@ export default function SongCard({ song, variant = 'default' }: Props) {
         </div>
         <div className="min-w-0">
           <div className="text-sm font-medium text-text-primary truncate">{song.title}</div>
-          <div className="text-xs text-text-muted mt-0.5">{LANGUAGE_LABELS[song.language]}</div>
+          <div className="text-xs text-text-muted mt-0.5">{getLanguageLabel(song.language)}</div>
         </div>
         <span className={`ml-auto shrink-0 genre-badge border ${GENRE_COLORS[song.genre]}`}>
           {GENRE_LABELS[song.genre]}
@@ -72,8 +74,8 @@ export default function SongCard({ song, variant = 'default' }: Props) {
               {song.title}
             </Link>
             <span className={`shrink-0 genre-badge border ${GENRE_COLORS[song.genre]}`}>
-              {LANGUAGE_LABELS[song.language]}
-            </span>
+                        {getLanguageLabel(song.language)}
+                      </span>
           </div>
           <div className="text-xs text-text-muted mt-1">{song.composer}</div>
         </div>

@@ -1,7 +1,7 @@
 import { notFound } from 'next/navigation'
 import Link from 'next/link'
 import { ChevronLeft, Music } from 'lucide-react'
-import { SONGS, GENRE_LABELS, LANGUAGE_LABELS } from '@/lib/data'
+import { SONGS, GENRE_LABELS, getLanguageLabel } from '@/lib/data'
 import { getSongBySlug, getAllSongs } from '@/lib/songs'
 import VideoEmbed from '@/components/VideoEmbed'
 import StreamingLinks from '@/components/StreamingLinks'
@@ -9,7 +9,7 @@ import SongCard from '@/components/SongCard'
 import type { Metadata } from 'next'
 
 interface Props {
-  params: { slug: string }
+  params: Promise<{ slug: string }>
 }
 
 export async function generateStaticParams() {
@@ -18,7 +18,8 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const song = await getSongBySlug(params.slug)
+  const { slug } = await params
+  const song = await getSongBySlug(slug)
   if (!song) return {}
   return {
     title: `${song.title} — Music Instincts`,
@@ -26,14 +27,17 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   }
 }
 
-const GENRE_BADGE = {
+const GENRE_BADGE: Record<string, string> = {
   spiritual: 'bg-violet-500/15 text-violet-300 border-violet-500/25',
   filmy: 'bg-blue-500/15 text-blue-300 border-blue-500/25',
   semi_classical: 'bg-amber-500/15 text-amber-300 border-amber-500/25',
+  original: 'bg-cyan-500/15 text-cyan-300 border-cyan-500/25',
+  bollywood_recreated: 'bg-pink-500/15 text-pink-300 border-pink-500/25',
 }
 
 export default async function SongPage({ params }: Props) {
-  const [song, allSongs] = await Promise.all([getSongBySlug(params.slug), getAllSongs().catch(() => SONGS)])
+  const { slug } = await params
+  const [song, allSongs] = await Promise.all([getSongBySlug(slug), getAllSongs().catch(() => SONGS)])
   if (!song) notFound()
 
   const related = allSongs.filter((s) => s.id !== song.id && (s.genre === song.genre || s.language === song.language)).slice(0, 3)
@@ -58,7 +62,7 @@ export default async function SongPage({ params }: Props) {
           <div>
             <div className="flex flex-wrap items-center gap-2 mb-2">
               <span className={`genre-badge border ${GENRE_BADGE[song.genre]}`}>{GENRE_LABELS[song.genre]}</span>
-              <span className="genre-badge border border-border-subtle text-text-secondary bg-bg-elevated">{LANGUAGE_LABELS[song.language]}</span>
+              <span className="genre-badge border border-border-subtle text-text-secondary bg-bg-elevated">{getLanguageLabel(song.language)}</span>
               {song.year && <span className="text-xs text-text-muted">{song.year}</span>}
             </div>
             <h1 className="font-display text-3xl font-bold text-text-primary">{song.title}</h1>
@@ -118,7 +122,7 @@ export default async function SongPage({ params }: Props) {
               </div>
               <div>
                 <dt className="text-text-muted text-xs">Language</dt>
-                <dd className="text-text-primary font-medium">{LANGUAGE_LABELS[song.language]}</dd>
+                <dd className="text-text-primary font-medium">{getLanguageLabel(song.language)}</dd>
               </div>
               <div>
                 <dt className="text-text-muted text-xs">Composer</dt>

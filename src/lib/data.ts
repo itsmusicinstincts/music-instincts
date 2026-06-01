@@ -1,5 +1,7 @@
-export type Genre = 'spiritual' | 'filmy' | 'semi_classical'
-export type Language = 'hindi' | 'tamil' | 'english' | 'sanskrit'
+export type Category = 'original_compositions' | 'video_edits'
+export type Genre = 'filmy' | 'spiritual' | 'semi_classical' | 'original' | 'bollywood_recreated'
+// Language stored in DB — 'hindi' | 'tamil' | anything else is grouped as 'Other'
+export type Language = string
 
 export interface Song {
   id: string
@@ -7,6 +9,7 @@ export interface Song {
   title: string
   composer: string
   description: string
+  category: Category
   genre: Genre
   language: Language
   year?: number
@@ -20,24 +23,75 @@ export interface Song {
   lyrics?: string
 }
 
+// ─── Labels ───────────────────────────────────────────────────────────────────
+
+export const CATEGORY_LABELS: Record<Category, string> = {
+  original_compositions: 'Original Compositions',
+  video_edits: 'Video Edits',
+}
+
 export const GENRE_LABELS: Record<Genre, string> = {
   filmy: 'Filmy',
   spiritual: 'Spiritual',
   semi_classical: 'Semi Classical / Ghazals',
+  original: 'Original',
+  bollywood_recreated: 'Bollywood Recreated',
 }
 
-export const LANGUAGE_LABELS: Record<Language, string> = {
+export const LANGUAGE_LABELS: Record<string, string> = {
   hindi: 'Hindi',
   tamil: 'Tamil',
   english: 'English',
   sanskrit: 'Sanskrit',
+  telugu: 'Telugu',
+  malayalam: 'Malayalam',
+  kannada: 'Kannada',
+  punjabi: 'Punjabi',
+  other: 'Other',
 }
 
-export const GENRE_LANGUAGES: Record<Genre, Language[]> = {
-  filmy: ['hindi', 'tamil', 'english'],
-  spiritual: ['hindi', 'tamil', 'sanskrit'],
-  semi_classical: ['hindi', 'tamil'],
+export function getLanguageLabel(language: Language): string {
+  return LANGUAGE_LABELS[language.toLowerCase()] ?? language
 }
+
+// ─── Taxonomy ─────────────────────────────────────────────────────────────────
+
+export const CATEGORY_GENRES: Record<Category, Genre[]> = {
+  original_compositions: ['filmy', 'spiritual', 'semi_classical'],
+  video_edits: ['original', 'bollywood_recreated'],
+}
+
+// Display language groups — Hindi, Tamil, Other (catch-all)
+export const DISPLAY_LANGUAGE_GROUPS = ['hindi', 'tamil', 'other'] as const
+export type DisplayLanguageGroup = typeof DISPLAY_LANGUAGE_GROUPS[number]
+
+export const DISPLAY_LANGUAGE_LABELS: Record<DisplayLanguageGroup, string> = {
+  hindi: 'Hindi',
+  tamil: 'Tamil',
+  other: 'Other',
+}
+
+export function getDisplayGroup(language: Language): DisplayLanguageGroup {
+  const l = language.toLowerCase()
+  if (l === 'hindi') return 'hindi'
+  if (l === 'tamil') return 'tamil'
+  return 'other'
+}
+
+// ─── URL slug helpers ─────────────────────────────────────────────────────────
+
+export function toSlug(value: string): string {
+  return value.replace(/_/g, '-')
+}
+
+export function fromSlug(slug: string): string {
+  return slug.replace(/-/g, '_')
+}
+
+export const VALID_CATEGORIES = Object.keys(CATEGORY_LABELS) as Category[]
+export const VALID_GENRES = Object.keys(GENRE_LABELS) as Genre[]
+
+// ─── Seed data ────────────────────────────────────────────────────────────────
 
 function ytThumb(videoId: string) {
   return `https://img.youtube.com/vi/${videoId}/maxresdefault.jpg`
@@ -50,6 +104,7 @@ export const SONGS: Song[] = [
     title: 'Sharanam',
     composer: 'Music Instincts',
     description: 'A heartfelt devotional composition in Tamil, seeking divine refuge.',
+    category: 'original_compositions',
     genre: 'spiritual',
     language: 'tamil',
     youtube_url: 'https://youtu.be/Gk_Cl9fks20',
@@ -63,6 +118,7 @@ export const SONGS: Song[] = [
     title: 'Sharanam',
     composer: 'Music Instincts',
     description: 'A devotional composition in Hindi, an offering of surrender and peace.',
+    category: 'original_compositions',
     genre: 'spiritual',
     language: 'hindi',
     youtube_url: 'https://youtu.be/3qH6La5daLI',
@@ -76,6 +132,7 @@ export const SONGS: Song[] = [
     title: 'OM',
     composer: 'Music Instincts',
     description: 'A meditative Sanskrit composition centred on the primordial sound of the universe.',
+    category: 'original_compositions',
     genre: 'spiritual',
     language: 'sanskrit',
     youtube_url: 'https://youtu.be/JfRyM9vEOWg',
@@ -89,6 +146,7 @@ export const SONGS: Song[] = [
     title: 'Thalapathi',
     composer: 'Music Instincts',
     description: 'A powerful Tamil film composition that captures the spirit of a legend.',
+    category: 'original_compositions',
     genre: 'filmy',
     language: 'tamil',
     youtube_url: 'https://youtu.be/mcXB0G5Diq4',
@@ -102,6 +160,7 @@ export const SONGS: Song[] = [
     title: 'Happy Pongal Bro',
     composer: 'Music Instincts',
     description: 'A joyful Tamil celebration song for the harvest festival of Pongal.',
+    category: 'original_compositions',
     genre: 'filmy',
     language: 'tamil',
     youtube_url: 'https://youtu.be/2-azyFgLFSA',
@@ -111,16 +170,33 @@ export const SONGS: Song[] = [
   },
 ]
 
+// ─── Query helpers ────────────────────────────────────────────────────────────
+
 export function getSongBySlug(slug: string): Song | undefined {
   return SONGS.find((s) => s.slug === slug)
+}
+
+export function getSongsByCategory(category: Category): Song[] {
+  return SONGS.filter((s) => s.category === category)
 }
 
 export function getSongsByGenre(genre: Genre): Song[] {
   return SONGS.filter((s) => s.genre === genre)
 }
 
-export function getSongsByGenreAndLanguage(genre: Genre, language: Language): Song[] {
-  return SONGS.filter((s) => s.genre === genre && s.language === language)
+export function getSongsByCategoryAndGenre(category: Category, genre: Genre): Song[] {
+  return SONGS.filter((s) => s.category === category && s.genre === genre)
+}
+
+export function getSongsByCategoryGenreAndLanguageGroup(
+  category: Category,
+  genre: Genre,
+  group: DisplayLanguageGroup
+): Song[] {
+  return SONGS.filter((s) => {
+    if (s.category !== category || s.genre !== genre) return false
+    return getDisplayGroup(s.language) === group
+  })
 }
 
 export function getFeaturedSongs(): Song[] {
