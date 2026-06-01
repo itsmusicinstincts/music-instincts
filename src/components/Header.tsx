@@ -96,8 +96,8 @@ export default function Header() {
             <Link href="/search" className="p-2 rounded-md text-text-secondary hover:text-text-primary hover:bg-bg-elevated transition-colors" aria-label="Search">
               <Search size={18} />
             </Link>
-            <Link href="/friends" className="hidden sm:inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-accent-yellow text-bg-primary text-xs font-semibold transition-opacity hover:opacity-90">
-              <Music size={12} /> Friends
+            <Link href="/portal" className="hidden sm:inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-accent-yellow text-bg-primary text-xs font-semibold transition-opacity hover:opacity-90">
+              <Music size={12} /> Portal
             </Link>
             <button className="md:hidden p-2 rounded-md text-text-secondary hover:text-text-primary" onClick={() => setMobileOpen(!mobileOpen)}>
               {mobileOpen ? <X size={20} /> : <Menu size={20} />}

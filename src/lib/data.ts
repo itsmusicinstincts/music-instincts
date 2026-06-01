@@ -1,7 +1,18 @@
 export type Category = 'original_compositions' | 'video_edits'
 export type Genre = 'filmy' | 'spiritual' | 'semi_classical' | 'original' | 'bollywood_recreated'
-// Language stored in DB — 'hindi' | 'tamil' | anything else is grouped as 'Other'
 export type Language = string
+
+export interface Lyric {
+  id: string
+  title?: string
+  content: string
+  language: Language
+  author_name?: string
+  lyricist_id?: string
+  agreed_to_showcase: boolean
+  status: 'draft' | 'pending_review' | 'approved' | 'rejected'
+  created_at?: string
+}
 
 export interface Song {
   id: string
@@ -13,6 +24,10 @@ export interface Song {
   genre: Genre
   language: Language
   year?: number
+  // lyric association
+  lyric_id?: string
+  version_label?: string   // e.g. "Hindi Original", "Tamil Version"
+  // streaming
   youtube_url?: string
   spotify_url?: string
   apple_music_url?: string
@@ -20,7 +35,7 @@ export interface Song {
   video_embed_url?: string
   thumbnail_url: string
   featured: boolean
-  lyrics?: string
+  status?: 'published' | 'draft'
 }
 
 // ─── Labels ───────────────────────────────────────────────────────────────────
@@ -47,11 +62,10 @@ export const LANGUAGE_LABELS: Record<string, string> = {
   malayalam: 'Malayalam',
   kannada: 'Kannada',
   punjabi: 'Punjabi',
-  other: 'Other',
 }
 
 export function getLanguageLabel(language: Language): string {
-  return LANGUAGE_LABELS[language.toLowerCase()] ?? language
+  return LANGUAGE_LABELS[language?.toLowerCase()] ?? language ?? 'Unknown'
 }
 
 // ─── Taxonomy ─────────────────────────────────────────────────────────────────
@@ -61,7 +75,6 @@ export const CATEGORY_GENRES: Record<Category, Genre[]> = {
   video_edits: ['original', 'bollywood_recreated'],
 }
 
-// Display language groups — Hindi, Tamil, Other (catch-all)
 export const DISPLAY_LANGUAGE_GROUPS = ['hindi', 'tamil', 'other'] as const
 export type DisplayLanguageGroup = typeof DISPLAY_LANGUAGE_GROUPS[number]
 
@@ -72,7 +85,7 @@ export const DISPLAY_LANGUAGE_LABELS: Record<DisplayLanguageGroup, string> = {
 }
 
 export function getDisplayGroup(language: Language): DisplayLanguageGroup {
-  const l = language.toLowerCase()
+  const l = language?.toLowerCase() ?? ''
   if (l === 'hindi') return 'hindi'
   if (l === 'tamil') return 'tamil'
   return 'other'
@@ -93,12 +106,13 @@ export const VALID_GENRES = Object.keys(GENRE_LABELS) as Genre[]
 
 // ─── Seed data ────────────────────────────────────────────────────────────────
 
-// maxresdefault (1280×720) only exists for videos uploaded at 1080p+.
-// hqdefault (480×360) is always available for any public video.
 function ytThumb(videoId: string, quality: 'maxres' | 'hq' = 'hq') {
   const file = quality === 'maxres' ? 'maxresdefault.jpg' : 'hqdefault.jpg'
   return `https://img.youtube.com/vi/${videoId}/${file}`
 }
+
+// Shared lyric IDs so Sharanam versions are linked
+const SHARANAM_LYRIC_ID = 'static-lyric-sharanam'
 
 export const SONGS: Song[] = [
   {
@@ -110,6 +124,8 @@ export const SONGS: Song[] = [
     category: 'original_compositions',
     genre: 'spiritual',
     language: 'tamil',
+    lyric_id: SHARANAM_LYRIC_ID,
+    version_label: 'Tamil Original',
     youtube_url: 'https://youtu.be/Gk_Cl9fks20',
     video_embed_url: 'https://www.youtube.com/embed/Gk_Cl9fks20',
     thumbnail_url: ytThumb('Gk_Cl9fks20', 'maxres'),
@@ -124,9 +140,11 @@ export const SONGS: Song[] = [
     category: 'original_compositions',
     genre: 'spiritual',
     language: 'hindi',
+    lyric_id: SHARANAM_LYRIC_ID,
+    version_label: 'Hindi Version',
     youtube_url: 'https://youtu.be/3qH6La5daLI',
     video_embed_url: 'https://www.youtube.com/embed/3qH6La5daLI',
-    thumbnail_url: ytThumb('3qH6La5daLI'),
+    thumbnail_url: ytThumb('3qH6La5daLI', 'hq'),
     featured: true,
   },
   {
@@ -154,7 +172,7 @@ export const SONGS: Song[] = [
     language: 'tamil',
     youtube_url: 'https://youtu.be/mcXB0G5Diq4',
     video_embed_url: 'https://www.youtube.com/embed/mcXB0G5Diq4',
-    thumbnail_url: ytThumb('mcXB0G5Diq4'),
+    thumbnail_url: ytThumb('mcXB0G5Diq4', 'hq'),
     featured: false,
   },
   {
@@ -172,6 +190,9 @@ export const SONGS: Song[] = [
     featured: false,
   },
 ]
+
+// Static fallback lyrics (empty — use portal or Supabase to add real content)
+export const LYRICS: Lyric[] = []
 
 // ─── Query helpers ────────────────────────────────────────────────────────────
 
@@ -192,14 +213,20 @@ export function getSongsByCategoryAndGenre(category: Category, genre: Genre): So
 }
 
 export function getSongsByCategoryGenreAndLanguageGroup(
-  category: Category,
-  genre: Genre,
-  group: DisplayLanguageGroup
+  category: Category, genre: Genre, group: DisplayLanguageGroup
 ): Song[] {
   return SONGS.filter((s) => {
     if (s.category !== category || s.genre !== genre) return false
     return getDisplayGroup(s.language) === group
   })
+}
+
+export function getOtherVersions(lyricId: string, currentSongId: string): Song[] {
+  return SONGS.filter((s) => s.lyric_id === lyricId && s.id !== currentSongId)
+}
+
+export function getLyricsById(lyricId: string): Lyric | undefined {
+  return LYRICS.find((l) => l.id === lyricId)
 }
 
 export function getFeaturedSongs(): Song[] {
@@ -213,7 +240,6 @@ export function searchSongs(query: string): Song[] {
     (s) =>
       s.title.toLowerCase().includes(q) ||
       s.description.toLowerCase().includes(q) ||
-      s.composer.toLowerCase().includes(q) ||
-      (s.lyrics && s.lyrics.toLowerCase().includes(q))
+      s.composer.toLowerCase().includes(q)
   )
 }

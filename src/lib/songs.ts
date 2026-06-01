@@ -1,15 +1,16 @@
 import { supabase } from './supabase'
 import {
-  SONGS,
+  SONGS, LYRICS,
   getSongBySlug as staticGetBySlug,
   getFeaturedSongs as staticGetFeatured,
   getSongsByCategory as staticGetByCategory,
   getSongsByCategoryAndGenre as staticGetByCategoryAndGenre,
   getSongsByCategoryGenreAndLanguageGroup as staticGetByCategoryGenreAndGroup,
+  getOtherVersions as staticGetOtherVersions,
+  getLyricsById as staticGetLyricsById,
   searchSongs as staticSearch,
-  getDisplayGroup,
 } from './data'
-import type { Song, Category, Genre, DisplayLanguageGroup } from './data'
+import type { Song, Lyric, Category, Genre, DisplayLanguageGroup } from './data'
 
 function mapRow(row: Record<string, unknown>): Song {
   return {
@@ -22,6 +23,8 @@ function mapRow(row: Record<string, unknown>): Song {
     genre: row.genre as Genre,
     language: row.language as string,
     year: row.year as number | undefined,
+    lyric_id: row.lyric_id as string | undefined,
+    version_label: row.version_label as string | undefined,
     youtube_url: row.youtube_url as string | undefined,
     spotify_url: row.spotify_url as string | undefined,
     apple_music_url: row.apple_music_url as string | undefined,
@@ -29,9 +32,25 @@ function mapRow(row: Record<string, unknown>): Song {
     video_embed_url: row.video_embed_url as string | undefined,
     thumbnail_url: (row.thumbnail_url as string) ?? '',
     featured: (row.featured as boolean) ?? false,
-    lyrics: row.lyrics as string | undefined,
+    status: (row.status as Song['status']) ?? 'published',
   }
 }
+
+function mapLyricRow(row: Record<string, unknown>): Lyric {
+  return {
+    id: row.id as string,
+    title: row.title as string | undefined,
+    content: row.content as string,
+    language: row.language as string,
+    author_name: row.author_name as string | undefined,
+    lyricist_id: row.lyricist_id as string | undefined,
+    agreed_to_showcase: (row.agreed_to_showcase as boolean) ?? false,
+    status: (row.status as Lyric['status']) ?? 'draft',
+    created_at: row.created_at as string | undefined,
+  }
+}
+
+// ─── Song queries ─────────────────────────────────────────────────────────────
 
 export async function getAllSongs(): Promise<Song[]> {
   if (!supabase) return SONGS
@@ -78,15 +97,29 @@ export async function getSongsByCategoryGenreAndLanguageGroup(
 ): Promise<Song[]> {
   if (!supabase) return staticGetByCategoryGenreAndGroup(category, genre, group)
   let query = supabase.from('songs').select('*').eq('category', category).eq('genre', genre).eq('status', 'published')
-  if (group === 'hindi') {
-    query = query.eq('language', 'hindi')
-  } else if (group === 'tamil') {
-    query = query.eq('language', 'tamil')
-  } else {
-    query = query.not('language', 'in', '(hindi,tamil)')
-  }
+  if (group === 'hindi') query = query.eq('language', 'hindi')
+  else if (group === 'tamil') query = query.eq('language', 'tamil')
+  else query = query.not('language', 'in', '(hindi,tamil)')
   const { data, error } = await query.order('created_at', { ascending: false })
   if (error || !data) return staticGetByCategoryGenreAndGroup(category, genre, group)
+  return data.map(mapRow)
+}
+
+// ─── Lyric queries ────────────────────────────────────────────────────────────
+
+export async function getLyricsForSong(lyricId: string): Promise<Lyric | undefined> {
+  if (!supabase) return staticGetLyricsById(lyricId)
+  const { data, error } = await supabase
+    .from('lyrics').select('*').eq('id', lyricId).eq('status', 'approved').single()
+  if (error || !data) return staticGetLyricsById(lyricId)
+  return mapLyricRow(data)
+}
+
+export async function getOtherVersions(lyricId: string, currentSongId: string): Promise<Song[]> {
+  if (!supabase) return staticGetOtherVersions(lyricId, currentSongId)
+  const { data, error } = await supabase
+    .from('songs').select('*').eq('lyric_id', lyricId).neq('id', currentSongId).eq('status', 'published')
+  if (error || !data) return staticGetOtherVersions(lyricId, currentSongId)
   return data.map(mapRow)
 }
 
@@ -100,4 +133,38 @@ export async function searchSongs(query: string): Promise<Song[]> {
     .order('created_at', { ascending: false })
   if (error || !data) return staticSearch(query)
   return data.map(mapRow)
+}
+
+// ─── Portal queries (no status filter — for admin) ────────────────────────────
+
+export async function getAllSongsAdmin(): Promise<Song[]> {
+  if (!supabase) return SONGS
+  const { data, error } = await supabase
+    .from('songs').select('*').order('created_at', { ascending: false })
+  if (error || !data) return SONGS
+  return data.map(mapRow)
+}
+
+export async function getAllLyrics(): Promise<Lyric[]> {
+  if (!supabase) return LYRICS
+  const { data, error } = await supabase
+    .from('lyrics').select('*').order('created_at', { ascending: false })
+  if (error || !data) return LYRICS
+  return data.map(mapLyricRow)
+}
+
+export async function createLyric(lyric: Omit<Lyric, 'id' | 'created_at'>): Promise<Lyric | null> {
+  if (!supabase) return null
+  const { data, error } = await supabase.from('lyrics').insert([lyric]).select().single()
+  if (error || !data) return null
+  return mapLyricRow(data)
+}
+
+export async function linkLyricToSong(songId: string, lyricId: string, versionLabel?: string): Promise<boolean> {
+  if (!supabase) return false
+  const { error } = await supabase
+    .from('songs')
+    .update({ lyric_id: lyricId, version_label: versionLabel ?? null })
+    .eq('id', songId)
+  return !error
 }
