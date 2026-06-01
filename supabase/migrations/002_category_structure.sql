@@ -24,7 +24,13 @@ ALTER TABLE songs
 -- 4. Migrate existing songs – all current songs are Original Compositions
 UPDATE songs SET category = 'original_compositions';
 
--- 5. Fix the OM song: language stays 'sanskrit', category = original_compositions, genre = spiritual
+-- 5a. Fix thumbnail URLs: these two videos only have hqdefault (no maxresdefault)
+UPDATE songs SET thumbnail_url = 'https://img.youtube.com/vi/3qH6La5daLI/hqdefault.jpg'
+  WHERE slug = 'sharanam-hindi';
+UPDATE songs SET thumbnail_url = 'https://img.youtube.com/vi/mcXB0G5Diq4/hqdefault.jpg'
+  WHERE slug = 'thalapathi-tamil';
+
+-- 5b. Fix the OM song: language stays 'sanskrit', category = original_compositions, genre = spiritual
 --    (already correct; just confirm)
 UPDATE songs
 SET genre    = 'spiritual',
@@ -32,7 +38,7 @@ SET genre    = 'spiritual',
     category = 'original_compositions'
 WHERE slug = 'om-sanskrit';
 
--- 6. Rebuild full-text search vector to pick up any new fields
+-- 6. Rebuild full-text search vector (pick up any field changes) to pick up any new fields
 UPDATE songs
 SET search_vector = to_tsvector('english',
       coalesce(title, '') || ' ' ||

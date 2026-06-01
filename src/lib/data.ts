@@ -93,8 +93,11 @@ export const VALID_GENRES = Object.keys(GENRE_LABELS) as Genre[]
 
 // ─── Seed data ────────────────────────────────────────────────────────────────
 
-function ytThumb(videoId: string) {
-  return `https://img.youtube.com/vi/${videoId}/maxresdefault.jpg`
+// maxresdefault (1280×720) only exists for videos uploaded at 1080p+.
+// hqdefault (480×360) is always available for any public video.
+function ytThumb(videoId: string, quality: 'maxres' | 'hq' = 'hq') {
+  const file = quality === 'maxres' ? 'maxresdefault.jpg' : 'hqdefault.jpg'
+  return `https://img.youtube.com/vi/${videoId}/${file}`
 }
 
 export const SONGS: Song[] = [
@@ -109,7 +112,7 @@ export const SONGS: Song[] = [
     language: 'tamil',
     youtube_url: 'https://youtu.be/Gk_Cl9fks20',
     video_embed_url: 'https://www.youtube.com/embed/Gk_Cl9fks20',
-    thumbnail_url: ytThumb('Gk_Cl9fks20'),
+    thumbnail_url: ytThumb('Gk_Cl9fks20', 'maxres'),
     featured: true,
   },
   {
@@ -137,7 +140,7 @@ export const SONGS: Song[] = [
     language: 'sanskrit',
     youtube_url: 'https://youtu.be/JfRyM9vEOWg',
     video_embed_url: 'https://www.youtube.com/embed/JfRyM9vEOWg',
-    thumbnail_url: ytThumb('JfRyM9vEOWg'),
+    thumbnail_url: ytThumb('JfRyM9vEOWg', 'maxres'),
     featured: true,
   },
   {
@@ -165,7 +168,7 @@ export const SONGS: Song[] = [
     language: 'tamil',
     youtube_url: 'https://youtu.be/2-azyFgLFSA',
     video_embed_url: 'https://www.youtube.com/embed/2-azyFgLFSA',
-    thumbnail_url: ytThumb('2-azyFgLFSA'),
+    thumbnail_url: ytThumb('2-azyFgLFSA', 'maxres'),
     featured: false,
   },
 ]
