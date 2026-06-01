@@ -21,8 +21,8 @@ export interface Song {
 }
 
 export const GENRE_LABELS: Record<Genre, string> = {
-  spiritual: 'Spiritual',
   filmy: 'Filmy',
+  spiritual: 'Spiritual',
   semi_classical: 'Semi Classical / Ghazals',
 }
 

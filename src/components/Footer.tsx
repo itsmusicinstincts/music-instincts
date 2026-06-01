@@ -21,8 +21,8 @@ export default function Footer() {
             <ul className="space-y-2 text-sm">
               {[
                 { label: 'All Compositions', href: '/library' },
-                { label: 'Spiritual', href: '/spiritual' },
                 { label: 'Filmy', href: '/filmy' },
+                { label: 'Spiritual', href: '/spiritual' },
                 { label: 'Semi Classical', href: '/semi_classical' },
                 { label: 'Search Lyrics', href: '/search' },
               ].map((link) => (

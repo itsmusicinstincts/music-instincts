@@ -7,8 +7,8 @@ import { useState } from 'react'
 
 const NAV = [
   { label: 'Library', href: '/library' },
-  { label: 'Spiritual', href: '/spiritual' },
   { label: 'Filmy', href: '/filmy' },
+  { label: 'Spiritual', href: '/spiritual' },
   { label: 'Semi Classical', href: '/semi_classical' },
 ]
 
