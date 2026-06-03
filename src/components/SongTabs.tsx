@@ -2,8 +2,9 @@
 
 import { useState } from 'react'
 import Link from 'next/link'
-import { Film, AlignLeft, Layers, ExternalLink } from 'lucide-react'
+import { Film, AlignLeft, Layers, ExternalLink, Hash } from 'lucide-react'
 import type { Song, Lyric } from '@/lib/data'
+import { MOOD_TAGS } from '@/lib/data'
 import VideoEmbed from './VideoEmbed'
 import StreamingButtons from './StreamingButtons'
 import SongCard from './SongCard'
@@ -98,11 +99,37 @@ export default function SongTabs({ song, lyrics, otherVersions, initialTab = 'vi
         <div>
           {lyrics ? (
             <div>
-              {lyrics.author_name && (
-                <p className="text-xs text-text-muted mb-4">
-                  Lyrics by <span className="text-text-secondary font-medium">{lyrics.author_name}</span>
-                </p>
-              )}
+              <div className="flex items-center justify-between mb-4 flex-wrap gap-3">
+                {lyrics.author_name && (
+                  <p className="text-xs text-text-muted">
+                    Lyrics by <span className="text-text-secondary font-medium">{lyrics.author_name}</span>
+                    {lyrics.version_name && (
+                      <span className="ml-2 px-1.5 py-0.5 rounded-full text-[10px] bg-accent-yellow/10 text-accent-yellow/80 border border-accent-yellow/20">
+                        {lyrics.version_name}
+                      </span>
+                    )}
+                  </p>
+                )}
+                {/* Mood hashtags */}
+                {(lyrics.mood_tags ?? []).length > 0 && (
+                  <div className="flex flex-wrap gap-1.5 items-center">
+                    <Hash size={11} className="text-text-muted" />
+                    {(lyrics.mood_tags ?? []).map(tag => {
+                      const mood = MOOD_TAGS.find(m => m.id === tag)
+                      return (
+                        <span key={tag}
+                          className="text-[11px] px-2 py-0.5 rounded-full border font-medium"
+                          style={mood ? { color: mood.color, borderColor: `${mood.color}40`, background: mood.bg } : {
+                            color: 'var(--text-muted)', borderColor: 'var(--border-subtle)', background: 'transparent'
+                          }}
+                        >
+                          #{tag}
+                        </span>
+                      )
+                    })}
+                  </div>
+                )}
+              </div>
               <div className="bg-bg-elevated border border-border-subtle rounded-2xl p-6 md:p-8">
                 <pre className="text-sm text-text-secondary font-sans whitespace-pre-wrap leading-loose tracking-wide">
                   {lyrics.content}
@@ -123,10 +150,10 @@ export default function SongTabs({ song, lyrics, otherVersions, initialTab = 'vi
                 Are you the lyricist for this composition? Log in to the portal and contribute your lyrics.
               </p>
               <Link
-                href={`/portal/lyrics/new?songId=${song.id}&songTitle=${encodeURIComponent(song.title)}`}
+                href={`/portal/lyrics/write?songId=${song.id}`}
                 className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full bg-accent-yellow text-bg-primary font-semibold text-sm hover:opacity-90 transition-opacity"
               >
-                Add Lyrics via Portal
+                Write Lyrics via Portal
                 <ExternalLink size={14} />
               </Link>
             </div>

@@ -46,7 +46,12 @@ function mapLyricRow(row: Record<string, unknown>): Lyric {
     lyricist_id: row.lyricist_id as string | undefined,
     agreed_to_showcase: (row.agreed_to_showcase as boolean) ?? false,
     status: (row.status as Lyric['status']) ?? 'draft',
+    mood_tags: (row.mood_tags as string[]) ?? [],
+    lyric_group_id: row.lyric_group_id as string | undefined,
+    version_name: row.version_name as string | undefined,
+    version_number: row.version_number as number | undefined,
     created_at: row.created_at as string | undefined,
+    updated_at: row.updated_at as string | undefined,
   }
 }
 
@@ -153,9 +158,45 @@ export async function getAllLyrics(): Promise<Lyric[]> {
   return data.map(mapLyricRow)
 }
 
-export async function createLyric(lyric: Omit<Lyric, 'id' | 'created_at'>): Promise<Lyric | null> {
+export async function createLyric(lyric: Omit<Lyric, 'id' | 'created_at' | 'updated_at'>): Promise<Lyric | null> {
   if (!supabase) return null
   const { data, error } = await supabase.from('lyrics').insert([lyric]).select().single()
+  if (error || !data) return null
+  const mapped = mapLyricRow(data)
+  // First version: set lyric_group_id = own id
+  if (!mapped.lyric_group_id) {
+    await supabase.from('lyrics').update({ lyric_group_id: mapped.id }).eq('id', mapped.id)
+    mapped.lyric_group_id = mapped.id
+  }
+  return mapped
+}
+
+export async function updateLyric(lyricId: string, updates: Partial<Omit<Lyric, 'id' | 'created_at'>>): Promise<Lyric | null> {
+  if (!supabase) return null
+  const { data, error } = await supabase.from('lyrics').update(updates).eq('id', lyricId).select().single()
+  if (error || !data) return null
+  return mapLyricRow(data)
+}
+
+export async function getLyricById(lyricId: string): Promise<Lyric | null> {
+  if (!supabase) return null
+  const { data, error } = await supabase.from('lyrics').select('*').eq('id', lyricId).single()
+  if (error || !data) return null
+  return mapLyricRow(data)
+}
+
+export async function getVersionsForLyric(lyricGroupId: string): Promise<Lyric[]> {
+  if (!supabase) return []
+  const { data, error } = await supabase
+    .from('lyrics').select('*').eq('lyric_group_id', lyricGroupId)
+    .order('version_number', { ascending: true })
+  if (error || !data) return []
+  return data.map(mapLyricRow)
+}
+
+export async function createLyricVersion(lyricGroupId: string, lyric: Omit<Lyric, 'id' | 'created_at' | 'updated_at' | 'lyric_group_id'>): Promise<Lyric | null> {
+  if (!supabase) return null
+  const { data, error } = await supabase.from('lyrics').insert([{ ...lyric, lyric_group_id: lyricGroupId }]).select().single()
   if (error || !data) return null
   return mapLyricRow(data)
 }

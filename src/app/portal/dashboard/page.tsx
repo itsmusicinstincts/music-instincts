@@ -44,9 +44,9 @@ export default function PortalDashboard() {
             className="p-2 rounded-lg text-text-muted hover:text-text-secondary hover:bg-bg-elevated transition-colors disabled:opacity-50">
             <RefreshCw size={16} className={refreshing ? 'animate-spin' : ''} />
           </button>
-          <Link href="/portal/lyrics/new"
+          <Link href="/portal/lyrics/write"
             className="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-accent-yellow text-bg-primary text-sm font-semibold hover:opacity-90 transition-opacity">
-            <PenLine size={14} /> Add Lyrics
+            <PenLine size={14} /> Write Lyrics
           </Link>
         </div>
       </div>
@@ -139,10 +139,12 @@ function SongRow({ song }: { song: SongWithLyric }) {
           <ExternalLink size={13} />
         </Link>
         <Link
-          href={`/portal/lyrics/new?songId=${song.id}&songTitle=${encodeURIComponent(song.title)}`}
+          href={song.lyric_id
+            ? `/portal/lyrics/write?lyricId=${song.lyric_id}&songId=${song.id}`
+            : `/portal/lyrics/write?songId=${song.id}`}
           className="inline-flex items-center gap-1 text-xs px-3 py-1.5 rounded-lg bg-bg-elevated border border-border-subtle text-text-secondary hover:text-text-primary hover:border-accent-yellow/30 transition-colors"
         >
-          <PenLine size={11} /> {hasLyric ? 'Edit' : 'Add'}
+          <PenLine size={11} /> {hasLyric ? 'Edit' : 'Write'}
         </Link>
       </div>
     </div>

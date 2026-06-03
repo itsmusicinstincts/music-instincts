@@ -62,9 +62,9 @@ export default function PortalLayout({ children }: { children: React.ReactNode }
               className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-medium transition-colors ${pathname === '/portal/dashboard' ? 'text-accent-yellow bg-accent-yellow/10' : 'text-text-muted hover:text-text-secondary hover:bg-bg-elevated'}`}>
               <LayoutDashboard size={13} /> Dashboard
             </Link>
-            <Link href="/portal/lyrics/new"
+            <Link href="/portal/lyrics/write"
               className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-medium transition-colors ${pathname.startsWith('/portal/lyrics') ? 'text-accent-yellow bg-accent-yellow/10' : 'text-text-muted hover:text-text-secondary hover:bg-bg-elevated'}`}>
-              <PenLine size={13} /> Add Lyrics
+              <PenLine size={13} /> Write Lyrics
             </Link>
             <div className="w-px h-4 bg-border-subtle mx-1" />
             {email && <span className="text-xs text-text-muted hidden sm:block">{email}</span>}

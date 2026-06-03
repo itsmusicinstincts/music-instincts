@@ -11,8 +11,93 @@ export interface Lyric {
   lyricist_id?: string
   agreed_to_showcase: boolean
   status: 'draft' | 'pending_review' | 'approved' | 'rejected'
+  // mood / genre tags — stored as array, displayed as #hashtags
+  mood_tags?: string[]
+  // versioning — all versions of the same lyric share a lyric_group_id
+  lyric_group_id?: string
+  version_name?: string   // e.g. "Draft 1", "Final", "Hindi Version"
+  version_number?: number
   created_at?: string
+  updated_at?: string
 }
+
+// ─── Mood tag definitions ─────────────────────────────────────────────────────
+
+export interface MoodTag {
+  id: string
+  label: string
+  color: string          // accent hex (for dynamic styling)
+  bg: string             // translucent fill
+  prompt: string         // writing-pad placeholder guidance
+  inspiration: string    // example couplet shown in the pad
+}
+
+export const MOOD_TAGS: MoodTag[] = [
+  {
+    id: 'romantic',
+    label: 'Romantic',
+    color: '#d4617a',
+    bg: 'rgba(212,97,122,0.12)',
+    prompt: 'Weave love, longing, and tender feelings into every line…',
+    inspiration: '"Tere bina zindagi se koi shikwa to nahin, tere bina zindagi bhi lekin zindagi to nahin"',
+  },
+  {
+    id: 'sad',
+    label: 'Sad',
+    color: '#5b8db8',
+    bg: 'rgba(91,141,184,0.12)',
+    prompt: 'Give voice to grief, loss, and the things left unsaid…',
+    inspiration: '"Dil hi to hai, na sang-o-khisht, dard se bhar na aaye kyun"',
+  },
+  {
+    id: 'happy',
+    label: 'Happy',
+    color: '#c49b0a',
+    bg: 'rgba(196,155,10,0.12)',
+    prompt: 'Celebrate joy, laughter, and all the bright moments…',
+    inspiration: '"Aaj mere yaar ki shaadi hai, dil mein ujaala aaya hai"',
+  },
+  {
+    id: 'uplifting',
+    label: 'Uplifting',
+    color: '#4a9b5f',
+    bg: 'rgba(74,155,95,0.12)',
+    prompt: 'Inspire with hope, courage, and the strength to rise again…',
+    inspiration: '"Kar har maidan fateh, jo bhi ho mushkil raah"',
+  },
+  {
+    id: 'sufi',
+    label: 'Sufi',
+    color: '#8b5bbf',
+    bg: 'rgba(139,91,191,0.12)',
+    prompt: 'Explore divine love, mysticism, and the longing of the soul…',
+    inspiration: '"Maula mere maula, dil ka diya jalao — is andheri raat mein"',
+  },
+  {
+    id: 'fast',
+    label: 'Fast',
+    color: '#c06030',
+    bg: 'rgba(192,96,48,0.12)',
+    prompt: 'Punchy, rapid-fire lines — every word earns its place…',
+    inspiration: '"Bhaag bhaag DK Bose, DK Bose, DK Bose"',
+  },
+  {
+    id: 'dance',
+    label: 'Dance',
+    color: '#b0306a',
+    bg: 'rgba(176,48,106,0.12)',
+    prompt: 'Rhythmic, energetic words made for movement and celebration…',
+    inspiration: '"Tune maari entriyaan, dil mein baji ghantiyaan"',
+  },
+  {
+    id: 'rain',
+    label: 'Rain',
+    color: '#3a7aaa',
+    bg: 'rgba(58,122,170,0.12)',
+    prompt: 'Capture the romance and melancholy of rainfall…',
+    inspiration: '"Rimjhim gire saawan, sulag sulag jaaye man"',
+  },
+]
 
 export interface Song {
   id: string
