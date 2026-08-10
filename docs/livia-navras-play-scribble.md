@@ -45,25 +45,26 @@ An AI in a Pasir Ris condo, **Livia**, tries to learn human emotion through the 
 
 ## Visual emotion system (see also design section below)
 
-- Livia starts **almost blank** (cool / grey / incomplete face).
-- After each rasa, **one colour + one face fragment** locks onto Livia.
-- Finale: all **9 colours / 9 face parts** complete — then Karma reveals the gap.
+- Livia starts with a **blank / grey mega-emoticon outline** (empty shell).
+- After each rasa, **one small emoticon** for that emotion flies in and **slots inside** the big face.
+- Finale: the **big emoticon is full** — all 9 mini-emoticons living inside one giant expression.
+- Twist: the big face still smiles, but the **mini-emoticons freeze / grey out / stop bouncing** — faces without karma.
 
-| # | Rasa (emotion) | Colour (draft) | Face fragment idea | Style / ladies | Condo / stage idea |
+| # | Rasa (emotion) | Colour (draft) | Mini-emoticon idea | Style / ladies | Condo / stage idea |
 |---|----------------|----------------|--------------------|----------------|--------------------|
-| 1 | Shringara — love / attraction | Soft rose / pink | Soft eyes or smile curve | | |
-| 2 | Hasya — laughter | Bright yellow / gold | Laughing mouth / cheeks | Qawwali laughter riots | |
-| 3 | Karuna — sorrow | Deep blue | Tear / downturned eyes | | |
-| 4 | Raudra — anger | Hot red / crimson | Furrowed brow / glare | Classical fierce mudras → **Durandhar-style mystic rage** condo parody | Parking / parcel / BBQ epic rage |
-| 5 | Veera — courage | Saffron / orange | Chin up / strong jaw | | |
-| 6 | Bhayanaka — fear | Purple / violet | Wide eyes | | |
-| 7 | Bibhatsa — disgust | Green / olive | Nose wrinkle | | |
-| 8 | Adbhuta — wonder | Cyan / silver | Open awe | | |
-| 9 | Shanta — peace | White / soft gold | Calm closed lids / soft face | | |
+| 1 | Shringara — love / attraction | Soft rose / pink | 😍 or soft heart-eyes | | |
+| 2 | Hasya — laughter | Bright yellow / gold | 😂 laughing tears | Qawwali laughter riots | |
+| 3 | Karuna — sorrow | Deep blue | 😢 tearful | | |
+| 4 | Raudra — anger | Hot red / crimson | 😡 / 🤬 glare | Classical fierce mudras → **Durandhar-style mystic rage** condo parody | Parking / parcel / BBQ epic rage |
+| 5 | Veera — courage | Saffron / orange | 💪 / 😎 brave smirk | | |
+| 6 | Bhayanaka — fear | Purple / violet | 😨 wide eyes | | |
+| 7 | Bibhatsa — disgust | Green / olive | 🤢 / 😖 wrinkle | | |
+| 8 | Adbhuta — wonder | Cyan / silver | 🤩 / 😮 awe | | |
+| 9 | Shanta — peace | White / soft gold | 😌 calm | | |
 
-*(Colours are drafts — change freely in YOUR NOTES.)*
+*(Colours & emoji choices are drafts — change freely in YOUR NOTES.)*
 
-**YOUR NOTES — colours / faces**
+**YOUR NOTES — emoticons / colours**
 
 ```
 (type here)
@@ -330,12 +331,13 @@ An AI in a Pasir Ris condo, **Livia**, tries to learn human emotion through the 
 **Base silhouette (pick and lock early):**
 - Slightly humanoid / soft android — friendly, not scary.
 - Condo-local: something that could “live” in Pasir Ris (balcony light, lift lobby, void deck vibe in B-roll).
-- Face starts **incomplete**: outline or wireframe + one soft eye, or a blank mask with faint circuit lines.
+- Face starts **incomplete**: soft blank face + a large empty **mega-emoticon outline** beside/behind Livia (no mini-emoticons yet).
 
 **Consistent rules for every Livia shot:**
 - Same face proportions, same “glow” colour for body (e.g. cool silver-blue).
 - Same walk / head-tilt habit (comic: tilt when confused).
 - Same UI overlay language (small text: `SCANNING…` `EMOTION?` `LOGGED`).
+- Same **mega-emoticon shell** design every time — only the mini-emoticons inside change.
 - Same frame treatment: mild digital grain or soft HUD corners — **always**, so audience knows “this is Livia-cam / Livia-world.”
 
 **Voice / narration comic habits (optional):**
@@ -379,41 +381,40 @@ An AI in a Pasir Ris condo, **Livia**, tries to learn human emotion through the 
 
 **Stage + screen sync:**
 - Live ladies do mudras → screen flashes rasa name + colour.
-- Unlock moment: freeze or soft light change on stage → Livia face gains one piece on screen.
-- Finale: screen goes full nine-ring / full face; stage is colourful chaos.
+- Unlock moment: freeze or soft light change on stage → mini-emoticon flies into Livia’s mega-emoticon on screen.
+- Finale: mega-emoticon full with all 9 bouncing inside; stage is colourful chaos.
 
 ---
 
 ## 4) Creative emotion build-up (recommended system)
 
-### Option chosen for this draft: **“Nine Colour Ring + Face Mosaic”**
+### Option chosen for this draft: **“Mega-Emoticon + 9 Mini-Emoticons Inside”**
 
 **How it works:**
-1. Around Livia: an empty **ring of 9 slots** (or lotus with 9 petals).
-2. Each rasa fills **one petal/slot** with its colour.
-3. At the same time, Livia’s face is a **mosaic of 9 tiles** (eyes, brows, cheeks, mouth, etc.) — each rasa fills one tile with the matching expression fragment.
-4. Audience always sees **progress** (3/9, 6/9…).
-5. Finale: ring complete + full expressive face.
-6. Twist: face stays complete, but the **ring goes hollow / stops pulsing** — “faces without karma.” Or a small empty circle at the heart stays dark while the face smiles. *(Pick one and stick to it.)*
+1. Beside / behind Livia: a large **empty emoticon outline** (soft grey circle face — the “shell”).
+2. Each rasa unlocks a **mini-emoticon** (colour + expression) that **flies in and nests inside** the big shell.
+3. Layout idea: 3×3 grid inside the big face, or orbit then settle into fixed slots.
+4. Audience always sees **progress** (3/9, 6/9…) — comic and readable from the hall.
+5. Finale: big emoticon **completes** — maybe its outer expression becomes a “wow / all emotions” face, while all 9 minis bounce inside.
+6. Twist: outer face still looks complete, but **minis freeze, desaturate, or stop bouncing** — “you collected the faces; you don’t have karma.”
 
 **Why this is strong:**
-- Readable from the back of a hall.
-- Comic (“Missing: anger. Please insert red.”).
-- Many performers still shine live; video only *tracks* the learning.
+- Instantly readable (emoji language everyone knows).
+- Comic by nature — fits whole-play humour.
+- Easy motion graphics even if AI video drifts (CapCut / After Effects overlays).
+- Finale image is iconic: one big face full of nine feelings.
 
-**Alternatives (if you prefer later):**
-- Nine small faces orbiting Livia (emoji-like, more kids-friendly).
-- Nine LED wristbands on a live Livia actor lighting up one by one.
-- Nine scarves / dupattas Livia “collects” on a mannequin beside the screen.
+**Staging tip:** Live mudras play; screen shows mini-emoticon “catch” into the mega face after each rasa.
 
 ---
 
 ## 5) Consistency checklist (print this)
 
-- [ ] Livia face proportions never change — only completeness
+- [ ] Livia face proportions never change — only emoticon inventory
 - [ ] Karma arrival sound + look never change
-- [ ] Each rasa colour locked before costume shopping
-- [ ] Unlock animation is the **same** every time (1–2 seconds)
+- [ ] Each rasa mini-emoticon + colour locked before design
+- [ ] Unlock animation is the **same** every time (mini flies into mega shell, 1–2 seconds)
+- [ ] Mega-emoticon shell shape never changes
 - [ ] HUD font / language style same in all videos
 - [ ] Condo B-roll graded the same (one LUT / filter)
 - [ ] Comedy first: every “epic” shot needs a human/petty punchline nearby
@@ -425,6 +426,7 @@ An AI in a Pasir Ris condo, **Livia**, tries to learn human emotion through the 
 | Date | What changed |
 |------|----------------|
 | (start) | First scribble + visual system |
+| later | Switched emotion HUD from petals/mosaic to **mega-emoticon + 9 minis** |
 
 **YOUR NOTES — open questions**
 
