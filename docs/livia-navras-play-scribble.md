@@ -9,7 +9,9 @@
 
 ## Logline (1 sentence)
 
-An AI in a Pasir Ris condo, **Livia**, tries to learn human emotion through the nine Navras with help from playful trickster **Karma** — and discovers that copying faces is not the same as having karma.
+**Karma Dev**, overwhelmed by humanity's growing karma load, has scientist **AKV** build an AI, **Maya**, to help — but Maya doesn't understand emotion, so Karma Dev teaches her the nine Navras by using a real human story (best friends **Karan** and **Arjun**, whose sports sponsorship dream tests their friendship through every rasa) as the classroom — and Maya discovers that copying faces is not the same as having karma.
+
+> **Status (latest):** the full scene-by-scene sequence now lives on the Miro board as the **main reference** — a "Story Board" doc plus a "Step-by-Step Kanban" (44 cards). The **Running order** section below has been synced from there. Treat Miro as the source of truth for sequence/beats; sync any further edits back into this file on request.
 
 ---
 
@@ -18,11 +20,11 @@ An AI in a Pasir Ris condo, **Livia**, tries to learn human emotion through the 
 | Rule | Notes |
 |------|--------|
 | Tone | Comic end-to-end; sincere under the jokes |
-| Hero / guide | Livia (student) + Karma (playful trickster, mythic) |
-| Structure | 9 rasas; many ladies / styles get turns |
-| Instant karma | Small action → fast comic echo inside scenes |
+| Hero / guide | Maya (AI student) + Karma Dev (playful trickster, mythic Chief Accountant) |
+| Structure | 9 rasas, taught through Karan & Arjun's story; many performers get turns |
+| Instant karma | Small action → fast comic echo inside scenes ("Jaisi Karni, Waisi Bharni") |
 | Languages | Regional scolds / colour (*Ada karma!* etc.) welcome |
-| Ending | Livia can mimic; humans are *moved* by karma — AI is not |
+| Ending | Maya can mimic; humans are *moved* by karma, and choose which side (Shanti vs Rakshash) they lean into — AI does neither |
 
 ---
 
@@ -30,10 +32,17 @@ An AI in a Pasir Ris condo, **Livia**, tries to learn human emotion through the 
 
 | Role | Who / vibe | Performer(s) |
 |------|------------|--------------|
-| Livia | AI, earnest, slightly wrong | Video / on-stage actor / both |
-| Karma | Mythic trickster | Video + stage presence |
-| Rasa intro ladies | Different classical styles per rasa | Many — rotate |
-| Condo people | Pasir Ris neighbours | Ensemble |
+| Maya | AI, earnest, slightly wrong, learns emotion scene by scene | Video / on-stage actor / both |
+| Karma Dev | Mythic trickster, Chief Accountant of karma, the teacher | Video + stage presence |
+| Audit Devi | Keeps the cosmic ledger; deadpan comic relief | — |
+| Kool | Positive-karma field agent, can take any human form | — |
+| PratiKool | Negative-karma field agent, instigates the story's conflict | — |
+| AKV | Scientist who builds Maya | — |
+| Karan | Co-lead of the human story; talented, easily distracted | — |
+| Arjun | Karan's best friend; feels sidelined, manipulated into sabotage | — |
+| Naina | Catalyst for Shringar within Karan's story | — |
+| Coach Satak Lee | Trains Karan & Arjun; comic entrance song ("Aata Maji Satak Li") | — |
+| Ensemble | Sponsor's world, Bhayanak Ras's 9 Devis, dancers/singers | Many — rotate |
 
 **YOUR NOTES — casting**
 
@@ -72,227 +81,94 @@ An AI in a Pasir Ris condo, **Livia**, tries to learn human emotion through the 
 
 ---
 
-## Running order (skeleton)
+## Running order (synced from Miro "Step-by-Step Kanban", 44 steps)
 
-### PREFACE — Condo / Livia discovers humans
+> Each step below has placeholders for **Characters** and **Music** — same placeholders as the Miro cards. Fill in either place; tell the agent to sync and it'll reconcile both directions.
 
-**Aim:** Livia watches Pasir Ris humans; comic confusion about emoting.  
-**Video:** Condo life, people laughing / arguing / hugging — Livia “scanning.”  
-**Stage:** Optional live walkers past a screen.
+### SETUP / INTRO — Why Maya exists
 
-**YOUR NOTES — Scene / Preface**
+1. **Karma Dev's Intro** — Karma Dev introduces himself, Audit Devi, Kool & PratiKool (can take any human form); overwhelmed by growing population & karma load, they approach AKV to build an AI. · Characters: ________ · Music: ________
+2. **AKV's Creation Video** — AKV switches Maya on; she's brilliant, empty — "Emotions: not found." (Soft workshop underscore.) · Characters: ________ · Music: ________
+3. **AI Training Montage** — Maya learns handshakes, jumps, dance, talk — mechanically, comically. · Characters: ________ · Music: ________
+4. **Maya Watches Kids Play** — she's confused by their laughter and games. · Characters: ________ · Music: ________
+5. **Audit Devi's Complaint** — she flags that Maya can't understand emotions and is bound to make mistakes. · Characters: ________ · Music: ________
+6. **Karma Proposes the Navras** — Karma suggests teaching Maya the Navras (Bharat Muni) — the world isn't just algorithms, it's hope, prayers, blessings. · Characters: ________ · Music: ________
+7. **Introducing the Livia Team** — Karma pitches finding what the team "wants" and giving it to them as their first life experience, per their karma count. · Characters: ________ · Music: ________
+8. **Karan & Arjun Spotted** — friendship intro. ("Ye Bandhan Toh Pyaar Ka Bandhan Hai.") · Characters: ________ · Music: ________
+9. **The Sponsorship Challenge** — a cycle/sportswear sponsor offers Karan & Arjun a Triathlon challenge for life sponsorship; Kool enters; they meet Coach Satak Lee ("Aata Maji Satak Li"). Condition: care for the cycle AND finish top 2. · Characters: ________ · Music: ________
+10. **Training Begins** — they take the cycle to train under Coach Satak Lee. · Characters: ________ · Music: ________
+11. **Explaining the Stakes** — Karan & Arjun tell the coach why this matters; friends celebrate; Kool plays "Yeh Bandhan Toh Pyaar Ka Bandhan Hai." · Characters: ________ · Music: ________
+12. **"All Is Well" Montage (Video)** — short happy montage. · Characters: ________ · Music: ________
+13. **Karma's Aside: Achieving Isn't Easy** — Karma congratulates the AI's start, warns that achieving a goal is never easy. *[Needs staging expansion.]* · Characters: ________ · Music: ________
+14. **Basketball vs Girls' Team** — Naina enters, boys tease Karan ("tere naina..."), he's distracted — "Yeh Ladka Hai Deewana." Arjun feels sidelined. · Characters: ________ · Music: ________
+15. **The Fork** — PratiKool instigates Arjun's jealousy; Kool nudges Karan toward Naina (KKHH sting → Main Hoon Na). · Characters: ________ · Music: ________
+18. **Kool Pitches a Party to Coach** — sees a drift in the team, suggests a party to re-motivate them. · Characters: ________ · Music: ________
+28. **Karma & Audit Devi's Commentary** — reflecting on how negative emotion turns a life — "Jaisi Karni, Waisi Bharni." · Characters: ________ · Music: ________
+34. **Karma's Transition to Bhayanak** — "there's more to learn... two spectrums, negative and positive... you'll have to go back before humans even evolved." · Characters: ________ · Music: ________
 
-```
-(type here)
-```
+### SHRINGAR (LOVE)
 
-**Draft beat (editable):**
-1. Quiet condo morning / evening.
-2. Livia observes mismatched human signals (smile + tears, anger over small things).
-3. Livia tries to copy → fails comedically.
-4. Livia tries prayer “like humans.”
+16. **Karma's First Shringar Lesson (Video)** — Karma's first Shringar introduction to the AI begins here. · Characters: ________ · Music: ________
+17. **Shringar: Karan & Naina** — their spark ("Tumhe Jo Maine Dekha"). · Characters: ________ · Music: ________
 
----
+### HASYA (LAUGHTER)
 
-### INVOCATION — Karma appears
+19. **Karma Introduces Hasya Ras** — Heaven-set stage scene: Kool & PratiKool crack bad jokes (a "don't laugh" challenge) — only Audit Devi & Karma laugh; Maya gives horrible emoticons. Kool to PratiKool: "AI mein tera influence zyaada lag raha hai." · Characters: ________ · Music: ________
+20. **Hasya: The Qawwali Party** — joyful chaos; Kool awards bonus points, PratiKool docks them. · Characters: ________ · Music: ________
+21. **Songs & Dances on Stage** — *[placeholder, to be expanded with specific numbers]*. · Characters: ________ · Music: ________
 
-**Aim:** Mythic Karma explains Navras lightly; assigns Livia to *watch and learn*.  
-**Tone:** Trickster, not sermon. Hook song can sting in here later.
+### BIBHATSA (DISGUST)
 
-**YOUR NOTES — Scene / Invocation**
+22. **Jealousy Surfaces** — staged live, continues on screen as the song sequence finishes. · Characters: ________ · Music: ________
+23. **Bibhatsa: Arjun Plots Karan's Disqualification** — Arjun schemes to get Karan disqualified, wants to be sole leader, self-justifies: "I'm not distracted by girls." · Characters: ________ · Music: ________
+24. **PratiKool's Bad Ideas** — PratiKool feeds Arjun a plan; Arjun notes their morning cycling ritual: "now I will teach a lesson there itself." · Characters: ________ · Music: ________
+25. **The Sabotage (Video)** — during "Hawa Ke Saath Saath," Arjun rigs an invisible string; Karan falls, badly hurt — the cycle damaged too, unnoticed. (Karuna music starts.) · Characters: ________ · Music: ________
 
-```
-(type here)
-```
+### KARUNA (SORROW)
 
-**Draft beat (editable):**
-1. Prayer / ritual comic attempt.
-2. Karma arrives (cinematic + stage).
-3. “Nine doors. Watch. Don’t just copy.”
-4. Ladies / mudras preview? (optional short tease of all nine)
+26. **Karuna: The Accident's Aftermath** — friends rush to Karan, notice Arjun's absence; Kool suspects his guilt. Coach says he must pull Karan from the contract unless he recovers in time. · Characters: ________ · Music: ________
 
----
+### RAUDRA (ANGER)
 
-### RASA 1 — Shringara (Love)
+27. **Raudra: Friends Are Furious** — the team is furious; Karan storms out to confront and hurt Arjun (and his cycle) — Durandhar-style rage scene. *[To be built.]* · Characters: ________ · Music: ________
+29. **Coach & Kool Intervene** — they stop Karan from destroying himself and Arjun; redirect toward sportsmanship. · Characters: ________ · Music: ________
 
-**Intro:** Classical mudras / expressions — Style: ________ | Ladies: ________  
-**Main:** Dance / song / sketch: ________  
-**Livia learn:** Visual unlock — colour + face part  
-**Comic / karma wink:** ________
+### VEERA (COURAGE)
 
-**YOUR NOTES — Rasa 1**
+30. **Veera: Kool Redirects the Anger** — (Veer Ras song, background/stage.) Gym/swim/run recovery support; the team reconciles. · Characters: ________ · Music: ________
+31. **Arjun's Guilt & Isolation** — Arjun watches Karan train, feels guilty and lonely — only the coach still works with him. · Characters: ________ · Music: ________
+32. **Race Day** — Arjun rides his original gear, Karan an old one; they trade the lead until another competitor overtakes. Arjun helps Karan win despite knowing he'll lose the contract. · Characters: ________ · Music: ________
+33. **Coach's Verdict** — sportsmanship and team spirit are the real win; recommends both for sponsorship. · Characters: ________ · Music: ________
 
-```
-(type here)
-```
+### BHAYANAKA (FEAR)
 
----
+35. **Bhayanak Ras on Stage** — 9 Devis, Kaali, Shiv. · Characters: ________ · Music: ________
 
-### RASA 2 — Hasya (Laughter)
+### SHANTA (PEACE)
 
-**Intro:** Style: ________ | Ladies: ________  
-**Main:** **Qawwali-based laughter riots** on stage  
-**Livia learn:** Unlock yellow/gold + laugh fragment  
-**Comic / karma wink:** Livia laughs at wrong beat / too late / too loud
+36. **Shanti Ras** — *[placeholder, not yet detailed]*. · Characters: ________ · Music: ________
 
-**YOUR NOTES — Rasa 2**
+### ADBHUTA (WONDER) — FINALE
 
-```
-(type here)
-```
-
----
-
-### RASA 3 — Karuna (Sorrow)
-
-**Intro:** Style: ________ | Ladies: ________  
-**Main:** ________  
-**Livia learn:** Unlock blue + tear fragment  
-**Comic / karma wink:** ________
-
-**YOUR NOTES — Rasa 3**
-
-```
-(type here)
-```
+37. **Adbhuta Ras** — Karma (video): humans can choose the Bhayanak side or move toward Shanti. Maya: "I understand now that being human and managing this emotion itself is the Adbhut Ras." · Characters: ________ · Music: ________
+38. **Finale: Karma and Emote 2.0** — closing song. Note: these same rasas, unchecked, can also pull humans toward "Rakshash" level — the other side of the same coin. · Characters: ________ · Music: ________
 
 ---
 
-### RASA 4 — Raudra (Anger) ★ Durandhar-style mystic rage
+### PARKED / ALT IDEAS (not in the confirmed sequence)
 
-**Intro:** Fierce classical mudras — Style: ________ | Ladies: ________  
-**Main:** **Condo parody** — Durandhar *energy* (not film copy): epic rage over petty condo drama  
-**Possible trigger:** parking / parcel / laundry / BBQ / noise  
-**Livia learn:** Unlock red + glare fragment  
-**Comic / karma wink:** Rage boomerangs; regional *Ada karma!* etc.
+- **ALT — Veera: Condo Sports Day** — condo B-team comic sports montage.
+- **ALT — Bhayanaka: Haunted Lift Prank** — kids scare an elder, spooky-fun garba/dandiya.
+- **ALT — Bhayanaka: Hospital Wait & Kaali Vision** — Kaali/Kaal vision during a hospital wait.
+- **ALT — Karuna: Too Much World** — news montage, contemporary dance, global sorrow.
+- **ALT — Bibhatsa: Modern Draupadi** — modernized gossip-shaming story.
+- **ALT — Hasya: Ek Chatur Nar Shayari Contest** — shayari contest with dancers.
 
-**YOUR NOTES — Rasa 4 (Durandhar condo mockery)**
-
-```
-(type here — rough dialogue ideas, who plays the “hero of rage”, props)
-```
-
-**Mini outline (fill / rewrite):**
-1. Mudra intro — anger.
-2. Condo resident enters in full mystic-rage swagger.
-3. Conflict revealed as tiny (e.g. wrong parking bay).
-4. Neighbours escalate in languages / comic chorus.
-5. Instant karma punchline.
-6. Livia notes: “Anger = car park. Logged.”
-7. Colour/face unlock on Livia screen.
-
----
-
-### RASA 5 — Veera (Courage)
-
-**Intro:** Style: ________ | Ladies: ________  
-**Main:** ________  
-**Livia learn:** Unlock saffron + strong jaw  
-**Comic / karma wink:** ________
-
-**YOUR NOTES — Rasa 5**
+**YOUR NOTES — Running order**
 
 ```
-(type here)
+(type here — reorder, add missing beats, or flag anything that should change)
 ```
-
----
-
-### RASA 6 — Bhayanaka (Fear)
-
-**Intro:** Style: ________ | Ladies: ________  
-**Main:** ________  
-**Livia learn:** Unlock purple + wide eyes  
-**Comic / karma wink:** ________
-
-**YOUR NOTES — Rasa 6**
-
-```
-(type here)
-```
-
----
-
-### RASA 7 — Bibhatsa (Disgust)
-
-**Intro:** Style: ________ | Ladies: ________  
-**Main:** ________  
-**Livia learn:** Unlock green + nose wrinkle  
-**Comic / karma wink:** ________
-
-**YOUR NOTES — Rasa 7**
-
-```
-(type here)
-```
-
----
-
-### RASA 8 — Adbhuta (Wonder)
-
-**Intro:** Style: ________ | Ladies: ________  
-**Main:** ________  
-**Livia learn:** Unlock cyan/silver + awe  
-**Comic / karma wink:** ________
-
-**YOUR NOTES — Rasa 8**
-
-```
-(type here)
-```
-
----
-
-### RASA 9 — Shanta (Peace) → leads into finale
-
-**Intro:** Style: ________ | Ladies: ________  
-**Main:** Quiet / still / soft song or mudra — then opens into finale  
-**Livia learn:** Unlock white/gold + calm face → **full face complete**  
-**Comic / karma wink:** Livia thinks “I am human now”
-
-**YOUR NOTES — Rasa 9**
-
-```
-(type here)
-```
-
----
-
-### FINALE — All nine / “wow”
-
-**Aim:** One song (or medley) that flashes all nine emotions; Livia’s face/colours fully lit.  
-**Feeling:** Wonder at how humans hold everything at once.  
-**Hook song:** Karma refrain returns.
-
-**YOUR NOTES — Finale**
-
-```
-(type here — song ideas, chorus languages, who sings)
-```
-
-**Draft beat:**
-1. Ensemble finale — nine colours / mudras / short emotional flashes.
-2. Livia joins, confident, “complete.”
-3. Celebration peak.
-
----
-
-### CLOSING TWIST — Karma’s truth
-
-**Aim:** Soft comic landing, then one clear truth.  
-**Line of thought:** You can wear the nine faces. Humans *feel* because karma moves them. AI does not have that tether — that is the difference.
-
-**YOUR NOTES — Twist**
-
-```
-(type here)
-```
-
-**Draft beat:**
-1. Livia: “I can behave like humans now.”
-2. Karma (smile, not cruel): “You collected the faces. You did not collect the karma.”
-3. Livia’s colours stay — but something “empty” or unmoving shows the gap (see visual system).
-4. Optional warm coda: humans / condo / music still beautiful to watch.
 
 ---
 

@@ -1,29 +1,45 @@
-Scene,Rasa / Emotion,Characters,People Involved / Performers,On Stage or Video,Music Needed,Dancers Needed,Status
-"Intro — AKV's Creation Video","Setup / Intro","AKV (scientist), Maya (dormant AI)","AKV actor / video performer","Video","Soft workshop / ambient underscore","None","Confirmed"
-"Intro — AI Training Montage (handshake, jump, dance, talk)","Setup / Intro","Maya, AKV","Maya performer, trainer ensemble","Video","Playful training-montage score","2–4 (background ensemble)","Confirmed"
-"Intro — Maya Watches Kids Play (confusion)","Setup / Intro","Maya, LIVIA kids","Child actors, Maya performer","Both","Light curious underscore","3–5 kids","Confirmed"
-"Intro — Prayer & CAPTAIN KARMA's Entrance","Setup / Intro","Maya, Kids, Captain Karma","Captain Karma actor, kids","On Stage","Karma Hook Song sting + 'Chitragupt ki Chief Accountant' entry line","None","Confirmed"
-"Intro — Kool, PratiKool & Audit Rani Introduction","Setup / Intro","Captain Karma, Kool, PratiKool, Audit Rani, Maya","Karma, Kool, PratiKool, Audit Rani actors","On Stage","Karma Hook Song + comic audit exchange ('Sirf settlement hota hai!')","None","Confirmed"
-"Shringar — Hawa Ke Saath Saath","Shringar (Love)","Maya, Captain Karma, cyclist/dancer couples","Dancer couples, cyclists (live + video)","Both","Hawa Ke Saath Saath (+ Manwa Lage / Bole Chudiyan options)","4–8 dancers","Confirmed"
-"The Sport Seekers — Captain Karma's Transition & Title Card","Setup / Intro","Maya, Captain Karma","Captain Karma actor, title-card graphic","Both","Karma Hook Song + drum hit on title card","None","Confirmed"
-"The Sport Seekers — Coach Satak Lee's Assessment (team not ready)","Setup / Intro","Satak Lee (coach), full team","Coach actor, ensemble team","On Stage","Tense assessment underscore","Ensemble","Confirmed"
-"The Sport Seekers — Karan & Arjun: ""All Is Well"" (friendship intro)","Setup / Intro","Karan, Arjun","Karan actor, Arjun actor","On Stage","All Is Well (1 min)","None / minimal","Confirmed"
-"The Sport Seekers — Basketball vs Girls' Team: ""Yeh Ladka Hai Deewana""","Setup / Intro","Karan, Arjun, Naina, girls' team, boys' team","Ensemble (boys and girls teams)","On Stage","Yeh Ladka Hai Deewana (Kuch Kuch Hota Hai)","8–12 (two teams)","Confirmed"
-"The Sport Seekers — The Fork: Kool & PratiKool Instigate in Parallel","Setup / Intro","Arjun, Karan, Kool, PratiKool","Kool actor, PratiKool actor","Both","Karma Hook Song sting (split, two tones)","None","Confirmed"
-"The Sport Seekers — Shringar: Karan & Naina","Shringar (Love)","Karan, Naina, Kool (nudging)","Karan actor, Naina actor","Both","Kuch Kuch Hota Hai sting -> Main Hoon Na (Tumhi Se) theme","2–4","Confirmed"
-"The Sport Seekers — Kool's Party Pitch to Coach","Setup / Intro","Kool, Satak Lee (coach)","Kool actor, coach actor","On Stage","Light transition cue","None","Confirmed"
-"The Sport Seekers — Hasya: The Qawwali Party (Kool's idea, PratiKool's twist)","Hasya (Laughter)","Full team, Captain Karma (MC), Kool (bonus points), PratiKool (docks points), Audit Rani (recording)","Qawali singers, dancers, full team, scoreboard prop","On Stage","Qawali contest number(s)","6–10 dancers/singers","Confirmed"
-"The Sport Seekers — Jealousy Surfaces (staged live, continues on screen)","Bibhatsa (Disgust)","Arjun, Karan, PratiKool, team","Ensemble, video overlay","Both","Music cuts, tense sting","None","Confirmed"
-"The Sport Seekers — Bibhatsa: Arjun Plots Karan's Disqualification","Bibhatsa (Disgust)","Arjun (plotting, becomes leader), PratiKool, Karan (target), team","Arjun actor, scheming montage, teammates; Arjun self-justifies: 'not distracted by girls'","On Stage","Underhand scheming underscore","Ensemble","Confirmed"
-"The Sport Seekers — The Accident: Arjun's Sister Endangered, Karan Protects Her","Bibhatsa (Disgust)","Arjun's sister (endangered, safe), Karan (protects her, badly hurt), Arjun (horrified), team","Stunt-safe performers, child/sister actor","On Stage","Hawa Ke Saath Saath reprise, hard sting cut on the accident","2–4 (fight ensemble)","Confirmed"
-"The Sport Seekers — Raudra: Friends Are Furious","Raudra (Anger)","Full team, Karan (injured), Arjun (hiding guilt)","Ensemble","On Stage","Aggressive percussion score","2–4 (ensemble reaction)","Confirmed"
-"The Sport Seekers — Karuna: Karan's Injury (from protecting the sister), Team's Grief","Karuna (Sorrow)","Karan (injured, hero), Arjun (guilt, sister safe), team","Core cast, solo contemporary dancer","On Stage","Soft sorrow instrumental","None / minimal","Confirmed"
-"The Sport Seekers — Veera: Kool Redirects Anger into Recovery (gym, swim, run) + Hawa Ke Saath Saath reprise, Race Day","Veera (Courage)","Karan, Arjun (reconciling), Naina, team, Kool (redirects the anger), Satak Lee (coach)","Full ensemble","On Stage","Training-montage anthem + Hawa Ke Saath Saath reprise (full, earned)","6–10","Confirmed"
-"Adbhuta — Finale (all nine come together)","Adbhuta (Wonder)","Maya, Karma, all rasa casts","Full company","Both","All-nine finale song","Full company","Confirmed"
-"Shanta / Closing Twist — Karma's Truth (faces vs karma)","Shanta (Peace) / Twist","Maya, Captain Karma","Maya, Karma","On Stage","Quiet closing theme","None","Draft"
-"ALT — Veera: Condo Sports Day","Veera (Courage)","Condo B-team (uncle, guard, grandma)","Ensemble + comic sports choreography","Both","Sports anthem / training montage","Ensemble","Alt / Parked Idea"
-"ALT — Bhayanaka: Haunted Lift Prank","Bhayanaka (Fear)","Kids, elder","Kids, elder","On Stage","Spooky-fun garba/dandiya","2–4","Alt / Parked Idea"
-"ALT — Bhayanaka: Hospital Wait & Kaali Vision (parked, not currently in Sport Seekers)","Bhayanaka (Fear)","Injured person's family, Kaal (shadow), Kaali","Kaali dancer (fierce solo), shadow/puppetry performer","Both","Aigiri Nandini‑style intense score","1–3 (Kaali + ensemble)","Alt / Parked Idea"
-"ALT — Karuna: Too Much World (news montage)","Karuna (Sorrow)","Child, family, Maya","Child actor, family ensemble, contemporary dancers","Both","Original / soft contemporary (Kabira‑tone)","3–6 dancers","Alt / Parked Idea"
-"ALT — Bibhatsa: Modern Draupadi (gossip mirrored)","Bibhatsa (Disgust)","Woman (target), aunties/gossip group","Ensemble","On Stage","Ironic gossip cue","Ensemble","Alt / Parked Idea"
-"ALT — Hasya: Ek Chatur Nar Shayari Contest","Hasya (Laughter)","Captain Karma (host), contestants","Poets/comedians, dancers","On Stage","Ek Chatur Nar (remixed)","4–6 dancers","Alt / Parked Idea"
+Step #,Scene,Act / Rasa,Description,Characters,Music,Status
+1,Karma Dev's Intro,Setup / Intro,"Karma Dev introduces himself, Audit Devi, Kool & PratiKool (can take any human form); overwhelmed by growing population & karma load, they approach AKV to build an AI for fast, accurate karma operations.",TBD,TBD,Draft
+2,AKV's Creation Video,Setup / Intro,"AKV switches Maya on; she's brilliant, empty — ""Emotions: not found."" (Soft workshop underscore.)",TBD,TBD,Draft
+3,AI Training Montage,Setup / Intro,"Maya learns handshakes, jumps, dance, talk — mechanically, comically.",TBD,TBD,Draft
+4,Maya Watches Kids Play,Setup / Intro,She's confused by their laughter and games.,TBD,TBD,Draft
+5,Audit Devi's Complaint,Setup / Intro,Audit Devi flags that Maya can't understand emotions and is bound to make mistakes.,TBD,TBD,Draft
+6,Karma Proposes the Navras,Setup / Intro,"Karma suggests teaching Maya the Navras (Bharat Muni) — the world isn't just algorithms, it's hope, prayers, blessings.",TBD,TBD,Draft
+7,Introducing the Livia Team,Setup / Intro,"Karma pitches finding what the team 'wants' and giving it to them as their first life experience, based on their karma count.",TBD,TBD,Draft
+8,Karan & Arjun Spotted,Setup / Intro,Friendship intro — 'Ye Bandhan Toh Pyaar Ka Bandhan Hai.',TBD,TBD,Draft
+9,The Sponsorship Challenge,Setup / Intro,"A cycle/sportswear sponsor offers Karan & Arjun (sports fanatics) a Triathlon challenge for life sponsorship. Kool enters; they meet Coach Satak Lee ('Aata Maji Satak Li'). Condition: care for the cycle AND finish top 2, or lose the sponsorship for life.",TBD,TBD,Draft
+10,Training Begins,Setup / Intro,"They take the cycle to train under Coach Satak Lee, who will watch, coach, and guide them.",TBD,TBD,Draft
+11,Explaining the Stakes,Setup / Intro,"Karan & Arjun explain to the coach why this matters — building their whole career on it. Friends celebrate with them; Kool plays 'Yeh Bandhan Toh Pyaar Ka Bandhan Hai,' loving the vibe: 'I wish the world always stayed this way.'",TBD,TBD,Draft
+12,"""All Is Well"" Montage (Video)",Setup / Intro,Short happy montage showing how well things are going.,TBD,TBD,Draft
+13,Karma's Aside: Achieving Isn't Easy,Setup / Intro,"Karma congratulates the AI on a great start, but notes: for humans, having a goal is easy — achieving it never is. [Needs staging expansion.]",TBD,TBD,Draft
+14,Basketball vs Girls' Team,Setup / Intro,"Karan & Arjun play; Naina enters, boys tease Karan ('tere naina...'); he gets distracted — 'Yeh Ladka Hai Deewana.' Arjun feels sidelined.",TBD,TBD,Draft
+15,The Fork,Setup / Intro,PratiKool instigates Arjun's jealousy; Kool nudges Karan toward Naina (KKHH sting → Main Hoon Na).,TBD,TBD,Draft
+16,Karma's First Shringar Lesson (Video),Shringar (Love),Karma's first Shringar introduction to the AI begins here.,TBD,TBD,Draft
+17,Shringar: Karan & Naina,Shringar (Love),Their spark — 'Tumhe Jo Maine Dekha.',TBD,TBD,Draft
+18,Kool Pitches a Party to Coach,Setup / Intro,Kool sees a drift in the team and suggests a party to re-motivate them.,TBD,TBD,Draft
+19,Karma Introduces Hasya Ras,Hasya (Laughter),"In Heaven (stage): Kool & PratiKool crack bad jokes (a 'don't laugh' challenge) — only Audit Devi & Karma laugh; Maya gives horrible emoticons. Kool to PratiKool: 'AI mein tera influence zyaada lag raha hai.'",TBD,TBD,Draft
+20,Hasya: The Qawwali Party,Hasya (Laughter),"Joyful chaos; Kool awards bonus points, PratiKool docks them, for laughs.",TBD,TBD,Draft
+21,Songs & Dances on Stage,Hasya (Laughter),[Placeholder — to be expanded with specific numbers.],TBD,TBD,Draft
+22,Jealousy Surfaces,Bibhatsa (Disgust),Staged live, continues on screen as the song sequence finishes.,TBD,TBD,Draft
+23,Bibhatsa: Arjun Plots Karan's Disqualification,Bibhatsa (Disgust),"Arjun schemes to get Karan disqualified, wants to become sole leader, self-justifies: 'I'm not distracted by girls.'",TBD,TBD,Draft
+24,PratiKool's Bad Ideas,Bibhatsa (Disgust),"PratiKool feeds Arjun a list of terrible plans. Arjun notes Karan & co.'s morning cycling ritual: 'now I will teach a lesson there itself.'",TBD,TBD,Draft
+25,The Sabotage (Video),Bibhatsa (Disgust),"During 'Hawa Ke Saath Saath,' Arjun rigs an invisible string; Karan falls, badly hurt — the cycle is damaged too, unnoticed. (Karuna music starts.)",TBD,TBD,Draft
+26,Karuna: The Accident's Aftermath,Karuna (Sorrow),"Friends rush to Karan, notice Arjun's absence; Kool suspects his guilt. Coach says he must pull Karan from the contract and make Arjun the sole contender if Karan doesn't recover in time.",TBD,TBD,Draft
+27,Raudra: Friends Are Furious,Raudra (Anger),"The team is furious. Karan storms out to confront and hurt Arjun (and his cycle) — Durandhar-style rage scene. [To be built.]",TBD,TBD,Draft
+28,Karma & Audit Devi's Commentary,Setup / Intro,"They reflect on how negative emotion turns a life — 'Jaisi Karni, Waisi Bharni.' Maya asks whether to proceed; Karma: 'Roll on — it will be a sad day for them.'",TBD,TBD,Draft
+29,Coach & Kool Intervene,Raudra (Anger),"They stop Karan from destroying himself and Arjun — rules can't change, but don't let anger destroy you both. Redirect: do it for sportsmanship, if not sponsorship.",TBD,TBD,Draft
+30,Veera: Kool Redirects the Anger,Veera (Courage),"(Veer Ras song, background/stage.) Gym/swim/run recovery support; the team reconciles.",TBD,TBD,Draft
+31,Arjun's Guilt & Isolation,Veera (Courage),"Arjun watches Karan train, feels guilty and lonely — only the coach still works with him.",TBD,TBD,Draft
+32,Race Day,Veera (Courage),"Arjun rides his original gear, Karan an old one; they trade the lead repeatedly until another competitor overtakes. Arjun helps Karan win despite knowing he'll lose the contract — repentance over competition.",TBD,TBD,Draft
+33,Coach's Verdict,Veera (Courage),Declares sportsmanship and team spirit the real win over broken cycles; recommends both of them for sponsorship.,TBD,TBD,Draft
+34,Karma's Transition to Bhayanak,Setup / Intro,"'There's more to learn — two spectrums, negative and positive — you'll have to go back before humans even evolved to understand it.' Leads into Bhayanak Ras.",TBD,TBD,Draft
+35,Bhayanak Ras on Stage,Bhayanaka (Fear),"9 Devis, Kaali, Shiv.",TBD,TBD,Draft
+36,Shanti Ras,Shanta (Peace),[Placeholder — not yet detailed.],TBD,TBD,Draft
+37,Adbhuta Ras,Adbhuta (Wonder),"Karma (video): humans can choose the Bhayanak side or move toward Shanti. Maya: 'I understand now that being human and managing this emotion itself is the Adbhut Ras.'",TBD,TBD,Draft
+38,Finale: Karma and Emote 2.0,Adbhuta (Wonder),"Closing song. Note: these same rasas, unchecked, also have the potential to transform humans toward 'Rakshash' level — the other side of the same coin.",TBD,TBD,Draft
+39,ALT — Veera: Condo Sports Day,Veera (Courage),Condo B-team comic sports montage.,TBD,TBD,Alt / Parked Idea
+40,ALT — Bhayanaka: Haunted Lift Prank,Bhayanaka (Fear),"Kids scare an elder, spooky-fun garba/dandiya.",TBD,TBD,Alt / Parked Idea
+41,ALT — Bhayanaka: Hospital Wait & Kaali Vision,Bhayanaka (Fear),Kaali/Kaal vision during a hospital wait.,TBD,TBD,Alt / Parked Idea
+42,ALT — Karuna: Too Much World,Karuna (Sorrow),"News montage, contemporary dance, global sorrow.",TBD,TBD,Alt / Parked Idea
+43,ALT — Bibhatsa: Modern Draupadi,Bibhatsa (Disgust),Modernized gossip-shaming story.,TBD,TBD,Alt / Parked Idea
+44,ALT — Hasya: Ek Chatur Nar Shayari Contest,Hasya (Laughter),Shayari contest with dancers.,TBD,TBD,Alt / Parked Idea
