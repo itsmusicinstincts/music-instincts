@@ -6,7 +6,7 @@
 
 ## Logline
 
-The realm of **Karma Dev** can no longer keep up with a booming human population and its ever-growing pile of karma to account for. So Karma Dev, his ledger-keeper **Audit Devi**, and his two field agents **Kool** (positive karma) and **PratiKool** (negative karma) — who can take any human form — recruit scientist **AKV** to build an AI, **Maya**, to help process it all faster and more accurately. There's one problem: Maya doesn't understand emotion. So Karma Dev sets out to teach her the **Navras** — the nine emotions defined by the sage Bharat Muni — using a real, unfolding human story as the classroom: two best friends, **Karan** and **Arjun**, whose shot at a life-changing sports sponsorship puts their friendship through every one of the nine rasas.
+**Chitragupt**, keeper of humanity's karmic records, is so overwhelmed by the booming population that he keeps fleeing to other Loks for "holiday." So **Karma Dev** and his two field agents **Kool** (positive karma) and **PratiKool** (negative karma) — who can take any human form — go to scientist **AKV** to borrow humanity's own invention as the fix: an AI, **Maya**. There's one problem: Maya doesn't understand emotion. So Karma Dev sets out to teach her the **Navras** — the nine emotions defined by the sage Bharat Muni — using a real, unfolding human story as the classroom: two best friends, **Karan** and **Arjun**, whose shot at a life-changing sports sponsorship puts their friendship through every one of the nine rasas.
 
 ---
 
@@ -22,16 +22,20 @@ The realm of **Karma Dev** can no longer keep up with a booming human population
 
 | Character | Role |
 |---|---|
-| **Karma Dev** | The teacher — cosmic showman and "Chief Accountant" of karma. Overwhelmed by the workload, he recruits Maya, then personally teaches her the nine rasas. Terrible shayari, great comic timing. |
-| **Audit Devi** | Keeps the cosmic ledger. Flags Maya's inability to read emotion early; deadpan comic relief throughout. |
+| **Karma Dev** | The teacher — cosmic showman and "Chief Accountant" of karma. Recruits Maya to help with Chitragupt's overload, then personally teaches her the nine rasas. Terrible shayari, great comic timing. |
 | **Kool** | Karma Dev's field agent for *positive* karma — can take any human form. Nudges people toward kindness and reconciliation. |
 | **PratiKool** | Karma Dev's field agent for *negative* karma. Instigates jealousy and mischief — the engine of the story's conflict. |
-| **AKV** | The scientist recruited to build Maya. |
-| **Maya** | The AI built to help process karma faster. Brilliant, empty of emotion at first ("Emotions: not found"); learns the Navras scene by scene. |
-| **Karan** | Co-lead of the human story. Talented, easily distracted, falls for Naina. |
-| **Arjun** | Karan's best friend and training partner. Feels sidelined, is manipulated by PratiKool into sabotage — with devastating, unintended consequences. |
+| **AKV** | The scientist who built Maya. |
+| **Maya** | The AI built to help process karma faster. Brilliant, empty of emotion at first ("Emotions: not found"); also keeps the karmic ledger herself once in heaven; learns the Navras scene by scene. |
+
+*(Audit Devi has been cut from the cast — Maya now doubles as the "audit control," keeping the ledger herself. Chitragupt is mentioned but never appears — his overload is the offstage joke that kicks off the plot.)*
+| **Karan** *(played by Jiten)* | Co-lead of the human story. Talented, easily distracted, falls for Naina. |
+| **Arjun** *(played by Kalpesh)* | Karan's best friend and training partner. Feels sidelined, is manipulated by PratiKool into sabotage — with devastating, unintended consequences. |
 | **Naina** | Catalyst for the Shringar (love) rasa within Karan's story. |
+| **Nishanth** | The sponsor. Meets Karan & Arjun in his office and introduces them to Coach Satak Lee. |
 | **Coach Satak Lee** | Trains Karan & Arjun for the sponsorship Triathlon. Comic entrance song ("Aata Maji Satak Li"); the one who holds the team to sportsmanship above all. |
+| **Team A** (Karan's team) | Jiten (Karan), Bristi, Anuj, Shree's husband, Samiran, Misbah, Abhishek, Sujata, Aruna — recurs in every sports-activity scene. |
+| **Team B** (Arjun's team) | Kalpesh (Arjun), Pramod, Vandana, Ankit, Varun, Misbah, Bhavana, Priyanka, Ruchi, Venu — recurs in every sports-activity scene. Vandana praises Karan in the very first sports scene, planting Arjun's jealousy early. |
 | **The Ensemble** | Featured throughout — songs, dances, the sponsor's world, Bhayanak Ras's 9 Devis. |
 
 ---
@@ -39,50 +43,57 @@ The realm of **Karma Dev** can no longer keep up with a booming human population
 ## The Story, Beat by Beat
 
 **Setup — Why Maya Exists**
-1. Karma Dev, Audit Devi, Kool & PratiKool can't keep up with humanity's growing karma load — they recruit AKV to build an AI.
-2. **AKV's Creation Video** — Maya wakes up, brilliant and empty ("Emotions: not found").
-3. Maya trains mechanically (handshakes, dance, talk) and watches kids play, utterly confused.
-4. Audit Devi flags the problem: Maya can't read emotion, and will make mistakes because of it.
-5. Karma Dev proposes the fix: teach her the Navras directly, using a real unfolding human story — Karan and Arjun.
+1. **AKV's Creation Video** — Maya wakes up, brilliant and empty ("Emotions: not found"); trains mechanically (handshakes, dance, talk) and watches kids play, utterly confused.
+2. **Karma Dev's team arrives** — Chitragupt, overwhelmed by the population, keeps fleeing to other Loks. Karma Dev, Kool & PratiKool visit AKV to borrow his invention — an AI — to help.
+3. AKV hands Maya over, delighted his invention can help in a divine way too; Maya is thrilled — heaven is humanity's highest aspiration, and it's her very first task.
+4. One problem: AKV admits Maya doesn't understand feelings. PratiKool calls it a dealbreaker; Kool, surprisingly, agrees — but trusts Karma Dev to fix it.
+5. Karma Dev promises to teach her the Navras via Bharat Muni's Natya Shastra, and the four — Karma Dev, Kool, PratiKool, and Maya — set off for heaven together, to the title song **"Navras Se Hai Kalpana."**
+
+**Karan & Arjun Spotted**
+6. **First win, together** — we zoom down to Livia and meet Karan and Arjun for the first time at a cycling event, already winning, with every friend around them praising how well they compete and ride as a team — established as an admired duo before any conflict enters the picture.
+7. **Mock trailer, not the real scene** — Maya plays a cheesy movie-trailer cut of their friendship (freeze frames, text cards, booming narrator) set to *"Yeh Bandhan Toh Pyaar Ka Bandhan Hai."* PratiKool's fourth-wall complaint — "scene change kar, this is old Bollywood style" — now lands literally, and Maya cuts out of the trailer into the real dining-table scene, where the friends ask Arjun to help Karan meet Arjun's contacts for sponsorships — real standing for Arjun in the group, before anything goes wrong.
 
 **The Sponsorship Challenge**
-6. A cycle/sportswear sponsor offers Karan & Arjun (both sports fanatics) a life-changing deal: win the Triathlon, or lose the sponsorship for life. They're introduced to **Coach Satak Lee**.
-7. Training begins; the friends explain to the coach how much this means to their future. Kool, watching, loves the warmth of it all.
-8. Karma Dev's aside: reaching a goal is easy to imagine — achieving it never is.
+8. **Meet the sponsor, Nishanth** — Karan & Arjun meet **Nishanth** in his office; he introduces **Coach Satak Lee** and the Triathlon-for-life-sponsorship deal.
+9. **Sponsorship approved — "Woh Sikandar" [VIDEO]** — friends waiting outside; Karan thanks Arjun in front of everyone; Team A, Team B, and coach celebrate to *"Woh Sikandar Bhi Doston Ke Hain."* Kool: *"This is so my type of feeling… Over to you, Maya."* **Production:** choreographer TBD; locations SUTD, pool, tennis court, basketball court.
+
+**Rising action**
+10. Training / happy montage beats — may overlap Scene 9; confirm with team.
+11. Karma Dev's aside: reaching a goal is easy to imagine — achieving it never is.
 
 **Shringar (Love) — the fork begins**
-9. Basketball vs. the girls' team — Naina enters, Karan gets distracted (*Yeh Ladka Hai Deewana*), and Arjun starts to feel sidelined.
-10. **The Fork** — PratiKool instigates Arjun's jealousy; Kool nudges Karan toward Naina.
-11. **Shringar: Karan & Naina** — their spark (KKHH sting → *Main Hoon Na* / *Tumhe Jo Maine Dekha*).
+12. Basketball vs. the girls' team — Naina enters, Karan gets distracted (*Yeh Ladka Hai Deewana*), and Arjun starts to feel sidelined.
+13. **The Fork** — PratiKool instigates Arjun's jealousy; Kool nudges Karan toward Naina.
+14. **Shringar: Karan & Naina** — their spark (KKHH sting → *Main Hoon Na* / *Tumhe Jo Maine Dekha*).
 
 **Hasya (Laughter)**
-12. Kool pitches a team party to the coach, hoping to close the growing drift.
-13. Karma Dev introduces Hasya Ras with a "don't laugh" joke challenge among the gods themselves — Maya reacts with horrible emoticons.
-14. **The Qawwali Party** — joyful chaos, Kool awarding bonus points, PratiKool docking them, for laughs.
+15. Kool pitches a team party to the coach, hoping to close the growing drift.
+16. Karma Dev introduces Hasya Ras with a "don't laugh" joke challenge among the gods themselves — Maya reacts with horrible emoticons.
+17. **The Qawwali Party** — joyful chaos, Kool awarding bonus points, PratiKool docking them, for laughs.
 
 **Bibhatsa (Disgust) — the plot**
-15. Jealousy surfaces as the party ends.
-16. Arjun schemes to get Karan disqualified and take over as sole leader, self-justifying: "I'm not distracted by girls."
-17. PratiKool feeds him the plan: sabotage Karan during their morning training ride.
-18. **The Sabotage** — during a reprise of *Hawa Ke Saath Saath*, Arjun rigs an invisible string. Karan falls, badly hurt — and the cycle is damaged too, unnoticed.
+18. Jealousy surfaces as the party ends.
+19. Arjun schemes to get Karan disqualified and take over as sole leader, self-justifying: "I'm not distracted by girls."
+20. PratiKool feeds him the plan: sabotage Karan during their morning training ride.
+21. **The Sabotage** — during a reprise of *Hawa Ke Saath Saath*, Arjun rigs an invisible string. Karan falls, badly hurt — and the cycle is damaged too, unnoticed.
 
 **Karuna (Sorrow) & Raudra (Anger)**
-19. The team rushes to Karan; Arjun's guilty absence gives him away. The coach must pull Karan from the contract unless he recovers in time.
-20. **Friends are furious** — Karan, enraged, goes after Arjun himself, in a Durandhar-style rage beat.
-21. Karma Dev and Audit Devi watch it unfold: "Jaisi Karni, Waisi Bharni" — this is what negative emotion does to a life.
-22. Coach Satak Lee and Kool step in before Karan destroys them both: focus on sportsmanship, if not the sponsorship.
+22. The team rushes to Karan; Arjun's guilty absence gives him away. The coach must pull Karan from the contract unless he recovers in time.
+23. **Friends are furious** — Karan, enraged, goes after Arjun himself, in a Durandhar-style rage beat.
+24. Karma Dev watches it unfold: "Jaisi Karni, Waisi Bharni" — this is what negative emotion does to a life.
+25. Coach Satak Lee and Kool step in before Karan destroys them both: focus on sportsmanship, if not the sponsorship.
 
 **Veera (Courage) — the reconciliation**
-23. Kool redirects the team's anger into supporting Karan's recovery (gym, swim, run).
-24. Arjun, isolated and guilt-ridden, is the only one still training alone with the coach.
-25. **Race Day** — Arjun, riding his own gear, helps Karan win despite knowing it costs him the contract — choosing repentance and friendship over competition.
-26. The coach's verdict: sportsmanship and team spirit matter more than a broken cycle — he recommends them both for sponsorship.
+26. Kool redirects the team's anger into supporting Karan's recovery (gym, swim, run).
+27. Arjun, isolated and guilt-ridden, is the only one still training alone with the coach.
+28. **Race Day** — Arjun, the true leader, struggles on his old, damaged cycle and trips as it gives way beneath him. Karan sees this, stops, and hands over his own cycle: "You take this — finish it." Arjun finishes the race on Karan's cycle, humbled by the very friend he wronged — repentance and friendship over competition.
+29. The coach's verdict: sportsmanship and team spirit matter more than a broken cycle — he recommends them both for sponsorship.
 
 **Bhayanaka (Fear), Shanta (Peace) & Adbhuta (Wonder) — the finale**
-27. Karma Dev's transition: these same emotions have a darker spectrum too — one humanity had to survive before it even evolved. Enter **Bhayanak Ras**: 9 Devis, Kaali, Shiv.
-28. **Shanti Ras** — the calm after the storm.
-29. **Adbhuta Ras** — Karma Dev: humans can choose the Bhayanak side, or move toward Shanti. Maya: "I understand now — being human, and managing this emotion, is itself the Adbhut Ras."
-30. **Finale: "Karma and Emote 2.0"** — the closing song, with a final note: these same rasas, left unchecked, can just as easily pull a person toward their "Rakshash" side. The choice is always human.
+30. Karma Dev's transition: these same emotions have a darker spectrum too — one humanity had to survive before it even evolved. Enter **Bhayanak Ras**: 9 Devis, Kaali, Shiv.
+31. **Shanti Ras** — the calm after the storm.
+32. **Adbhuta Ras** — Karma Dev: humans can choose the Bhayanak side, or move toward Shanti. Maya: "I understand now — being human, and managing this emotion, is itself the Adbhut Ras."
+33. **Finale: "Karma and Emote 2.0"** — the closing song, with a final note: these same rasas, left unchecked, can just as easily pull a person toward their "Rakshash" side. The choice is always human.
 
 ---
 
@@ -94,4 +105,4 @@ The realm of **Karma Dev** can no longer keep up with a booming human population
 
 ---
 
-*Full step-by-step sequence (editable, main reference): the Miro "Story Board" doc + "Step-by-Step Kanban." Full script & dialogue drafts: `livia-navras-play-scribble.md`. Production tracker: `livia-navras-production-tracker.csv`.*
+*Full step-by-step sequence (editable): Miro "Story Board" doc + "Step-by-Step Kanban." **Scene flow tracker (people, locations, choreographer, status):** `livia-navras-scene-flow.md`. Full script & dialogue drafts: `livia-navras-play-scribble.md`. Production tracker: `livia-navras-production-tracker.csv`.*
