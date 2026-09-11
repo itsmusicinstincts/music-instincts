@@ -187,7 +187,9 @@ Bhavna aur kalpana ko samajhney ke liye, Bharat Muni ka Natya Ved aur Natak Shas
 
 **Choreographer:** TBD — assign (mudras + 3-song block)
 
-> **Rasa order confirmed:** Shringaar = 1st Ras (Scene 2). Haasya = 2nd Ras (Scenes 10–11). **Teaching pattern for all Ras:** Karma explains on video → mudras on stage → song block. Karan/Naina live romance arc comes later in the human story.
+> **Rasa order confirmed:** Shringaar = 1st Ras (Scene 2). Haasya = 2nd Ras — *attempted* in Scene 3 (Maya doesn't laugh yet); full Haasya beat later in Scenes 10–11. **Teaching pattern for all Ras:** Karma explains on video → mudras on stage → song block — then **pivot to story** (Scene 3) when one-by-one won't work. Karan/Naina live romance arc comes later in the human story.
+
+**→ Scene 3** — post-Shringaar bridge (Haasya attempt, story pivot, zoom to Livia) — script below after Shringar Garden production notes.
 
 ---
 
@@ -488,23 +490,73 @@ Duration: 5 seconds (trim to 2s in edit). Aspect ratio: 16:9.
 
 ---
 
-**SCENE 3 — IN HEAVEN (video)**
+**SCENE 3 — After Shringaar: Haasya Attempt → Story Pivot → Zoom to Livia [VIDEO]**
 
-*(Maya is working but confused.)*
-
-**Maya:** "The 9 Sanskrit words — I can appreciate them, but I still don't understand why and how those feelings impact human actions and their karma."
-
-**Karma:** "I've left Kool and PratiKool back on earth — they'll help you from there. Let's do on-the-job training for you. Find where these two are now — wherever they are, I can see some action happening."
-
-*(Maya rolls out her digital screen — like picture-in-picture — and zooms into Livia from Google Earth, where the two are stirring up plenty of action and drama.)*
-
-*[Needs good video footage of PratiKool trying to create some nuisance, and Kool keeping him away.]*
+> **Placement:** Immediately after Scene 2 (Shringaar mudras + song block). All heaven-side; sets up the human "Cycle movie" in Scene 4.
+>
+> **People:** Maya, Karma Dev, Kool, PratiKool (on screen / PiP as needed)
 
 ---
 
-**SCENE 4 — 1st Sports Event (Cycling) — Karan & Arjun's First Win**
+**VIDEO — post-Shringaar reaction**
 
-*(We zoom down to Livia and meet the two real characters: **Karan**, played by **Jiten**, and **Arjun**, played by **Kalpesh**. This scene introduces **Team A** (Karan's team) and **Team B** (Arjun's team) — the full ensemble that recurs through every sports-activity scene from here on. See "Team A / Team B" in the Cast section above for the full rosters.)*
+**Maya:** "It's beautiful… I kind of feel shy too…"
+
+**Karma:** "Issi Ras se duniya chalti hai… aur acha hota agar sirf ye hota… aur shaayad meri zaroorat bhi nahin hoti…"
+
+**PratiKool:** "Nahin nahin. Aap hein toh hum hein…"
+
+**Kool:** "Aur hum hein toh Entertainment…"
+
+**Karma:** "Wah… Entertainment… Chalo wahi sikhathey hein ab Maaya ko… **Haasya Ras.**"
+
+---
+
+**Haasya Ras — first attempt** *(Maya not laughing much)*
+
+*(AI is not laughing much.)*
+
+**PratiKool:** "He vichitra naari… tu toh attitude mein meri bahan lag rahi hai… koi smile nahin… koi expression nahin…"
+
+**Karma Dev:** "Iska chodo… ab sab Ras kaise samjhayein isko?"
+
+**Kool:** "Isko ek ek karkey samjha nahin sakhthey Dev…"
+
+**PratiKool:** "Haan phir Dhurandhar ki tarah lamba ho jayega…"
+
+**Kool:** "Idea… Let us pick a story and explain all within that story."
+
+**Maya:** "Cool idea, Kool Dev… I like stories too — like humans…"
+
+**Karma:** "Maaya — find a good story happening on earth…"
+
+---
+
+**Google Earth — Pasir Ris (rejected)**
+
+*(Maya zooms onto Google Earth — shows Pasir Ris.)*
+
+**BACKSHOT:** **Kalpesh** (Arjun) and **Jitin** (Karan) walking with their mother, singing **"Chanda Kab Door Gagan Se"**…
+
+**Karma:** "Nahin Maaya — this is old story… go to other terminal where there is something current in **Livia**… they all are dramebaaz… so all emotions you will find there…"
+
+---
+
+**Redirect to Livia**
+
+**Kool** *(to PratiKool):* "Chal hum Livia mein jatein hein… aur jungle mein mingle hotein hein… bahut mazaa aayega…"
+
+**PratiKool** *(negatively):* "Mazaa toh aayega" — *mujhe*…
+
+*(Cut to Livia — the human story / "Cycle movie" begins. Scene 4.)*
+
+**Kool:** __________ *(opening line TBD — user draft cut off here)*
+
+---
+
+**SCENE 4 — 1st Sports Event (Cycling) — Karan & Arjun's First Win** *(the "Cycle movie")*
+
+*(We zoom down to Livia and meet the two real characters: **Karan**, played by **Jitin**, and **Arjun**, played by **Kalpesh**. This scene introduces **Team A** (Karan's team) and **Team B** (Arjun's team) — the full ensemble that recurs through every sports-activity scene from here on. See "Team A / Team B" in the Cast section above for the full rosters.)*
 
 *(Open on a cycling event — Karan and Arjun are winning. Every friend around them is praising how well they compete and ride together, celebrating their teamwork and skill before anything else about them is established.)*
 
@@ -603,7 +655,7 @@ People involved: **Karan, Arjun, Team A, Team B, Coach Satak Lee**, friends wait
 
 ---
 
-**SCENE 10 — Karma Introduces Haasya Ras (2nd Ras) [VIDEO]**
+**SCENE 10 — Karma Introduces Haasya Ras (2nd Ras) [VIDEO]** ⚠️ *review — early Haasya attempt is now Scene 3*
 
 **Karma:** "Now you have a chance to learn the 2nd Ras: Haasya."
 

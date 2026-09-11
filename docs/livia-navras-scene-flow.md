@@ -53,23 +53,23 @@
 
 ---
 
-### Scene 3 — In Heaven: On-the-Job Training
+### Scene 3 — After Shringaar: Haasya Attempt → Story Pivot → Zoom to Livia [VIDEO]
 | Field | Detail |
 |-------|--------|
-| **Format** | Video |
-| **People** | Karma Dev, Maya; Kool, PratiKool (Earth, referenced) |
-| **Music** | — |
-| **Locations** | Karma heaven (TBD) |
-| **Status** | Draft |
-| **Notes** | Maya confused about 9 Sanskrit words. Karma sends her to track Kool & PratiKool on Earth. Maya PiP zoom to Livia. |
+| **Format** | **Video** — heaven-side bridge after Scene 2 |
+| **People** | **Maya**, **Karma Dev**, **Kool**, **PratiKool** |
+| **Music** | **"Chanda Kab Door Gagan Se"** — backshot only (Pasir Ris reject beat; Kalpesh/Arjun + Jitin/Karan with mother) |
+| **Locations** | Heaven · Google Earth zoom (Pasir Ris → redirect) · Livia terminal |
+| **Status** | Draft — **Kool opening line** for Cycle movie handoff TBD |
+| **Notes** | **Post-Shringaar:** Maya shy reaction → Karma on love running the world → Entertainment → **Haasya Ras** named but Maya doesn't laugh → one-by-one teaching won't work (Dhurandhar gag) → **story approach** decided. Maya searches Earth; **Pasir Ris backshot rejected** as "old story" → Karma sends her to **current Livia** ("sab dramebaaz"). Kool/PratiKool head to Livia jungle — PratiKool: *"Mazaa toh aayega — mujhe."* **→ Scene 4** ("Cycle movie") starts. |
 
 ---
 
-### Scene 4 — 1st Sports Event (Cycling): First Win
+### Scene 4 — 1st Sports Event (Cycling): First Win *(the "Cycle movie")*
 | Field | Detail |
 |-------|--------|
 | **Format** | Video / on-location |
-| **People** | Karan (Jiten), Arjun (Kalpesh), **Team A, Team B** |
+| **People** | Karan (Jitin), Arjun (Kalpesh), **Team A, Team B**; Kool *(opening line TBD)* |
 | **Music** | — |
 | **Locations** | Livia / cycling route (TBD) |
 | **Choreographer** | TBD |
@@ -136,15 +136,16 @@
 
 ---
 
-### Scene 10 — Karma Introduces Haasya Ras (2nd Ras) [VIDEO]
+### Scene 10 — Karma Introduces Haasya Ras (2nd Ras) [VIDEO] ⚠️ *review*
 | Field | Detail |
 |-------|--------|
 | **Format** | **Video** |
 | **People** | **Karma Dev, Maya** |
 | **Music** | **Song 2 — Haasya Ras** |
 | **Locations** | Heaven / video overlay (TBD) |
-| **Status** | Draft |
+| **Status** | Draft — **may merge/cut**; early Haasya attempt is now **Scene 3** |
 | **Dialogue** | **Karma:** *"Now you have a chance to learn the 2nd Ras: Haasya."* **Maya:** *"In between such serious situation…"* **Karma:** *"Yeh toh kuch hua hi nahin hai.. just spark hai.. lekin zindagi mein sab kuch mix mein hi milta hai.. abhi ke liye haasya ka mazaa letein hein."* **Maya:** *"Ok let me program it now.. so what's Haasya Ras?"* |
+| **Notes** | Scene 3 already names Haasya and shows Maya not laughing → story pivot. Decide if this beat repeats later in the human arc or becomes redundant. |
 
 ---
 
