@@ -40,7 +40,7 @@
 | PratiKool | Negative-karma field agent, instigates the story's conflict | — |
 | AKV | Scientist who builds Maya | — |
 | Karan | Co-lead of the human story; talented, easily distracted | **Jiten** |
-| Karan's Sister | Domestic comedy foil; worries about his job / sports obsession | **TBD** |
+| Vandana (Karan's Sister) | Domestic comedy foil; to-do lists, office-call nagging, sports vs work | **Vandana** |
 | Arjun | Karan's best friend; feels sidelined, manipulated into sabotage | **Kalpesh** |
 | Naina | Catalyst for Shringar within Karan's story | — |
 | Nishanth | The sponsor; meets Karan & Arjun in his office, introduces them to Coach Satak Lee | — |
@@ -72,6 +72,7 @@
 | Performer | Notes |
 |---|---|
 | Kalpesh | Plays **Arjun**, team lead |
+| Vandana | Also plays **Karan's Sister** (Scene 4 home beat) |
 | Pramod | |
 | Ankit | |
 | Varun | |
@@ -552,27 +553,27 @@ Duration: 5 seconds (trim to 2s in edit). Aspect ratio: 16:9.
 
 ---
 
-**SCENE 4 — Cycle Movie Scene 1: "Spy" Escape [VIDEO]**
+**SCENE 4 — Cycle Movie: "Spy" Escape + Gym Race [VIDEO]**
 
-> **Format:** Video — Bollywood-style mini-movie opening inside the human story. **Karan** = **Jitin**, **Arjun** = **Kalpesh**. Introduces Karan at home, then **Arjun + friends** rescue him on cycles. **Team A / Team B** ensemble joins the chase/ride (see Cast).
+> **Format:** Video — Bollywood-style mini-movie opening inside the human story. **Karan** = **Jitin**, **Arjun** = **Kalpesh**, **Sister** = **Vandana**. **Team A / Team B** ensemble as friends (see Cast).
 >
-> **Location:** Karan's home / Livia condo unit (TBD) → streets / cycling route
+> **Locations:** Karan's home / Livia unit → streets (cycle escape) → **Livia gym / fitness area** (friends + race)
 
 ---
 
-**Beat 1 — Sister vs sports channel**
+**Beat 1 — Sister vs sports channel** *(Vandana)*
 
-*(Sister doing household work.)*
+*(Vandana doing household work.)*
 
-**Sister:** "Bhaiya… don't keep watching the sports channel… finish your other work too…"
+**Vandana (Sister):** "Bhaiya… don't keep watching the sports channel… finish your other work too…"
 
 **Karan:** "Arey… aata hoon… important race hai…" *(cycle race on TV)*
 
-**Sister:** "And that office ka call jo tune bola tha…?"
+**Vandana:** "And that office ka call jo tune bola tha…?"
 
 **Karan:** "O teri… chod de… ab kya fayda…"
 
-**Sister** *(to herself / aside):* "Oh, he never listens… yeh sports pe peeche hi pada rehta hai… khel khel mein ek din office se nikal denge…"
+**Vandana** *(to herself / aside):* "Oh, he never listens… yeh sports pe peeche hi pada rehta hai… khel khel mein ek din office se nikal denge…"
 
 ---
 
@@ -584,11 +585,11 @@ Duration: 5 seconds (trim to 2s in edit). Aspect ratio: 16:9.
 
 **Agent:** "Your brother doesn't work… because there is a secret… **he is a spy.**"
 
-**Sister:** *(acts blur — confused, stunned)*
+**Vandana:** *(acts blur — confused, stunned)*
 
 **Agent:** "The nation needs him now — we are taking him immediately."
 
-*(Sister **faints**.)*
+*(Vandana **faints**.)*
 
 ---
 
@@ -598,11 +599,35 @@ Duration: 5 seconds (trim to 2s in edit). Aspect ratio: 16:9.
 
 **Music:** **"Woh Sikandar…"** starts — *"Woh Sikandar Bhi Doston Ke Hain"* (Jo Jeeta Wohi Sikandar energy; chase / buddy escape montage).
 
+---
+
+**Beat 4 — Gym: everyone wants Karan's advice**
+
+*(Livia gym / fitness area — friends surround **Karan**. Cast from Team A/B — assign who plays each type.)*
+
+**The Gym Bro:** "Bhai, my bench press has been stuck at the same weight for a month. What should I change in my routine?"
+
+**The Runner:** "Yaar Karan, I want to run a 10k next month but my knees start hurting after 3 kilometers. Give me some tips na!"
+
+**The Cricketer:** "Listen, my timing on the cover drive is completely off lately. Can you come to the nets this weekend and check my stance?"
+
+**The Casual Fitness Friend:** "Bro, I want to start waking up early for yoga but I just can't leave my bed. How do you stay so disciplined?"
+
+**Arjun** *(to all):* "Bhai log, sabka ho jayega… saans toh lene dena usko…"
+
+**Karan:** "Sahi dramebaaz… bahut tight hai kaam… upar se mere behen ka to-do list… bas yaar, sports ke liye time nahin milta…"
+
+**Arjun:** "Chal banate hain… race kar abhi…"
+
+**Karan:** "Chalo…"
+
+*(They race — **Karan wins.** Everyone praises Karan. **Arjun is proud** — no jealousy yet; establishes the duo at their best.)*
+
 ```
-(TBD — exact chase route, which friends appear first, Team A vs Team B grouping, and whether the "race on TV" pays off visually in the escape)
+(TBD — chase route in Beat 3; which performers play Gym Bro / Runner / Cricketer / Casual Friend; cycle vs foot race)
 ```
 
-> **Story note:** Comic spy spoof — not real espionage; sets Karan & Arjun as ride-or-die buddies before conflict. **Scene 7** also used "Woh Sikandar" for sponsorship celebration — confirm if this song spans both scenes or Scene 7 gets a different track.
+> **Story note:** Comic spy spoof (Beat 1–3) → buddy energy + Karan as natural leader (Beat 4). Arjun proud here — contrast for later friction (Scene 9). **Scene 7** song overlap — "Woh Sikandar" may span escape + win montage.
 
 ---
 
@@ -741,7 +766,7 @@ People involved: **Karan, Arjun, Team A, Team B, Coach Satak Lee**, friends wait
 5. **SUPERSEDED — Audit Devi's Complaint.** Audit Devi is cut from the cast. The "Maya can't understand emotions" beat is now delivered by AKV + PratiKool's "deal breaker" line inside the Opening Scene above.
 6. **MERGED into the Opening Scene above — Karma Proposes the Navras.** Karma's couplet ("Man mein jo hai bhavna...") + his Natya Shastra pitch now closes that scene directly, rather than being a separate step.
 7. **Introducing the Livia Team — see "Scene 2 — In Heaven" above for the full dialogue.** Maya, still confused, is sent by Karma to do on-the-job training: track Kool & PratiKool (left behind on Earth) via a Google Earth zoom into Livia. · Characters: Karma Dev, Maya, Kool, PratiKool (referenced) · Music: ________
-8. **Cycle Movie Scene 1 — see "Scene 4" above [VIDEO].** Karan (**Jitin**) glued to cycle race on TV; sister scolds him (missed office call). CBI gag ("he's a spy") → sister faints → Arjun (**Kalpesh**) + friends rescue Karan on cycles; **"Woh Sikandar"** starts. Then mock **"Yeh Bandhan"** trailer (Scene 5) → dining sponsorship ask. · Characters: Karan, Sister (TBD), Arjun, friends, Team A/B · Music: "Woh Sikandar…"
+8. **Cycle Movie — see "Scene 4" above [VIDEO].** Vandana (sister) scolds Karan; CBI spy gag → escape on cycles (**"Woh Sikandar"**). Gym: friends ask Karan for fitness tips → Arjun redirects → impromptu race → Karan wins, Arjun proud. Then **"Yeh Bandhan"** trailer (Scene 5). · Characters: Karan, Vandana, Arjun, friends · Music: "Woh Sikandar…"
 9. **The Sponsorship Challenge — see "Scene 5" above.** · Characters: Karan, Arjun, Nishanth, Satak Lee · Music: "Aata Maji Satak Li"
 10. **Sponsorship Approved — see "Scene 6" above [VIDEO].** Friends waiting outside; Karan thanks Arjun in front of all; Team A, Team B, Coach celebrate with **"Woh Sikandar Bhi Doston Ke Hain."** Kool: "This is so my type of feeling… Over to you, Maya." · Characters: Karan, Arjun, Team A, Team B, Satak Lee, Kool, Maya · Music: "Woh Sikandar Bhi Doston Ke Hain" · **Choreographer: TBD** · **Locations: SUTD, swimming pool, tennis court, basketball court**
 11. **Training Begins** — *[may overlap Scene 6 montage — confirm with team]* · Characters: ________ · Music: ________

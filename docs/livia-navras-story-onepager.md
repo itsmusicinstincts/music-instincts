@@ -35,7 +35,8 @@
 | **Nishanth** | The sponsor. Meets Karan & Arjun in his office and introduces them to Coach Satak Lee. |
 | **Coach Satak Lee** | Trains Karan & Arjun for the sponsorship Triathlon. Comic entrance song ("Aata Maji Satak Li"); the one who holds the team to sportsmanship above all. |
 | **Team A** (Karan's team) | Jiten (Karan), Bristi, Anuj, Shree's husband, Samiran, Misbah, Abhishek, Sujata, Aruna — recurs in every sports-activity scene. |
-| **Team B** (Arjun's team) | Kalpesh (Arjun), Pramod, Ankit, Varun, Misbah, Bhavana, Priyanka, Ruchi, Venu — recurs in every sports-activity scene. |
+| **Vandana** | Karan's sister — domestic comedy in Cycle Movie (Scene 4); also on Team B. |
+| **Team B** (Arjun's team) | Kalpesh (Arjun), Pramod, Vandana, Ankit, Varun, Misbah, Bhavana, Priyanka, Ruchi, Venu — recurs in every sports-activity scene. |
 | **The Ensemble** | Featured throughout — songs, dances, the sponsor's world, Bhayanak Ras's 9 Devis. |
 
 ---

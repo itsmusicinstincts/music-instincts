@@ -14,7 +14,7 @@
 | **1** | AKV builds Maya → Karma's team arrives | Video | Cold open; Chitragupt joke; off to heaven |
 | **2** | Shringaar Ras (1st Ras) | Video + Stage | Karma teaches → mudras → song block |
 | **3** | After Shringaar → story pivot → zoom to Livia | Video | Haasya attempt fails; pick a human story |
-| **4** | Cycle Movie Scene 1: "Spy" escape | Video | Sister + CBI gag → Arjun rescue → **Woh Sikandar** |
+| **4** | Cycle Movie: spy escape + gym race | Video | Vandana (sister) + CBI gag → escape → gym advice → Karan wins; Arjun proud |
 | **5** | "Yeh Bandhan" trailer → dining | Video + Stage | Mock trailer; sponsorship ask |
 | **6** | Nishanth's office → Coach Satak Lee | Video + Stage | Sponsor meeting; **Aata Maji Satak Li** |
 | **7** | Sponsorship approved — celebration | Video | Friends waiting; Karan thanks Arjun |
@@ -38,9 +38,10 @@
 | Nishanth | TBD | Sponsor |
 | Coach Satak Lee | TBD | Triathlon coach |
 | Naina | TBD | Shringar catalyst (later beats) |
+| Vandana | **Vandana** | **Karan's sister** (Scene 4 home beat) |
 
 **Team A:** Jiten, Bristi, Anuj, Shree's husband, Samiran, Misbah?, Abhishek, Sujata, Aruna  
-**Team B:** Kalpesh, Pramod, Ankit, Varun, Misbah?, Bhavana, Priyanka, Ruchi, Venu
+**Team B:** Kalpesh, Pramod, Vandana *(also Karan's sister)*, Ankit, Varun, Misbah?, Bhavana, Priyanka, Ruchi, Venu
 
 ---
 
@@ -83,16 +84,16 @@
 
 ---
 
-### Scene 4 — Cycle Movie Scene 1: "Spy" Escape [VIDEO]
+### Scene 4 — Cycle Movie: "Spy" Escape + Gym Race [VIDEO]
 | Field | Detail |
 |-------|--------|
-| **Format** | **Video** — Bollywood mini-movie opening |
-| **People** | **Karan** (Jitin), **Karan's Sister** (TBD), **3 CBI-type agents** (extras), **Arjun** (Kalpesh) + friends → **Team A, Team B** on cycles |
-| **Music** | **"Woh Sikandar Bhi Doston Ke Hain"** — starts as Arjun & friends escape with Karan on cycles |
-| **Locations** | Karan's home / Livia unit (TBD) → street / cycling route |
-| **Choreographer** | TBD — chase / cycle montage |
-| **Status** | Draft — chase details TBD |
-| **Notes** | Sister scolds Karan (sports TV + missed office call) → CBI gag ("he's a spy") → sister faints → Arjun rescue on cycles. **Scene 7** song overlap — review. |
+| **Format** | **Video** — Bollywood mini-movie opening (2 beats) |
+| **People** | **Karan** (Jitin), **Vandana** (sister), **3 CBI agents**, **Arjun** (Kalpesh), friends (Gym Bro / Runner / Cricketer / Casual Fitness — cast TBD from Team A/B) |
+| **Music** | **"Woh Sikandar Bhi Doston Ke Hain"** — escape on cycles; may continue into race win |
+| **Locations** | Karan's home → street (cycles) → **Livia gym / fitness area** |
+| **Choreographer** | TBD — chase + race montage |
+| **Status** | Draft — friend role casting TBD |
+| **Notes** | **Beat 1–3:** Vandana scolds Karan → CBI spy gag → faints → Arjun rescue on cycles. **Beat 4:** friends swamp Karan with fitness questions → Arjun: *"saans toh lene dena usko"* → Karan dramatic (work + behen's to-do list) → impromptu race → **Karan wins**, all praise, **Arjun proud** (pre-conflict warmth). |
 
 ---
 
