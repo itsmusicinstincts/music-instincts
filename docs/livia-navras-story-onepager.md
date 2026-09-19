@@ -35,7 +35,7 @@
 | **Nishanth** | The sponsor. Meets Karan & Arjun in his office and introduces them to Coach Satak Lee. |
 | **Coach Satak Lee** | Trains Karan & Arjun for the sponsorship Triathlon. Comic entrance song ("Aata Maji Satak Li"); the one who holds the team to sportsmanship above all. |
 | **Team A** (Karan's team) | Jiten (Karan), Bristi, Anuj, Shree's husband, Samiran, Misbah, Abhishek, Sujata, Aruna — recurs in every sports-activity scene. |
-| **Vandana** | Karan's sister — domestic comedy in Cycle Movie (Scene 4); also on Team B. |
+| **Vandana** | Karan's sister — domestic comedy in Cycle Movie spy beat (pre–Scene 4); also on Team B. |
 | **Team B** (Arjun's team) | Kalpesh (Arjun), Pramod, Vandana, Ankit, Varun, Misbah, Bhavana, Priyanka, Ruchi, Venu — recurs in every sports-activity scene. |
 | **The Ensemble** | Featured throughout — songs, dances, the sponsor's world, Bhayanak Ras's 9 Devis. |
 
@@ -59,7 +59,7 @@
 9. **Sponsorship approved — "Woh Sikandar" [VIDEO]** — friends waiting outside; Karan thanks Arjun in front of everyone; Team A, Team B, and coach celebrate to *"Woh Sikandar Bhi Doston Ke Hain."* Kool: *"This is so my type of feeling… Over to you, Maya."* **Production:** choreographer TBD; locations SUTD, pool, tennis court, basketball court.
 
 **Rising action**
-10. Training / happy montage beats — may overlap Scene 9; confirm with team.
+10. Training / happy montage beats — may overlap Scene 9 bridge; confirm with team.
 11. Karma Dev's aside: reaching a goal is easy to imagine — achieving it never is.
 
 **Shringar (Love) — the fork begins**

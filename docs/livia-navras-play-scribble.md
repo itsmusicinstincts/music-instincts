@@ -11,7 +11,7 @@
 
 **Karma Dev**, overwhelmed by humanity's growing karma load, has scientist **AKV** build an AI, **Maya**, to help — but Maya doesn't understand emotion, so Karma Dev teaches her the nine Navras by using a real human story (best friends **Karan** and **Arjun**, whose sports sponsorship dream tests their friendship through every rasa) as the classroom — and Maya discovers that copying faces is not the same as having karma.
 
-> **Status (latest):** **👉 Scene order (Scenes 1–11):** `livia-navras-scene-flow.md` — **read this first.** This file = script dialogue + video prompts only. **Miro:** [Scenes Flow board](https://miro.com/app/board/uXjVHs6iRk4=/). Legacy 44-step Kanban on old board — reference only.
+> **Status (latest):** **👉 Scene order (Scenes 1–10):** `livia-navras-scene-flow.md` — **read this first.** This file = script dialogue + video prompts only. **Miro:** [Scenes Flow board](https://miro.com/app/board/uXjVHs6iRk4=/). Legacy 44-step Kanban on old board — reference only.
 
 ---
 
@@ -21,7 +21,7 @@
 |------|--------|
 | Tone | Comic end-to-end; sincere under the jokes |
 | Hero / guide | Maya (AI student) + Karma Dev (playful trickster, mythic Chief Accountant) |
-| Structure | 9 rasas; **Shringaar first** (Scene 2 video template), **Haasya second** (Scenes 10–11); taught through Karan & Arjun's story |
+| Structure | 9 rasas; **Shringaar first** (Scene 2), **Haasya second** (Scene 3 video + stage); in-story arc through Karan & Arjun; post–Scene 10 payoff **TBD** |
 | Instant karma | Small action → fast comic echo inside scenes ("Jaisi Karni, Waisi Bharni") |
 | Languages | Regional scolds / colour (*Ada karma!* etc.) welcome |
 | Fourth-wall gag | PratiKool bosses Maya around like a director ("scene change kar") — candidate running gag, use 1–2 more times |
@@ -51,7 +51,7 @@
 
 ### Team A / Team B (fixed ensemble rosters)
 
-> Introduced in **Scene 4** (Cycle Movie escape / race) and recurring through **every sports-activity scene** in the show (training montages, "All Is Well" montage, Race Day, etc.) — these are the fixed team lineups, not one-off extras.
+> Introduced in **Scenes 4–5** (Cycle Movie gym + race) and recurring through **every sports-activity scene** in the show (training montages, "All Is Well" montage, Race Day, etc.) — these are the fixed team lineups, not one-off extras.
 
 **Team A** — Karan's team
 
@@ -72,7 +72,7 @@
 | Performer | Notes |
 |---|---|
 | Kalpesh | Plays **Arjun**, team lead |
-| Vandana | Also plays **Karan's Sister** (Scene 4 home beat) |
+| Vandana | Also plays **Karan's Sister** (Cycle Movie spy beat — pre–Scene 4) |
 | Pramod | |
 | Ankit | |
 | Varun | |
@@ -188,9 +188,9 @@ Bhavna aur kalpana ko samajhney ke liye, Bharat Muni ka Natya Ved aur Natak Shas
 
 **Choreographer:** TBD — assign (mudras + 3-song block)
 
-> **Rasa order confirmed:** Shringaar = 1st Ras (Scene 2). Haasya = 2nd Ras — *attempted* in Scene 3 (Maya doesn't laugh yet); full Haasya beat later in Scenes 10–11. **Teaching pattern for all Ras:** Karma explains on video → mudras on stage → song block — then **pivot to story** (Scene 3) when one-by-one won't work. Karan/Naina live romance arc comes later in the human story.
+> **Rasa order confirmed:** Shringaar = 1st Ras (Scene 2). **Haasya = 2nd Ras (Scene 3)** — video + stage template (same as Scene 2). In-story Haasya payoff TBD (after Scene 10). **Teaching pattern:** Karma on video → mudras/dances on stage → song block. Scene 3 video also pivots to the human story at Livia.
 
-**→ Scene 3** — post-Shringaar bridge (Haasya attempt, story pivot, zoom to Livia) — script below after Shringar Garden production notes.
+**→ Scene 3** — After Shringaar: Haasya Ras [VIDEO + STAGE] — script below after Shringar Garden production notes.
 
 ---
 
@@ -491,15 +491,15 @@ Duration: 5 seconds (trim to 2s in edit). Aspect ratio: 16:9.
 
 ---
 
-**SCENE 3 — After Shringaar: Haasya Attempt → Story Pivot → Zoom to Livia [VIDEO]**
+**SCENE 3 — After Shringaar: Haasya Ras (2nd Ras) [VIDEO + STAGE]** ⭐
 
-> **Placement:** Immediately after Scene 2 (Shringaar mudras + song block). All heaven-side; sets up the human "Cycle movie" in Scene 4.
+> **Placement:** Immediately after Scene 2 (Shringaar mudras + song block). **Same template as Scene 2:** video teaching beat → live stage dances → song block. Video also ends with story pivot to Livia → Cycle Movie (spy montage → **Scene 4** gym → **Scene 5** race).
 >
-> **People:** Maya, Karma Dev, Kool, PratiKool (on screen / PiP as needed)
+> **People (video):** Maya, Karma Dev, Kool, PratiKool · **People (stage):** dancers/performers — **Haasya** expression / comedy movement
 
 ---
 
-**VIDEO — post-Shringaar reaction**
+**ON VIDEO — post-Shringaar reaction**
 
 **Maya:** "It's beautiful… I kind of feel shy too…"
 
@@ -509,11 +509,11 @@ Duration: 5 seconds (trim to 2s in edit). Aspect ratio: 16:9.
 
 **Kool:** "Aur hum hein toh Entertainment…"
 
-**Karma:** "Wah… Entertainment… Chalo wahi sikhathey hein ab Maaya ko… **Haasya Ras.**"
+**Karma:** "Wah… Entertainment… Chalo wahi sikhathey hein ab Maaya ko…"
 
 ---
 
-**Haasya Ras — first attempt** *(Maya not laughing much)*
+**Haasya Ras**
 
 *(AI is not laughing much.)*
 
@@ -549,15 +549,31 @@ Duration: 5 seconds (trim to 2s in edit). Aspect ratio: 16:9.
 
 **PratiKool** *(negatively):* "Mazaa toh aayega" — *mujhe*…
 
-*(Cut to Livia — the human story / **"Cycle movie"** begins. Scene 4.)*
+---
+
+**ON STAGE — Haasya Ras (2nd Ras)**
+
+*(Immediately after the video beat — live performers demonstrate **Haasya** / laughter / comic expression for Maya and the audience.)*
+
+- **Haasya mudras / comedy dances** performed live
+- **Song block (TBD):**
+  1. __________ *(Haasya Ras song 1 — TBD)*
+  2. __________ *(TBD)*
+  3. __________ *(TBD)*
+
+**Choreographer:** TBD — assign (Haasya dances + song block)
+
+> Maya still may not laugh on screen — contrast with joyful live stage. Audience gets the Ras even if AI doesn't yet.
+
+**→ NEXT: Cycle Movie spy montage → Scene 4 (gym) → Scene 5 (race).**
 
 ---
 
-**SCENE 4 — Cycle Movie: "Spy" Escape + Gym Race [VIDEO]**
+## Cycle Movie — Spy Escape *(montage before Scene 4)* [VIDEO]
 
-> **Format:** Video — Bollywood-style mini-movie opening inside the human story. **Karan** = **Jitin**, **Arjun** = **Kalpesh**, **Sister** = **Vandana**. **Team A / Team B** ensemble as friends (see Cast).
+> **Format:** Video — Bollywood-style mini-movie cold open inside the human story. **Karan** = **Jitin**, **Arjun** = **Kalpesh**, **Sister** = **Vandana**.
 >
-> **Locations:** Karan's home / Livia unit → streets (cycle escape) → **Livia gym / fitness area** (friends + race)
+> **Locations:** Karan's home / Livia unit → streets (cycle escape) → arrives at **Livia gym** → **Scene 4**
 
 ---
 
@@ -599,9 +615,13 @@ Duration: 5 seconds (trim to 2s in edit). Aspect ratio: 16:9.
 
 **Music:** **"Woh Sikandar…"** starts — *"Woh Sikandar Bhi Doston Ke Hain"* (Jo Jeeta Wohi Sikandar energy; chase / buddy escape montage).
 
+```
+(TBD — chase route; cycle escape path to Livia gym)
+```
+
 ---
 
-**Beat 4 — Gym: everyone wants Karan's advice**
+**SCENE 4 — Gym: Friends & Challenge [VIDEO]**
 
 *(Livia gym / fitness area — friends surround **Karan**. Cast from Team A/B — assign who plays each type.)*
 
@@ -615,23 +635,35 @@ Duration: 5 seconds (trim to 2s in edit). Aspect ratio: 16:9.
 
 **Arjun** *(to all):* "Bhai log, sabka ho jayega… saans toh lene dena usko…"
 
-**Karan:** "Sahi dramebaaz… bahut tight hai kaam… upar se mere behen ka to-do list… bas yaar, sports ke liye time nahin milta…"
+**Karan:** "Sahi dramebaaz… bahut tight hai kaam… upar se mere behen ka to-do list… sports ke liye time kahaan milta hai.."
 
-**Arjun:** "Chal banate hain… race kar abhi…"
+**Arjun:** "Chal banate hain… race kar abhi… mere talent mein tu compete nahin kar saktha.. lekin..tere sports mein equally takkar de saktha hoon.."
 
-**Karan:** "Chalo…"
+**Karan:** "Chalo dekthein hein.."
+
+```
+(TBD — which performers play Gym Bro / Runner / Cricketer / Casual Friend)
+```
+
+**→ Scene 5 — the race.**
+
+---
+
+**SCENE 5 — Race: Karan Wins [VIDEO]**
+
+*(Impromptu race between friends — intro energy, everyone lining up / banter.)*
 
 *(They race — **Karan wins.** Everyone praises Karan. **Arjun is proud** — no jealousy yet; establishes the duo at their best.)*
 
 ```
-(TBD — chase route in Beat 3; which performers play Gym Bro / Runner / Cricketer / Casual Friend; cycle vs foot race)
+(TBD — foot race vs cycle; outdoor route; race montage shot list; music — continue "Woh Sikandar" or new track)
 ```
 
-> **Story note:** Comic spy spoof (Beat 1–3) → buddy energy + Karan as natural leader (Beat 4). Arjun proud here — contrast for later friction (Scene 9). **Scene 7** song overlap — "Woh Sikandar" may span escape + win montage.
+> **Story note:** Comic spy spoof (pre–Scene 4) → buddy energy + Karan as natural leader (Scenes 4–5). Arjun proud here — contrast for later friction (**Scene 10**). **Scene 8** song overlap — "Woh Sikandar" may span escape + race montage.
 
 ---
 
-**SCENE 5 — "Yeh Bandhan Toh Pyaar Ka Bandhan Hai" — TRAILER SCENE (not the movie itself)**
+**SCENE 6 — "Yeh Bandhan Toh Pyaar Ka Bandhan Hai" — TRAILER SCENE (not the movie itself)**
 
 *(This is deliberately staged as a mock movie-TRAILER, not a normal scene — think quick cuts, freeze-frames on Karan & Arjun mid-laugh, punchy text cards ("Two Friends." / "One Dream." / "Yeh Bandhan Toh Pyaar Ka Bandhan Hai" as the trailer's theme song under it), maybe a booming trailer-voice narrator. It's Maya playing back an over-the-top, cheesy "coming attractions" reel of Karan & Arjun's friendship — not real-time footage of the actual scene.)*
 
@@ -651,7 +683,7 @@ Duration: 5 seconds (trim to 2s in edit). Aspect ratio: 16:9.
 
 ---
 
-**SCENE 6 — Meet the Sponsor: Nishanth's Office**
+**SCENE 7 — Meet the Sponsor: Nishanth's Office**
 
 *(Karan and Arjun meet the sponsor, **Nishanth**, in his office. Nishanth introduces them to Coach **Satak Lee**, who will train them for the Triathlon challenge.)*
 
@@ -663,7 +695,7 @@ People involved: **Karan, Arjun, Nishanth, Satak Lee** — all in Nishanth's off
 
 ---
 
-**SCENE 7 — Sponsorship Approved: Celebration [VIDEO]** ⚠️ *review — "Woh Sikandar" may now open in Scene 4*
+**SCENE 8 — Sponsorship Approved: Celebration [VIDEO]** ⚠️ *review — "Woh Sikandar" used in spy escape (pre–Scene 4)*
 
 *(Arjun and Karan meet their friends, who have been **waiting outside** to find out if they got sponsorship approval. Good news — they're in. **Karan thanks Arjun in front of everyone.** Team A, Team B, and **Coach Satak Lee** celebrate together.)*
 
@@ -685,7 +717,7 @@ People involved: **Karan, Arjun, Team A, Team B, Coach Satak Lee**, friends wait
 
 ---
 
-**SCENE 8 — TBD (bridge beat)**
+**SCENE 9 — TBD (bridge beat)**
 
 ```
 (placeholder — training montage / Naina beat? confirm with team before scripting)
@@ -693,7 +725,7 @@ People involved: **Karan, Arjun, Team A, Team B, Coach Satak Lee**, friends wait
 
 ---
 
-**SCENE 9 — Arjun & Karan Get Irritated [STAGE]**
+**SCENE 10 — Arjun & Karan Get Irritated [STAGE]**
 
 *(Arjun and Karan are working out. Phone rings — **Kool picks up and walks away.** Arjun **shouts at Karan in front of everyone** about discipline. Karan feels insulted. **Coach Satak Lee** is watching. **Arjun storms out** — talking to **PratiKool** as he goes; **Coach overhears**.)*
 
@@ -718,29 +750,7 @@ People involved: **Karan, Arjun, Team A, Team B, Coach Satak Lee**, friends wait
 
 ---
 
-**SCENE 10 — Karma Introduces Haasya Ras (2nd Ras) [VIDEO]** ⚠️ *review — early Haasya attempt is now Scene 3*
-
-**Karma:** "Now you have a chance to learn the 2nd Ras: Haasya."
-
-**Maya:** "In between such serious situation…"
-
-**Karma:** "Yeh toh kuch hua hi nahin hai.. just spark hai.. lekin zindagi mein sab kuch mix mein hi milta hai.. abhi ke liye haasya ka mazaa letein hein.."
-
-**Maya:** "Ok let me program it now.. so what's Haasya Ras?"
-
-**Music:** **Song 2 — Haasya Ras**
-
----
-
-**SCENE 11 — Haasya Show: "Haasi to Phaasi" [STAGE]**
-
-*(Live Hasya beat — Kool's party plan from Scene 9. Arjun's show lifts the team's mood.)*
-
-```
-(type here — show format, cast, and song/choreo beats, and tell the agent to fold them in)
-```
-
-**YOUR NOTES — scenes 1–11**
+**YOUR NOTES — scenes 1–10** *(Scene 11+ TBD — user adding new beat tomorrow)*
 
 ---
 
@@ -766,12 +776,14 @@ People involved: **Karan, Arjun, Team A, Team B, Coach Satak Lee**, friends wait
 5. **SUPERSEDED — Audit Devi's Complaint.** Audit Devi is cut from the cast. The "Maya can't understand emotions" beat is now delivered by AKV + PratiKool's "deal breaker" line inside the Opening Scene above.
 6. **MERGED into the Opening Scene above — Karma Proposes the Navras.** Karma's couplet ("Man mein jo hai bhavna...") + his Natya Shastra pitch now closes that scene directly, rather than being a separate step.
 7. **Introducing the Livia Team — see "Scene 2 — In Heaven" above for the full dialogue.** Maya, still confused, is sent by Karma to do on-the-job training: track Kool & PratiKool (left behind on Earth) via a Google Earth zoom into Livia. · Characters: Karma Dev, Maya, Kool, PratiKool (referenced) · Music: ________
-8. **Cycle Movie — see "Scene 4" above [VIDEO].** Vandana (sister) scolds Karan; CBI spy gag → escape on cycles (**"Woh Sikandar"**). Gym: friends ask Karan for fitness tips → Arjun redirects → impromptu race → Karan wins, Arjun proud. Then **"Yeh Bandhan"** trailer (Scene 5). · Characters: Karan, Vandana, Arjun, friends · Music: "Woh Sikandar…"
-9. **The Sponsorship Challenge — see "Scene 5" above.** · Characters: Karan, Arjun, Nishanth, Satak Lee · Music: "Aata Maji Satak Li"
-10. **Sponsorship Approved — see "Scene 6" above [VIDEO].** Friends waiting outside; Karan thanks Arjun in front of all; Team A, Team B, Coach celebrate with **"Woh Sikandar Bhi Doston Ke Hain."** Kool: "This is so my type of feeling… Over to you, Maya." · Characters: Karan, Arjun, Team A, Team B, Satak Lee, Kool, Maya · Music: "Woh Sikandar Bhi Doston Ke Hain" · **Choreographer: TBD** · **Locations: SUTD, swimming pool, tennis court, basketball court**
-11. **Training Begins** — *[may overlap Scene 6 montage — confirm with team]* · Characters: ________ · Music: ________
-12. **Explaining the Stakes** — *[partially covered in Scene 6 celebration — confirm merge]* · Characters: ________ · Music: ________
-13. **"All Is Well" Montage (Video)** — *[may merge with Scene 6 — confirm]* · Characters: ________ · Music: ________
+8. **Cycle Movie — Spy Escape** — see spy montage above [VIDEO]. Vandana (sister) scolds Karan; CBI spy gag → escape on cycles (**"Woh Sikandar"**). · Characters: Karan, Vandana, Arjun · Music: "Woh Sikandar…"
+9. **Gym: Friends & Challenge — see "Scene 4" above [VIDEO].** Friends ask Karan for fitness tips → Arjun redirects → race challenge. · Characters: Karan, Arjun, friends · Music: ________
+10. **Race: Karan Wins — see "Scene 5" above [VIDEO].** Impromptu race → Karan wins, all praise, Arjun proud. Then **"Yeh Bandhan"** trailer (Scene 6). · Characters: Karan, Arjun, friends · Music: TBD
+11. **The Sponsorship Challenge — see "Scene 7" above.** · Characters: Karan, Arjun, Nishanth, Satak Lee · Music: "Aata Maji Satak Li"
+12. **Sponsorship Approved — see "Scene 8" above [VIDEO].** Friends waiting outside; Karan thanks Arjun in front of all; Team A, Team B, Coach celebrate. Kool: "This is so my type of feeling… Over to you, Maya." · Characters: Karan, Arjun, Team A, Team B, Satak Lee, Kool, Maya · Music: TBD · **Choreographer: TBD** · **Locations: SUTD, swimming pool, tennis court, basketball court**
+13. **Training Begins** — *[may overlap Scene 8 montage — confirm with team]* · Characters: ________ · Music: ________
+14. **Explaining the Stakes** — *[partially covered in Scene 8 celebration — confirm merge]* · Characters: ________ · Music: ________
+15. **"All Is Well" Montage (Video)** — *[may merge with Scene 8 — confirm]* · Characters: ________ · Music: ________
 13. **Karma's Aside: Achieving Isn't Easy** — Karma congratulates the AI's start, warns that achieving a goal is never easy. *[Needs staging expansion.]* · Characters: ________ · Music: ________
 14. **Basketball vs Girls' Team** — Naina enters, boys tease Karan ("tere naina..."), he's distracted — "Yeh Ladka Hai Deewana." Arjun feels sidelined. · Characters: ________ · Music: ________
 15. **The Fork** — PratiKool instigates Arjun's jealousy; Kool nudges Karan toward Naina (KKHH sting → Main Hoon Na). · Characters: ________ · Music: ________
@@ -1147,7 +1159,7 @@ Duration: 5 seconds. Aspect ratio: 16:9.
 | Title song (opening video) | "Navras Se Hai Kalpana" — plays as the 4 head to heaven | Hindi | Title only, needs full lyrics |
 | Shringaar Ras — Scene 2 (video) | Shringaar teaching song — "Shringar" line explained to Maya | Hindi | Teaching song TBD / lyrics to write |
 | Shringaar Ras — Scene 2 (stage) | **"Ishq Wala Love"** + 2 more songs TBD | Hindi | 1 of 3 confirmed |
-| Sponsorship celebration (Scene 6) | "Woh Sikandar Bhi Doston Ke Hain" — Team A/B + coach, video montage | Hindi | Confirmed song, choreo TBD |
+| Sponsorship celebration (Scene 8) | "Woh Sikandar Bhi Doston Ke Hain" — Team A/B + coach, video montage | Hindi | Confirmed song, choreo TBD |
 | Karma hook | Catchy “karma” refrain | Mixed | |
 | Hasya | Qawwali laughter riots | | |
 | Raudra | Durandhar-*style* (original parody cue) | | |

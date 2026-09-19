@@ -2,8 +2,8 @@
 
 > **👉 START HERE for scene order.** This file is the single source of truth for **what happens, in what order**.
 > **Script dialogue** (draft lines, video prompts, legacy notes): `livia-navras-play-scribble.md` — always cross-check scene numbers against **this** file.
-> **Miro (MAIN):** [Scenes Flow board](https://miro.com/app/board/uXjVHs6iRk4=/) — Kanban **"Scene Flow Kanban"** (Scenes 1–11).
-> **Rasa order (confirmed):** 1st = **Shringaar** (Scene 2) · 2nd = **Haasya** (Scene 3 attempt → Scenes 10–11)
+> **Miro (MAIN):** [Scenes Flow board](https://miro.com/app/board/uXjVHs6iRk4=/) — **Scene Storyboard** Kanban (Scene # + description on each card) + **Scene Details** doc (dialogues, people — open card or doc on the right).
+> **Rasa order (confirmed):** 1st = **Shringaar** (Scene 2) · 2nd = **Haasya** (Scene 3 video + stage) · in-story Haasya payoff **TBD**
 
 ---
 
@@ -13,15 +13,15 @@
 |---|-------|--------|----------|
 | **1** | AKV builds Maya → Karma's team arrives | Video | Cold open; Chitragupt joke; off to heaven |
 | **2** | Shringaar Ras (1st Ras) | Video + Stage | Karma teaches → mudras → song block |
-| **3** | After Shringaar → story pivot → zoom to Livia | Video | Haasya attempt fails; pick a human story |
-| **4** | Cycle Movie: spy escape + gym race | Video | Vandana (sister) + CBI gag → escape → gym advice → Karan wins; Arjun proud |
-| **5** | "Yeh Bandhan" trailer → dining | Video + Stage | Mock trailer; sponsorship ask |
-| **6** | Nishanth's office → Coach Satak Lee | Video + Stage | Sponsor meeting; **Aata Maji Satak Li** |
-| **7** | Sponsorship approved — celebration | Video | Friends waiting; Karan thanks Arjun |
-| **8** | *TBD bridge* | TBD | Between celebration and team friction |
-| **9** | Arjun & Karan irritated | Stage | Gym/pool blow-up; party plan seeded |
-| **10** | Haasya Ras intro (2nd Ras) | Video | ⚠️ may merge with Scene 3 |
-| **11** | "Haasi to Phaasi" show | Stage | Arjun's comedy show |
+| **3** | After Shringaar — Haasya Ras (2nd Ras) | Video + Stage | Post-Shringaar video → Haasya dances → story pivot → Livia |
+| — | *Cycle Movie: spy escape* *(pre–Scene 4 montage)* | Video | Vandana scolds → CBI gag → Arjun rescue on cycles (**"Woh Sikandar"**) |
+| **4** | Gym: friends & challenge | Video | Friends swamp Karan → Arjun redirects → impromptu race challenge |
+| **5** | Race: Karan wins | Video | Friends race → **Karan wins**; all praise; **Arjun proud** |
+| **6** | "Yeh Bandhan" trailer → dining | Video + Stage | Mock trailer; sponsorship ask |
+| **7** | Nishanth's office → Coach Satak Lee | Video + Stage | Sponsor meeting; **Aata Maji Satak Li** |
+| **8** | Sponsorship approved — celebration | Video | Friends waiting; Karan thanks Arjun |
+| **9** | *TBD bridge* | TBD | Between celebration and team friction |
+| **10** | Arjun & Karan irritated | Stage | Gym/pool blow-up; party plan seeded *(payoff scene TBD)* |
 
 ---
 
@@ -38,7 +38,7 @@
 | Nishanth | TBD | Sponsor |
 | Coach Satak Lee | TBD | Triathlon coach |
 | Naina | TBD | Shringar catalyst (later beats) |
-| Vandana | **Vandana** | **Karan's sister** (Scene 4 home beat) |
+| Vandana | **Vandana** | **Karan's sister** (Cycle Movie spy beat — pre–Scene 4) |
 
 **Team A:** Jiten, Bristi, Anuj, Shree's husband, Samiran, Misbah?, Abhishek, Sujata, Aruna  
 **Team B:** Kalpesh, Pramod, Vandana *(also Karan's sister)*, Ankit, Varun, Misbah?, Bhavana, Priyanka, Ruchi, Venu
@@ -72,32 +72,57 @@
 
 ---
 
-### Scene 3 — After Shringaar: Haasya Attempt → Story Pivot → Zoom to Livia [VIDEO]
+### Scene 3 — After Shringaar: Haasya Ras (2nd Ras) [VIDEO + STAGE] ⭐
 | Field | Detail |
 |-------|--------|
-| **Format** | **Video** — heaven-side bridge after Scene 2 |
-| **People** | **Maya**, **Karma Dev**, **Kool**, **PratiKool** |
-| **Music** | **"Chanda Kab Door Gagan Se"** — backshot only (Pasir Ris reject beat; Kalpesh/Arjun + Jitin/Karan with mother) |
-| **Locations** | Heaven · Google Earth zoom (Pasir Ris → redirect) · Livia terminal |
+| **Format** | **Video** (post-Shringaar + story pivot) → **Stage** (Haasya dances + songs) — same template as Scene 2 |
+| **People** | **Video:** Maya, Karma Dev, Kool, PratiKool · **Stage:** dancers/performers doing **Haasya** expression / comedy movement |
+| **Music** | **Video:** **"Chanda Kab Door Gagan Se"** (Pasir Ris backshot) · **Stage:** **Haasya Ras song block TBD** (2–3 songs) |
+| **Locations** | **Video:** Heaven · Google Earth (Pasir Ris → Livia) · **Stage:** main performance area |
+| **Choreographer** | **TBD — assign** (Haasya dances + song block) |
+| **Status** | Draft — stage songs TBD |
+| **Notes** | **ON VIDEO:** Maya shy after Shringaar → Entertainment → **Haasya Ras** (Maya doesn't laugh) → can't teach one-by-one (Dhurandhar) → **story approach** → Pasir Ris rejected → **Livia**. **ON STAGE:** live **Haasya mudras/dances** + song block. Full dialogue in `livia-navras-play-scribble.md` → Scene 3. **→** Cycle Movie spy montage → **Scene 4** gym → **Scene 5** race. |
+
+---
+
+### Cycle Movie — Spy Escape *(montage before Scene 4)* [VIDEO]
+| Field | Detail |
+|-------|--------|
+| **Format** | **Video** — Bollywood mini-movie cold open (3 beats) |
+| **People** | **Karan** (Jitin), **Vandana** (sister), **3 CBI agents**, **Arjun** (Kalpesh) |
+| **Music** | **"Woh Sikandar Bhi Doston Ke Hain"** — chase / buddy escape on cycles |
+| **Locations** | Karan's home / Livia unit → streets (cycle escape) → arrives at **Livia gym** |
 | **Status** | Draft |
-| **Notes** | **Post-Shringaar:** Maya shy reaction → Karma on love running the world → Entertainment → **Haasya Ras** named but Maya doesn't laugh → one-by-one teaching won't work (Dhurandhar gag) → **story approach** decided. Maya searches Earth; **Pasir Ris backshot rejected** as "old story" → Karma sends her to **current Livia** ("sab dramebaaz"). Kool/PratiKool head to Livia jungle — PratiKool: *"Mazaa toh aayega — mujhe."* **→ Scene 4** Cycle Movie Scene 1. |
+| **Notes** | Vandana scolds Karan → CBI "spy" gag → Vandana faints → Arjun & friends rescue Karan on cycles. Plays immediately before **Scene 4**. Full dialogue in `livia-navras-play-scribble.md`. |
 
 ---
 
-### Scene 4 — Cycle Movie: "Spy" Escape + Gym Race [VIDEO]
+### Scene 4 — Gym: Friends & Challenge [VIDEO]
 | Field | Detail |
 |-------|--------|
-| **Format** | **Video** — Bollywood mini-movie opening (2 beats) |
-| **People** | **Karan** (Jitin), **Vandana** (sister), **3 CBI agents**, **Arjun** (Kalpesh), friends (Gym Bro / Runner / Cricketer / Casual Fitness — cast TBD from Team A/B) |
-| **Music** | **"Woh Sikandar Bhi Doston Ke Hain"** — escape on cycles; may continue into race win |
-| **Locations** | Karan's home → street (cycles) → **Livia gym / fitness area** |
-| **Choreographer** | TBD — chase + race montage |
+| **Format** | **Video** |
+| **People** | **Karan** (Jitin), **Arjun** (Kalpesh), friends — Gym Bro / Runner / Cricketer / Casual Fitness Friend (cast TBD from Team A/B) |
+| **Music** | — *(or light underscore from spy escape)* |
+| **Locations** | **Livia gym / fitness area** |
 | **Status** | Draft — friend role casting TBD |
-| **Notes** | **Beat 1–3:** Vandana scolds Karan → CBI spy gag → faints → Arjun rescue on cycles. **Beat 4:** friends swamp Karan with fitness questions → Arjun: *"saans toh lene dena usko"* → Karan dramatic (work + behen's to-do list) → impromptu race → **Karan wins**, all praise, **Arjun proud** (pre-conflict warmth). |
+| **Notes** | Friends swamp Karan with fitness questions. Arjun: *"Bhai log, sabka ho jayega… saans toh lene dena usko…"* Karan dramatic (work + behen's to-do list). Arjun challenges Karan to a race: *"mere talent mein tu compete nahin kar saktha.. lekin..tere sports mein equally takkar de saktha hoon.."* Karan: *"Chalo dekthein hein.."* **→ Scene 5** race. |
 
 ---
 
-### Scene 5 — Trailer Cut + Dining (Sponsorship Ask)
+### Scene 5 — Race: Karan Wins [VIDEO]
+| Field | Detail |
+|-------|--------|
+| **Format** | **Video** — impromptu friends' race |
+| **People** | **Karan**, **Arjun**, friends (Team A/B ensemble) |
+| **Music** | **TBD** — may continue **"Woh Sikandar"** from spy escape or new race montage track |
+| **Locations** | Livia gym / fitness area → outdoor route TBD |
+| **Choreographer** | TBD — race montage |
+| **Status** | Draft |
+| **Notes** | Intro race between friends. **Karan wins** — all praise him. **Arjun proud** (no jealousy yet; establishes duo at their best — contrast for **Scene 10** friction). |
+
+---
+
+### Scene 6 — Trailer Cut + Dining (Sponsorship Ask)
 | Field | Detail |
 |-------|--------|
 | **Format** | Video (mock trailer) → stage dining |
@@ -109,7 +134,7 @@
 
 ---
 
-### Scene 6 — Meet the Sponsor: Nishanth's Office
+### Scene 7 — Meet the Sponsor: Nishanth's Office
 | Field | Detail |
 |-------|--------|
 | **Format** | Video + stage |
@@ -120,29 +145,29 @@
 
 ---
 
-### Scene 7 — Sponsorship Approved: Celebration [VIDEO] ⚠️ *review*
+### Scene 8 — Sponsorship Approved: Celebration [VIDEO] ⚠️ *review*
 | Field | Detail |
 |-------|--------|
 | **Format** | Video |
 | **People** | Karan, Arjun, Team A, Team B, Satak Lee; **Kool:** *"This is so my type of feeling… Over to you, Maya."* |
-| **Music** | **TBD** — "Woh Sikandar" may now open Scene 4; confirm reprise vs new song |
+| **Music** | **TBD** — "Woh Sikandar" used in spy escape (pre–Scene 4); confirm reprise vs new song here |
 | **Locations** | SUTD, pool, tennis court, basketball court |
 | **Choreographer** | TBD — assign |
 | **Status** | Choreo TBD |
 
 ---
 
-### Scene 8 — TBD (bridge beat)
+### Scene 9 — TBD (bridge beat)
 | Field | Detail |
 |-------|--------|
 | **Format** | TBD |
 | **People** | TBD |
 | **Status** | Not yet defined |
-| **Notes** | Placeholder between celebration (Scene 7) and team friction (Scene 9). Candidate: training montage / Naina beat — confirm with team. |
+| **Notes** | Placeholder between celebration (Scene 8) and team friction (Scene 10). Candidate: training montage / Naina beat — confirm with team. |
 
 ---
 
-### Scene 9 — Arjun & Karan Get Irritated [STAGE]
+### Scene 10 — Arjun & Karan Get Irritated [STAGE]
 | Field | Detail |
 |-------|--------|
 | **Format** | **Stage** |
@@ -155,38 +180,12 @@
 
 ---
 
-### Scene 10 — Karma Introduces Haasya Ras (2nd Ras) [VIDEO] ⚠️ *review*
-| Field | Detail |
-|-------|--------|
-| **Format** | **Video** |
-| **People** | **Karma Dev, Maya** |
-| **Music** | **Song 2 — Haasya Ras** |
-| **Locations** | Heaven / video overlay (TBD) |
-| **Status** | Draft — **may merge/cut**; early Haasya attempt is now **Scene 3** |
-| **Dialogue** | **Karma:** *"Now you have a chance to learn the 2nd Ras: Haasya."* **Maya:** *"In between such serious situation…"* **Karma:** *"Yeh toh kuch hua hi nahin hai.. just spark hai.. lekin zindagi mein sab kuch mix mein hi milta hai.. abhi ke liye haasya ka mazaa letein hein."* **Maya:** *"Ok let me program it now.. so what's Haasya Ras?"* |
-| **Notes** | Scene 3 already names Haasya and shows Maya not laughing → story pivot. Decide if this beat repeats later in the human arc or becomes redundant. |
-
----
-
-### Scene 11 — Haasya Show: "Haasi to Phaasi" [STAGE]
-| Field | Detail |
-|-------|--------|
-| **Format** | **Stage** |
-| **People** | TBD — Arjun's show (ties to Scene 9 party plan) |
-| **Music** | Haasya Ras / show soundtrack |
-| **Locations** | Stage (TBD) |
-| **Choreographer** | TBD |
-| **Status** | Draft |
-| **Notes** | Live Hasya beat — **"Haasi to Phaasi.."** Kool's party plan from Scene 9 pays off here. |
-
----
-
 ## Rasa progression (confirmed order so far)
 
 | # | Rasa | Scene(s) | Format |
 |---|------|----------|--------|
 | 1 | **Shringaar** | 2 | Video (Karma teaches) + Stage (mudras + songs) |
-| 2 | **Haasya** | 10–11 | Video → Stage |
+| 2 | **Haasya** | 3 *(in-story payoff TBD)* | Video + Stage (Scene 3) |
 | 3+ | TBD | — | — |
 
 ---
@@ -195,11 +194,12 @@
 
 | Scene | Choreographer | Locations | Status |
 |-------|---------------|-----------|--------|
-| 2 | TBD — assign | Stage (mudras + 3 songs) | Draft — 2 songs TBD |
-| 4 | TBD | Livia cycling | Script TBD |
-| 7 | TBD — assign | SUTD, pool, tennis, basketball | Choreo TBD |
-| 9 | — | Pool or gym (24hr) | Locations TBD |
-| 11 | TBD | Stage | Draft |
+| 2 | TBD — assign | Stage (Shringaar mudras + 3 songs) | Draft — 2 songs TBD |
+| 3 | TBD — assign | Stage (Haasya dances + songs) | Draft — songs TBD |
+| 4 | TBD | Livia gym | Draft |
+| 5 | TBD | Livia gym / outdoor race route | Draft |
+| 8 | TBD — assign | SUTD, pool, tennis, basketball | Choreo TBD |
+| 10 | — | Pool or gym (24hr) | Locations TBD |
 
 ---
 
@@ -207,6 +207,6 @@
 
 | This doc | Also lives in |
 |----------|----------------|
-| Scene Kanban (MAIN) | [Miro Scenes Flow board](https://miro.com/app/board/uXjVHs6iRk4=/) |
+| Scene Storyboard Kanban + Details doc | [Miro MAIN board](https://miro.com/app/board/uXjVHs6iRk4=/) |
 | Script dialogue | `livia-navras-play-scribble.md` |
 | Legacy 44-step board | Old Miro `uXjVHzpv1og` — reference only |
