@@ -43,10 +43,10 @@
 
 ---
 
-## The Story, Beat by Beat (Scenes 1–12)
+## The Story, Beat by Beat (Scenes 1–19)
 
 **Cosmic setup**
-1. **Cosmic Collaboration** — AKV builds Maya (video) → stage: Karma/Cool/Pratikool arrive; paradigm shift (mortals' tech aids immortals); Navarasas plan; Karma Chakra ascent.
+1. **Cosmic Collaboration** — AKV builds Maya (video) → stage: Karma/Cool/Pratikool arrive; paradigm shift; Navarasas plan; Karma Chakra ascent.
 2. **Navras Intro & Title Sequence** — heaven control room; nine-rasa roadmap + title cards.
 
 **First rasa**
@@ -54,27 +54,36 @@
 
 **Into the human story**
 4. **Pivot to Storytelling** — teach via story; Maya locks on Livia; cosmic zoom.
-5. **Reel Life vs Real Life** — *Chanda Kab Door* spoof (Karma breaks frame) → Arjun influencer montage → IB spy prank with Shanti → cycle getaway.
-6. **Marina Bay Ride** — skyline cycling; friends push pro sports; Arjun defends then challenges sprint (**Karan wins**); friends ask Arjun to open doors → Nikki / Walia path.
-7. **Ajay Walia's Office** — prove yourself in Walia's big cycle race; **Coach Satak Singh** assigned; Arjun stakes his izzat on Karan.
+5. **Reel Life vs Real Life** — *Chanda Kab Door* spoof → Arjun influencer → IB spy prank → cycle getaway.
+6. **Marina Bay Ride** — skyline cycling; sprint (**Karan wins**); Arjun will open doors → Nikki / Walia path.
+7. **Ajay Walia's Office** — prove it in the big cycle race; **Coach Satak Singh** assigned; Arjun stakes izzat.
 
 **Celestial infiltration**
 8. **Celestial Infiltration** — Karma: real plot found; Cool & Pratikool descend.
-9. **Sowing Seeds of Paranoia** — duo threaten Satak's job, offer to spy; Satak hires them into his circle.
-
-**Friction begins**
-10. **Gym – Silent Sting** — Satak praises Karan; Arjun showboats; Karan humiliated; Cool reassures + cautions coach.
+9. **Sowing Seeds of Paranoia** — duo spy for Satak.
+10. **Gym – Silent Sting** — Arjun showboats; Karan humiliated; Cool reassures.
 
 **Hasya → Raudra**
-11. **Hasya Ras – Qawwali Show** — heaven slapstick → Ruchi hosts Arjun: qawwali + *Oiyamma* / *Sharara* / *Ghaghra* / *Dhurandhar*.
-12. **Raudra Ras – Stage Crash** — athletic hijack (*Mary and Me*) → *Malhari* clash → Pratikool stokes Arjun → Raudra shloka → Arjun vows to crush Karan **in his own domain** (cycling championship).
+11. **Hasya Ras – Qawwali Show** — heaven slapstick → Ruchi hosts Arjun medley.
+12. **Raudra Ras – Stage Crash** — *Malhari* clash → Arjun vows sporting war.
 
-**Scenes 13+** — remaining rasas / race climax TBD.
+**Bibhatsa → Veer**
+13. **Bibhatsa Ras** — *Hawa Ke Saath Saath* ride; Pratikool baits; Arjun's invisible wires; Karma on moral disgust.
+14. **Karuna Ras** — crash → hospital; Satak nominates Arjun; pathos ballad; Pratikool gloats.
+15. **Veer Ras** — rage held back; Cool: turn fire into grit; comeback montage (physio + rebuilt cycle).
+
+**Race & wonder**
+16. **Cycle Race & Final 3 Laps** — Karan returns; duel; VIP shock; stadium board.
+17. **Adbhuta Ras** — chain snaps; Arjun gives bike; Maya's calculations fail; humans have **choice**.
+
+**Cosmic coda**
+18. **Bhayanaka Ras** — Raktabija / Mahakali myth; Tandava on the brink.
+19. **Shanta Ras & Grand Finale** — Shiva stills Kali; full-cast Navras anthem; Maya dances awake; Namaste.
 
 ---
 
 ## Format Notes
 
-- **Songs (locked shortlists):** Scene 3 Shringar medley · Scene 11 Hasya medley · Scene 12 *Mary and Me* + *Malhari*.
-- **Visuals:** Live stage + video backdrop throughout; Maya neural LEDs / graphics on rasa beats.
+- **Songs (locked shortlists):** Scene 3 Shringar medley · Scene 11 Hasya medley · Scene 12 *Mary and Me* + *Malhari* · Scene 13 *Hawa Ke Saath Saath* · Scene 19 full Navras anthem.
+- **Visuals:** Live stage + video backdrop; Maya evolves from mechanical → fluid by finale.
 - **Full scene tracker:** `livia-navras-scene-flow.md` · **Script:** `livia-navras-play-scribble.md` · **Miro:** [Scenes Flow board](https://miro.com/app/board/uXjVHs6iRk4=/).

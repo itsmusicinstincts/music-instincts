@@ -24,8 +24,15 @@
 | **10** | The Gym – Sweat, Swagger & The Silent Sting | Stage | Arjun showboats; Karan stung; Cool reassures |
 | **11** | हास्य रस (Hasya Ras) – Qawwali Show | Video → Stage | Heaven chaos → Ruchi hosts → Arjun qawwali + medley |
 | **12** | रौद्र रस (Raudra Ras) – Stage Crash | Stage | Athletic hijack → *Malhari* clash → Arjun vows sporting war |
+| **13** | बीभत्स रस (Bibhatsa Ras) – Vile Sabotage | Video + Stage | Carefree ride → Pratikool bait → invisible wire trap → Bibhatsa song |
+| **14** | करुण रस (Karuna Ras) – Shattered Bones | Video + Stage | Crash → hospital / Arjun nominated → Karuna ballad |
+| **15** | वीर रस (Veer Ras) – Conquering Inner Self | Stage + Montage | Wrath held back → Cool's counsel → comeback training |
+| **16** | The Cycle Race & Final 3 Laps | Video / Stage | Karan returns → duel → VIP shock → stadium final laps |
+| **17** | अद्भुत रस (Adbhuta Ras) – Sacrifice & Choice | Video + Stage | Chain snaps → Arjun hands over bike → Maya's paradox |
+| **18** | भयानक रस (Bhayanaka Ras) – Raktabija & Mahakali | Stage / Video | Cosmic terror myth → Kali's Tandava |
+| **19** | शांत रस (Shanta) & Grand Finale | Stage | Shiva stills Kali → full-cast Navras anthem → Maya awakens |
 
-> **Scenes 13+:** TBD (remaining rasas / race climax).
+> **Arc complete** through all nine rasas + race climax + cosmic coda (Scenes 1–19).
 
 ---
 
@@ -216,14 +223,114 @@
 
 ---
 
-## Rasa progression (locked so far)
+### Scene 13 — बीभत्स रस (Bibhatsa Ras) – The Vile Sabotage [VIDEO + STAGE]
+
+| Field | Detail |
+|-------|--------|
+| **Format** | Video (ride + ambush) + Stage (Karma exposition) |
+| **People** | Karan, cycling companions/girls, Pratikool, Arjun (hiding), Karma Dev |
+| **Music** | *हवा के साथ साथ…* → tense dissonant Bibhatsa underscore / song |
+| **Locations** | Sunlit coastal / park connector → shaded narrow bend |
+| **Status** | Draft — dialogue captured |
+| **Beat** | Carefree sprint with girls. Pratikool baits Karan's competitive wiring → full throttle. Arjun strings **invisible wires** across the sprint line. Karma explains **Bibhatsa**: not gore alone — jealousy/ego so vile it backstabs a friend = moral peak of disgust. |
+
+---
+
+### Scene 14 — करुण रस (Karuna Ras) – Shattered Bones & Broken Dreams [VIDEO + STAGE]
+
+| Field | Detail |
+|-------|--------|
+| **Format** | Video (crash + hospital) → Stage ballad → hospital shadow beat |
+| **People** | Karan, Satak Singh, friends + Shanti, Karma Dev, Cool, Pratikool |
+| **Music** | Crash/sirens → soft amber **Karuna** ballad (Karma + Cool) |
+| **Locations** | Road crash → hospital room → stage |
+| **Status** | Draft — dialogue captured |
+| **Beat** | Tripwire crash; cycle destroyed. Hospital: Satak nominates **Arjun** — no time, sponsorship on the line. Karan turns to pillow in silence. Karma + Cool define Karuna (tears for shattered dreams/tapasya). Cool empathizes at bedside; Pratikool revels: jealousy won. |
+
+---
+
+### Scene 15 — वीर रस (Veer Ras) – Conquering One's Inner Self [STAGE + MONTAGE]
+
+| Field | Detail |
+|-------|--------|
+| **Format** | Stage (wrath + counsel) → training montage (video/stage hybrid) |
+| **People** | Karan, Cool, friends + Shanti, Karma Dev |
+| **Music** | Tension → Veer anthem · high-tempo training montage |
+| **Locations** | Hospital → physio / workshop / pre-dawn roads |
+| **Status** | Draft — dialogue captured |
+| **Beat** | Karan tries to rise in rage against Arjun. Friends + Cool hold him: anger won't heal bones or sponsorship. Cool: don't lose sports spirit — turn fire into positive energy; stand on the field again. Karma: **Veer** = winning over own pain/anger/weakness. Montage: physio, friends rebuild cycle, rain training → Karan race-ready. |
+
+---
+
+### Scene 16 — The Cycle Race & The Final 3 Laps [VIDEO / STAGE]
+
+| Field | Detail |
+|-------|--------|
+| **Format** | Video race sequence (+ stage VIP / stands cutaways) |
+| **People** | Karan, Arjun, Ajay Walia, Satak Singh, crowd, friends, Cool, Pratikool, Karma, Maya |
+| **Music** | Race fanfare → duel underscore → stadium roar |
+| **Locations** | Starting grid → road course → VIP lounge → stadium arena |
+| **Status** | Draft — dialogue captured |
+| **Beat** | Arjun at pole in corporate gear; Karan rolls up on rebuilt bike — shock. Gun: race. Breakaway duel. Walia / Satak stunned in VIP. Final 3 laps board; friends/Shanti scream for Karan. |
+
+---
+
+### Scene 17 — अद्भुत रस (Adbhuta Ras) – Sacrifice & The Power of Choice [VIDEO + STAGE]
+
+| Field | Detail |
+|-------|--------|
+| **Format** | Video (race climax) + Stage/heaven (Maya paradox) |
+| **People** | Karan, Arjun, Maya, Karma Dev, Pratikool |
+| **Music** | Mechanical snap → silence → Adbhuta swell |
+| **Locations** | Track final stretch → heaven monitors |
+| **Status** | Draft — dialogue captured |
+| **Beat** | Karan's rebuilt chain snaps; bike dead. Arjun stops, removes dark headband, gives elite bike to Karan — win for humanity/fans/sports/friendship. Karan surges; Arjun cheers in peace. **No podium shown** — spirit victory. Maya: not in the script/calculations. Karma: **Adbhuta** = friendship/sacrifice > formulas; humans have **choice** over emotions. Bridge: darker ages ahead for last two rasas. |
+
+---
+
+### Scene 18 — भयानक रस (Bhayanaka Ras) – Raktabija & Mahakali [STAGE / VIDEO]
+
+| Field | Detail |
+|-------|--------|
+| **Format** | Mythological spectacle (video + stage) |
+| **People** | Karma Dev (narrator), Maya (observer), Raktabija, Maa Kali, ensemble |
+| **Music** | Apocalyptic dread → Kali fury / Rudra Tandava |
+| **Locations** | Primal battlefield / cosmic void |
+| **Choreographer** | TBD — myth battle |
+| **Status** | Draft |
+| **Beat** | Raktabija: every blood drop births demons → pure **Bhayanaka**. Maa Kali drinks blood before it hits earth. Unstoppable Tandava; universe on brink of annihilation. |
+
+---
+
+### Scene 19 — शांत रस (Shanta Ras) & The Grand Finale [STAGE]
+
+| Field | Detail |
+|-------|--------|
+| **Format** | Myth climax → full-cast musical finale |
+| **People** | Full company: celestial + mortal + dancers |
+| **Music** | Stillness → **Navras anthem** weaving all nine rasas |
+| **Locations** | Full stage |
+| **Choreographer** | TBD — finale |
+| **Status** | Draft — structure locked |
+| **Beat** | Shiva lies in Kali's path; foot on chest → she bites tongue → stillness. Karma: destruction ends in surrender/peace = **Shanta**. Full cast Navras tapestry anthem. **Maya** dances with human grace (no longer mechanical). Closing Namaste + fireworks/fade. |
+
+---
+
+## Rasa progression (complete)
 
 | # | Rasa | Scene(s) | Format |
 |---|------|----------|--------|
 | 1 | **Shringar** | 3 | Video shloka + Stage medley + comic coda |
 | 2 | **Hasya** | 11 | Video chaos + Stage qawwali / medley |
 | 3 | **Raudra** | 12 | Stage crash + shloka + Arjun's turn |
-| 4+ | TBD | 13+ | — |
+| 4 | **Bibhatsa** | 13 | Sabotage ride + Karma exposition |
+| 5 | **Karuna** | 14 | Crash/hospital + pathos ballad |
+| 6 | **Veer** | 15 | Inner valor + comeback montage |
+| 7 | **Adbhuta** | 17 | Bike handover + choice paradox |
+| 8 | **Bhayanaka** | 18 | Raktabija / Mahakali myth |
+| 9 | **Shanta** | 19 | Shiva stills Kali + finale anthem |
+
+> Scene **16** = race bridge (all rasas in play; no new rasa named).
 
 ---
 
@@ -234,6 +341,11 @@
 | 3 | TBD | Stage — Shringar medley + Maya robot dance | Tracks shortlisted |
 | 11 | TBD | Stage — Qawwali + Oiyamma / Sharara / Ghaghra / Dhurandhar | Tracks shortlisted |
 | 12 | TBD | Stage — Mary and Me / Malhari clash | Draft |
+| 13–14 | TBD | Road crash video + hospital + rasas songs | Draft |
+| 15 | TBD | Training montage / cycle rebuild | Draft |
+| 16–17 | TBD | Race course + stadium | Draft |
+| 18 | TBD | Myth battlefield (Kali / Raktabija) | Draft |
+| 19 | TBD | Full-cast Navras finale | Draft |
 
 ---
 

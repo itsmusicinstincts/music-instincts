@@ -11,7 +11,7 @@
 
 **Karma Dev**, overwhelmed by Earth's booming population and karmic ledger, recruits scientist **AKV**'s AI **Maya** — but she cannot feel — so Karma, **Cool (Anukool)**, and **Pratikool** awaken her **Navarasas** through a live human sports story at **Livia**: athlete **Karan** and celebrity **Arjun**, whose sponsorship dream turns friendship into rivalry.
 
-> **Status (latest):** **👉 Scene order (Scenes 1–12):** `livia-navras-scene-flow.md` — **read this first.** This file = script dialogue + production notes. **Miro:** [Scenes Flow board](https://miro.com/app/board/uXjVHs6iRk4=/).
+> **Status (latest):** **👉 Scene order (Scenes 1–19):** `livia-navras-scene-flow.md` — **read this first.** This file = script dialogue + production notes. **Miro:** [Scenes Flow board](https://miro.com/app/board/uXjVHs6iRk4=/).
 
 ---
 
@@ -21,7 +21,7 @@
 |------|--------|
 | Tone | Comic end-to-end; sincere under the jokes |
 | Hero / guide | Maya (AI student) + Karma Dev (cosmic administrator / teacher) |
-| Structure | Nine rasas via sports battleground; **Shringar** = Scene 3 · **Hasya** = Scene 11 · **Raudra** = Scene 12 · remaining TBD |
+| Structure | Nine rasas via sports battleground; Scenes **1–19** complete arc (Shringar→Shanta + race climax + cosmic coda) |
 | Shadows | **Cool** = bright (encourage) · **Pratikool** = dark (provoke / amplify) |
 | Instant karma | Small action → fast comic/emotional echo |
 | Ending (TBD) | Maya can mimic; humans *choose* which side of emotion they lean into |
@@ -54,7 +54,7 @@
 
 ---
 
-## SCENES 1–12 (MASTER DRAFT — Sep 2026 refresh)
+## SCENES 1–19 (MASTER DRAFT)
 
 ---
 
@@ -284,10 +284,180 @@
 
 ---
 
-**YOUR NOTES — Scenes 13+ (remaining rasas / race climax TBD)**
+### SCENE 13 — बीभत्स रस (Bibhatsa Ras) – The Vile Sabotage [VIDEO + STAGE]
+
+**People:** Karan (Jiten), cycling companions/girls, Pratikool, Arjun (Kalpesh), Karma Dev
+
+**Part 1 – The Carefree Sprint (Video)**
+- Sunlit coastal stretch / park connector. Karan cruises with a group of girls, laughing.
+- **Soundtrack:** *हवा के साथ साथ, घटा के संग संग... ओ साथी चल!*
+
+**Part 2 – Pratikool's Bait**
+
+**Pratikool** *(pulls up beside Karan):* "क्या बात है करन! इतनी धीमी रफ्तार? अगर रेस जीतनी है, तो हवा की तरह उड़ना सीखो! दम है तो खींच के दिखाओ!"
+
+*(Karan drops into aero tuck, full-throttle sprint. Pratikool smiles maliciously and peels back into shadow.)*
+
+**Part 3 – Arjun's Ambush**
+- Shaded narrow bend. Blinded by anger, Arjun has strung **thin invisible wires** across both sides of the street between trees/posts — directly in Karan's sprint line.
+
+**Part 4 – Karma Dev's Song of बीभत्स रस**
+
+**Karma Dev:** "बीभत्स रस केवल घिनौनी चीज़ों या खून-खराबे का नाम नहीं है... इंसान के भीतर जब ईर्ष्या और अहंकार इस हद तक गिर जाए कि वह अपने ही दोस्त की पीठ में छुरा घोंप दे, तो वह नैतिक पतन और वह गंदा विचार ही **बीभत्स रस** की पराकाष्ठा है।"
+
+*(Score → tense, jarring, dissonant — ugliness of a poisoned conscience.)*
+
+---
+
+### SCENE 14 — करुण रस (Karuna Ras) – Shattered Bones & Broken Dreams [VIDEO + STAGE]
+
+**People:** Karan, Coach Satak Singh, Brishti, Gaurav, Anu, Shikha, Shri, Shanti, Karma Dev, Cool, Pratikool
+
+**Part 1 – The Crash (Video)**
+- Karan hits the invisible tripwire at max speed. Cycle flips; carbon frame snaps; hard tarmac crash. Cries fade under sirens → cut to black.
+
+**Part 2 – The Hospital – Crushing Verdict**
+- Karan bedridden — arms/legs in casts. Friends + Shanti fight tears.
+
+**Coach Satak Singh** *(clipboard):* "आई एम सॉरी करन... इन टूटी हड्डियों के साथ तुम अब रेस के लिए क्वालीफाई नहीं कर सकते। वक्त बिल्कुल नहीं है और स्पॉन्सरशिप दांव पर लगी है। मजबूरी में मुझे तुम्हारी जगह **अर्जुन** को नॉमिनेट करना होगा।"
+
+*(Karan turns face into the pillow — absolute silence.)*
+
+**Part 3 – करुण रस Ballad (Stage)**
+- Soft melancholic amber light. Karma Dev + Cool define Karuna:
+
+> "करुण रस वह पीड़ा है जो किसी के टूटे हुए सपनों को देखकर आत्मा में उतरती है... जब एक सच्चे खिलाड़ी की वर्षों की तपस्या एक धोखे से बिखर जाए, तो उस बेबसी से जो आंसू बहते हैं, वही करुणा है।"
+
+**Part 4 – The Shadows Diverge**
+- Cool at the foot of Karan's bed — quiet empathy.
+
+**Pratikool** *(malignant delight):* "देखा? एक ही झटके में खेल खत्म! ईर्ष्या जीत गई और खिलाड़ी अस्पताल के बिस्तर पर पहुंच गया!"
+
+---
+
+### SCENE 15 — वीर रस (Veer Ras) – Conquering One's Inner Self [STAGE + MONTAGE]
+
+**People:** Karan, Cool, friends + Shanti, Karma Dev
+
+**Part 1 – The Flare of Wrath**
+
+**Karan** *(trying to tear out of bed):* "अर्जुन ने मेरे साथ यह दगाबाजी की?! मैं उसे ऐसे ही नहीं छोड़ने वाला! I won't let him get away with this!"
+
+**Part 2 – The Intervention**
+
+**Friends:** "रुक जा करन! इस गुस्से से क्या हासिल होगा? क्या चीखने-चिल्लाने से टूटी हड्डियां जुड़ जाएंगी या स्पॉन्सरशिप वापस मिलेगी? बिल्कुल नहीं!"
+
+**Cool:** "करन, स्पॉन्सरशिप छूटी है, तुम्हारी खेल भावना (sports spirit) नहीं! अपने अंदर के उस खिलाड़ी को कभी मत हारने देना। इस आग को बदले की नफ़रत में बर्बाद मत करो, इसे पॉजिटिव एनर्जी में बदलो। उठो, मेहनत करो, और देखो कि क्या तुम जीतने के लिए नहीं, तो कम से कम उस मैदान में फिर से खड़े होने के काबिल बन सकते हो या नहीं!"
+
+**Part 3 – वीर रस**
+
+**Karma Dev:** "वीर रस का मतलब सिर्फ मैदान में दूसरों को हराना नहीं है... **वीर रस की असली जीत है—अपने ही दर्द, अपने गुस्से और अपनी कमजोरियों पर विजय पाना (Winning over one's own emotions).**"
+
+**Part 4 – Comeback Training Montage**
+- Physio through agony; friends weld/rebuild shattered cycle; pre-dawn rain training.
+- Karan stands ready in full racing kit beside rebuilt machine.
+
+---
+
+### SCENE 16 — The Cycle Race & The Final 3 Laps [VIDEO / STAGE]
+
+**People:** Karan, Arjun, Ajay Walia, Coach Satak Singh, crowd, friends, Cool, Pratikool, Karma, Maya
+
+**Part 1 – Starting Line Shock**
+- Arjun at pole in sleek sponsored gear. Karan rolls up on rebuilt cycle. Shock; eyes lock. Starter: *3… 2… 1… BANG!*
+
+**Part 2 – The Breakaway**
+- High-speed turns, slipstreaming, sprints. Karan & Arjun pull clear — two-man duel.
+
+**Part 3 – VIP Lounge**
+
+**Ajay Walia** *(drops cigar):* "अनबिलीवेबल! टूटी हड्डियों वाला लड़का इस रफ्तार से भाग रहा है?! This is extraordinary racing!"
+
+**Coach Satak Singh:** "यह नामुमकिन है... करन हार मानने को तैयार ही नहीं है!"
+
+**Part 4 – Final 3 Laps**
+- Into stadium. Board blazes: **FINAL 3 LAPS TO GO**. Friends + Shanti: "कम ऑन करन! खींच ले करन!"
+
+---
+
+### SCENE 17 — अद्भुत रस (Adbhuta Ras) – Sacrifice & The Power of Choice [VIDEO + STAGE]
+
+**People:** Karan, Arjun, Maya, Karma Dev, Pratikool
+
+**Part 1 – Mechanical Breakdown**
+- Final stretch: rebuilt drivechain snaps. Karan skids safely; bike dead. Arena silence.
+
+**Part 2 – The Handover**
+- Arjun has a clear path to victory — glances back, brakes hard beside Karan. Unclips, rips off dark headband, thrusts elite bike into Karan's hands.
+
+**Karan:** "अर्जुन... यह तू क्या कर रहा है?! जीत तेरी मुट्ठी में है, आगे बढ़!"
+
+**Arjun** *(tears, warm smile):* "नहीं करन... मेरी इस जीत का दुनिया के लिए कोई मतलब नहीं है। यह सिर्फ मेरे खोखले अहंकार की जीत होती। लेकिन तुझे जीतना होगा—इंसानियत के लिए, उन लाखों फैंस के लिए जो तुम्हें देख रहे हैं, स्पोर्ट्स के लिए... और हमारी दोस्ती के लिए! जा करन, दौड़!"
+
+*(Arjun pushes Karan onto saddle; Karan explodes forward. Arjun cheers in peace. Camera tracks into white horizon — **no physical finish line/podium**.)*
+
+**Part 3 – The AI Paradox & अद्भुत रस**
+
+**Maya** *(error-flashing monitors):* "यह तो हमारे स्क्रिप्ट और कैलकुलेशन में नहीं था, कर्मदेव! सिचुएशन के हिसाब से अर्जुन को जीतना चाहिए था... यह कैसे हुआ?"
+
+**Karma Dev:** "माया... यही तो **अद्भुत रस** है! दोस्ती, प्यार, त्याग—जो किसी भी जीत से कहीं बढ़कर हैं। मशीनों के पास सिर्फ फॉर्मूले और कैलकुलेशन होते हैं, लेकिन इंसान के पास 'चॉइस' (Choice) है—अपने इमोशंस के ऊपर सोच के उसपे काबू करने का। वह अपना कर्म खुद तय करता है... हमारा काम बस उसको उस मुकाम पर लाना है, फिर उसी की मर्जी है उसके अगले कर्म की।"
+
+**Part 4 – Bridge to Cosmic Depths**
+
+**Karma Dev** *(grave):* "जो तुमने देखा, ये वो भावनाएं हैं जिन पर इंसान फिर भी काबू पा सकता है... लेकिन मैंने सृष्टि के शुरुआती दिनों में इससे भी कहीं ज्यादा भयंकर मंज़र देखे हैं, जब भावनाएं और अहंकार इतना विकराल रूप ले लेते हैं कि सब कुछ पूरी तरह बेकाबू हो जाता है। चलो, आखिरी दो रसों को समझने के लिए मैं तुम्हें उस युग की कहानी सुनाता हूँ..."
+
+---
+
+### SCENE 18 — भयानक रस (Bhayanaka Ras) – Raktabija & Mahakali [STAGE / VIDEO]
+
+**People:** Karma Dev (narrator), Maya (observer), Raktabija, Maa Kali, ensemble
+
+**Part 1 – The Demon Raktabija**
+- Apocalyptic dawn-of-universe battlefield. Karma narrates **Raktabija**: every drop of spilled blood on earth births thousands of identical demons. Creation gripped by **Bhayanaka**.
+
+**Part 2 – The Rise of Mahakali**
+- **Maa Kali** emerges — drinks Raktabija's blood before it touches soil; obliterates the horde.
+
+**Part 3 – The Unstoppable Tandava**
+- Kali's cosmic fury unquelled — *Rudra Tandava* shakes the universe; brink of total annihilation.
+
+---
+
+### SCENE 19 — शांत रस (Shanta Ras) & The Grand Finale [STAGE]
+
+**People:** Full company — celestial + mortal + dancers
+
+**Part 1 – The Surrender of Stillness**
+- Lord Shiva calmly lies in Maa Kali's path. Her foot lands on his chest; she recognizes Mahadev, bites her tongue. Cosmic storm → absolute stillness.
+
+**Part 2 – Transition to शांत रस**
+- Lighting: crimson/void → serene golden-white dawn.
+
+**Karma Dev:** "क्रोध, अहंकार और विनाश का अंत किसी हथियार से नहीं, बल्कि पूर्ण समर्पण और शांति से होता है। यही है शांत रस—जहाँ सभी संघर्ष शांत होकर एकाकार हो जाते हैं।"
+
+**Part 3 – Grand Finale: Full Cast Navras Anthem**
+- Entire company on stage — barriers dissolve between mortals, immortals, and AI.
+- Multi-tempo anthem weaving all nine rasas:
+  - **Shringar** — graceful love/community
+  - **Hasya** — playful energy (friends + Cool/Pratikool)
+  - **Raudra & Bhayanaka** — thunderous drums of trials conquered
+  - **Bibhatsa & Karuna** — soulful healing harmonies
+  - **Veer** — stadium horns of grit/sportsmanship
+  - **Adbhuta** — synchronized marvel of selflessness
+  - **Shanta** — majestic crescendo of unity
+
+**Maya's Awakening**
+- Maya at the heart of the formation — mechanical rigidity gone; fluid human grace, warmth, joy. She has *lived* the nine emotions, not merely computed them.
+
+**Closing Tableau**
+- Synchronized final pose. Maya + Karma step forward — Namaste. Fireworks/streamers; lights to black.
+
+---
+
+**YOUR NOTES — post-show / polish TBD**
 
 ```
-(type next beats here)
+(type polish notes, casting gaps, or alternate cuts here)
 ```
 
 ---
