@@ -1,756 +1,300 @@
-# Livia × Karma × Navras — Play Scribble
+# NAVARASA: THE COSMIC CODE OF SPORTS — Play Scribble
 
 > **How to use this file**
 > - Type under any `YOUR NOTES` block — rough ideas, names, songs, casting.
-> - Tell the AI: *“Update Scene 3”* or *“Fill Hasya from my notes”* and it will rewrite that section.
-> - Keep comedy as the default tone. Details can stay messy.
+> - Tell the AI: *“Update Scene 7”* and it will rewrite that section.
+> - Keep comedy as the default tone.
 
 ---
 
 ## Logline (1 sentence)
 
-**Karma Dev**, overwhelmed by humanity's growing karma load, has scientist **AKV** build an AI, **Maya**, to help — but Maya doesn't understand emotion, so Karma Dev teaches her the nine Navras by using a real human story (best friends **Karan** and **Arjun**, whose sports sponsorship dream tests their friendship through every rasa) as the classroom — and Maya discovers that copying faces is not the same as having karma.
+**Karma Dev**, overwhelmed by Earth's booming population and karmic ledger, recruits scientist **AKV**'s AI **Maya** — but she cannot feel — so Karma, **Cool (Anukool)**, and **Pratikool** awaken her **Navarasas** through a live human sports story at **Livia**: athlete **Karan** and celebrity **Arjun**, whose sponsorship dream turns friendship into rivalry.
 
-> **Status (latest):** **👉 Scene order (Scenes 1–10):** `livia-navras-scene-flow.md` — **read this first.** This file = script dialogue + video prompts only. **Miro:** [Scenes Flow board](https://miro.com/app/board/uXjVHs6iRk4=/). Legacy 44-step Kanban on old board — reference only.
+> **Status (latest):** **👉 Scene order (Scenes 1–12):** `livia-navras-scene-flow.md` — **read this first.** This file = script dialogue + production notes. **Miro:** [Scenes Flow board](https://miro.com/app/board/uXjVHs6iRk4=/).
 
 ---
 
-## Core rules (don’t lose these)
+## Core rules
 
 | Rule | Notes |
 |------|--------|
 | Tone | Comic end-to-end; sincere under the jokes |
-| Hero / guide | Maya (AI student) + Karma Dev (playful trickster, mythic Chief Accountant) |
-| Structure | 9 rasas; **Shringaar first** (Scene 2), **Haasya second** (Scene 3 video + stage); in-story arc through Karan & Arjun; post–Scene 10 payoff **TBD** |
-| Instant karma | Small action → fast comic echo inside scenes ("Jaisi Karni, Waisi Bharni") |
-| Languages | Regional scolds / colour (*Ada karma!* etc.) welcome |
-| Fourth-wall gag | PratiKool bosses Maya around like a director ("scene change kar") — candidate running gag, use 1–2 more times |
-| Trailer cutaway | Any beat can get the mock movie-trailer treatment (freeze frames, text cards, booming narrator) before getting snapped back to the "real" scene — confirmed for "Yeh Bandhan," reusable elsewhere |
-| Ending | Maya can mimic; humans are *moved* by karma, and choose which side (Shanti vs Rakshash) they lean into — AI does neither |
+| Hero / guide | Maya (AI student) + Karma Dev (cosmic administrator / teacher) |
+| Structure | Nine rasas via sports battleground; **Shringar** = Scene 3 · **Hasya** = Scene 11 · **Raudra** = Scene 12 · remaining TBD |
+| Shadows | **Cool** = bright (encourage) · **Pratikool** = dark (provoke / amplify) |
+| Instant karma | Small action → fast comic/emotional echo |
+| Ending (TBD) | Maya can mimic; humans *choose* which side of emotion they lean into |
 
 ---
 
-## Cast / opportunities (fill names later)
+## Cast
 
-| Role | Who / vibe | Performer(s) |
-|------|------------|--------------|
-| Maya | AI, earnest, slightly wrong, learns emotion scene by scene. **Also now keeps the karmic ledger herself** (absorbs Audit Devi's old function — an early hint of her role, before she can even feel) | Video / on-stage actor / both |
-| Karma Dev | Mythic trickster, Chief Accountant of karma, the teacher | Video + stage presence |
-| Kool | Positive-karma field agent, can take any human form | — |
-| PratiKool | Negative-karma field agent, instigates the story's conflict | — |
-| AKV | Scientist who builds Maya | — |
-| Karan | Co-lead of the human story; talented, easily distracted | **Jiten** |
-| Vandana (Karan's Sister) | Domestic comedy foil; to-do lists, office-call nagging, sports vs work | **Vandana** |
-| Arjun | Karan's best friend; feels sidelined, manipulated into sabotage | **Kalpesh** |
-| Naina | Catalyst for Shringar within Karan's story | — |
-| Nishanth | The sponsor; meets Karan & Arjun in his office, introduces them to Coach Satak Lee | — |
-| Coach Satak Lee | Trains Karan & Arjun; comic entrance song ("Aata Maji Satak Li") | — |
-| Ensemble | Sponsor's world, Bhayanak Ras's 9 Devis, dancers/singers | Many — rotate |
+### Celestial realm
 
-> **Cast change:** Audit Devi has been cut. Maya now doubles as the "Audit control" herself. **Chitragupt** (Yama's scribe, keeper of humanity's karmic records in the myths) is introduced by name as the *offstage* reason Karma Dev needs help — overwhelmed by the population, he keeps fleeing to other Loks for "holiday." He doesn't need to appear on stage; he's the joke that kicks off the plot.
+| Role | Who / vibe | Performer |
+|------|------------|-----------|
+| **Karma (Karma Dev)** | Cosmic administrator of actions & consequences | TBD |
+| **Cool (Anukool)** | Bright shadow — optimistic, grounded, supportive | TBD |
+| **Pratikool** | Dark shadow — cynical, provocative, conflict amplifier | TBD |
+| **Maya** | State-of-the-art AI humanoid; emotional consciousness training | TBD |
 
-### Team A / Team B (fixed ensemble rosters)
+### Earth realm (Livia / Singapore)
 
-> Introduced in **Scenes 4–5** (Cycle Movie gym + race) and recurring through **every sports-activity scene** in the show (training montages, "All Is Well" montage, Race Day, etc.) — these are the fixed team lineups, not one-off extras.
-
-**Team A** — Karan's team
-
-| Performer | Notes |
-|---|---|
-| Jiten | Plays **Karan** |
-| Bristi | |
-| Anuj | Can be used in video footage |
-| Shree's husband | |
-| Samiran | |
-| Misbah | ⚠️ also listed on Team B — confirm if this is the same person doubling across teams, or two different people |
-| Abhishek | |
-| Sujata | |
-| Aruna | |
-
-**Team B** — Arjun's team
-
-| Performer | Notes |
-|---|---|
-| Kalpesh | Plays **Arjun**, team lead |
-| Vandana | Also plays **Karan's Sister** (Cycle Movie spy beat — pre–Scene 4) |
-| Pramod | |
-| Ankit | |
-| Varun | |
-| Misbah | ⚠️ see note on Team A |
-| Bhavana | |
-| Priyanka | |
-| Ruchi | |
-| Venu | |
-
-**YOUR NOTES — casting**
-
-```
-(type here)
-```
+| Role | Who / vibe | Performer |
+|------|------------|-----------|
+| **AKV** | Visionary scientist; creator of Maya | TBD |
+| **Karan** | Passionate gifted athlete balancing job + sports | **Jiten** |
+| **Arjun** | Top digital celebrity / mega-influencer; friend → rival | **Kalpesh** |
+| **Shanti** | Karan's dramatic sports-averse sister; also Mother in Bollywood spoof | **Shanti** |
+| **Ajay Walia** | Flamboyant corporate billionaire sponsor | **Nishant** |
+| **Coach Satak Singh** | Demanding veteran coach hired by Walia | TBD |
+| **Ruchi** | Charismatic stage Emcee / Host | **Ruchi** |
+| **Sports Crew** | Friends ensemble | **Brishti, Gaurav, Anu, Shikha, Shri** |
 
 ---
 
-## Visual emotion system (see also design section below)
+## SCENES 1–12 (MASTER DRAFT — Sep 2026 refresh)
 
-- Livia starts with a **blank / grey mega-emoticon outline** (empty shell).
-- After each rasa, **one small emoticon** for that emotion flies in and **slots inside** the big face.
-- Finale: the **big emoticon is full** — all 9 mini-emoticons living inside one giant expression.
-- Twist: the big face still smiles, but the **mini-emoticons freeze / grey out / stop bouncing** — faces without karma.
+---
 
-| # | Rasa (emotion) | Colour (draft) | Mini-emoticon idea | Style / ladies | Condo / stage idea |
-|---|----------------|----------------|--------------------|----------------|--------------------|
-| 1 | Shringara — love / attraction | Soft rose / pink | 😍 or soft heart-eyes | | |
-| 2 | Hasya — laughter | Bright yellow / gold | 😂 laughing tears | Qawwali laughter riots | |
-| 3 | Karuna — sorrow | Deep blue | 😢 tearful | | |
-| 4 | Raudra — anger | Hot red / crimson | 😡 / 🤬 glare | Classical fierce mudras → **Durandhar-style mystic rage** condo parody | Parking / parcel / BBQ epic rage |
-| 5 | Veera — courage | Saffron / orange | 💪 / 😎 brave smirk | | |
-| 6 | Bhayanaka — fear | Purple / violet | 😨 wide eyes | | |
-| 7 | Bibhatsa — disgust | Green / olive | 🤢 / 😖 wrinkle | | |
-| 8 | Adbhuta — wonder | Cyan / silver | 🤩 / 😮 awe | | |
-| 9 | Shanta — peace | White / soft gold | 😌 calm | | |
+### SCENE 1 — The Cosmic Collaboration [VIDEO → STAGE]
 
-*(Colours & emoji choices are drafts — change freely in YOUR NOTES.)*
+**Location:** Startup tech lab → main stage · **People:** AKV, Maya, Karma Dev, Cool, Pratikool
 
-**YOUR NOTES — emoticons / colours**
+**ON VIDEO**
+- Modern startup laboratory. AKV assembles, calibrates, and programs Maya.
+
+**ON STAGE**
+- AKV and Maya step out of the screen onto live stage (futuristic entrance theme).
+- **Karma Dev, Cool, Pratikool** materialize.
+
+**Karma Dev** — Earth's population boom has overloaded the cosmic ledger of human deeds. He needs computational reinforcement.
+
+**The Cosmic Paradigm Shift**
+> In earlier ages, the immortals guided and assisted mortals. Now the cycle has turned: mortals have created technology that must aid the immortals.
+
+**AKV:** "Listen, I've created one of the most advanced humanoids in history. She can process infinite tasks, but your karmic ledger is built on human emotion, not mathematical formulas. How will she handle that?"
+
+**Karma Dev:** "Sage Bharat Muni codified the spectrum of human emotion through the **Navarasas**. Mortals couldn't grant her a soul alone, but together—divine wisdom and your human engineering—we will awaken her artificial neurons to true feeling."
+
+**AKV:** "On behalf of humanity, I give this gift back to the immortals. Take Maya with you."
+
+*(Maya, Karma, Cool, and Pratikool board the celestial **Karma Chakra Chariot**. Title track about Navras and Karma Chakra as the chariot ascends.)*
+
+---
+
+### SCENE 2 — Navras Introduction & Title Sequence [VIDEO]
+
+**Location:** Celestial Karma Operations Center · **People:** Karma Dev, Cool, Pratikool, Maya
+
+- Structured introductory discussion defining the roadmap of the nine Rasas.
+- Official visual title sequence establishes the mission ahead.
 
 ```
-(type here)
+(TBD — exact intro dialogue / title card language)
 ```
 
 ---
 
-## Opening Scene — Full Draft (NEW — supersedes old Steps 1, 2, 5, 6 below)
+### SCENE 3 — श्रृंगार रस (Shringar Ras – Love) [VIDEO → STAGE]
 
-> Replaces the separate "Karma Dev's Intro" / "AKV's Creation Video" / "Audit Devi's Complaint" / "Karma Proposes the Navras" steps with one continuous dialogue scene. **Audit Devi is cut — Maya absorbs her "audit control" function.**
->
-> ⚠️ **Video shot-list — DECIDED: Option A.** Shots 4.1–5B.2 (the "robots overwhelmed in heaven" crisis beats) are **CUT** — marked as such in `livia-navras-intro-video-shotlist.csv` and the Miro "Video Production" table, not deleted, so the design work isn't lost if needed later. Heaven interior becomes a short establishing shot, then straight into the four arriving with Maya already in hand, into the final held-pose handoff (5B.3). **Exact replacement shot(s) for that gap are TBD** — parked pending a team discussion; revisit before regenerating any prompts for this stretch. Shot 3.3 (silhouette tease) still needs its simple character swap (Audit Devi → Maya), not cut.
+**Part 1 – The Shloka (Video)**
+- Sacred Sanskrit *shloka* on Shringar Ras + Hindi translation/explanation (love & beauty).
 
-**SCENE — SCREEN: AKV Builds Maya → Karma Dev's Team Arrives**
+**Part 2 – Live Stage Dance Medley**
+1. *सूरज हुआ मद्धम* (*Suraj Hua Maddham*)
+2. *कुछ कुछ होता है* (*Kuch Kuch Hota Hai*)
+3. *तेरे वास्ते* (*Tere Vaaste*)
 
-*(On screen: AKV is seen building/assembling Maya in his workshop — training montage, Maya watching kids play, all as before. Then Karma Dev enters, with Kool and PratiKool.)*
+**Part 3 – Maya's Neural Calibration & Comic Coda**
+- LED/graphics: Maya's neural nets processing love symbols / emoticons.
+- Maya center stage — stiff mechanical **robot dance** to a vintage black-and-white Bollywood classic (physical comedy).
 
-**Karma:** Introduction — "________" *(TBD)*
-**Kool:** Introduction — "________" *(TBD)*
-**PratiKool:** Introduction — "________" *(TBD)*
-
-**AKV:** "Welcome to my AI world, how can I help you Karma Dev?"
-
-**Karma:** "Chitragupt is tired of the population on earth and keeps going for holiday to other Lok's."
-
-**Kool:** "Heard about your AI Robot's doing awesome job on earth and we want to replicate the same efficiency there."
-
-**PratiKool:** "We will get them to heaven and let them take over our lazy team too, especially this leader of your robots, 'Maya.'"
-
-**Karma:** "Apna apna rang mat dikhao yahan. I am here to take help from AKV to help with the overload that's caused by humans on earth, and I thought I will fix it by human's own creation — AI."
-
-**AKV:** "Oh — happy to see that my inventions can help in a divine way too." *(He hands over Maya to Karma.)*
-
-**Maya:** "Oh, I go to heaven — I have learnt that the highest aspiration for a human is to go to heaven, never thought that will be my first task as a human clone. I am excited."
-
-**AKV:** "By the way, I have taught her all human actions, activities, and intelligence. But... she doesn't understand feelings."
-
-**PratiKool:** "Oh, that's a deal breaker. All our actions are based on feelings?"
-
-**Kool:** "Yes — for once I need to agree with you. But I am sure our Karma Dev will be able to help her."
-
-**Karma:** "Oh... yes...
-
-*मन में जो है भावना,*
-*कर्म वहीं से बना।*
-
-Bhavna aur kalpana ko samajhney ke liye, Bharat Muni ka Natya Ved aur Natak Shastra sikhaoonga tumhe. Usme nau prakaar ke ras samjhney honge — 9 emotions. If you understand this, you will understand human behaviours and their actions."
-
-**[Transition]** — Karma Dev, Kool, PratiKool, and Maya set off for heaven together.
-
-**Title song (on video):** *"Navras Se Hai Kalpana"*
-
-**→ Scene 2: Shringaar Ras [VIDEO] — then Scene 3: In Heaven** — continues below.
+**Choreographer:** TBD
 
 ---
 
-**SCENE 2 — Shringaar Ras — First Ras [VIDEO + STAGE]** ⭐ *narration template*
+### SCENE 4 — The Pivot to Storytelling [STAGE → SCREEN]
 
-**ON VIDEO** — Karma teaches Maya the first Ras:
+**Location:** Celestial realm → cosmic descent to Livia · **People:** Cool, Pratikool, Karma Dev, Maya
 
-**Karma:** "Let me take the easiest one for you to start — the basis of our existence: **Shringar** / **Pyaar** / **Love**."
+*(Cool and Pratikool banter about Maya's stiff dance moves.)*
 
-*(The **"Shringar"** teaching line is delivered **as a song** — explained to Maya/AI on screen.)*
+**Karma Dev:** "Shringar was the simplest emotion to compute. The next eight are far more complex. We cannot teach them through dry lectures. Mortals learn through **stories**—and since humans built her, her AI will understand best through an unfolding human story."
 
-**People (video):** Karma Dev, Maya
-
-**ON STAGE** — immediately after (or intercut with) the video beat:
-
-- **Shringaar mudras** performed live (classical dancers / ladies — Bharatnatyam expression)
-- **Song block (3 songs):**
-  1. **"Ishq Wala Love"**
-  2. __________ *(TBD)*
-  3. __________ *(TBD)*
-
-**Choreographer:** TBD — assign (mudras + 3-song block)
-
-> **Rasa order confirmed:** Shringaar = 1st Ras (Scene 2). **Haasya = 2nd Ras (Scene 3)** — video + stage template (same as Scene 2). In-story Haasya payoff TBD (after Scene 10). **Teaching pattern:** Karma on video → mudras/dances on stage → song block. Scene 3 video also pivots to the human story at Livia.
-
-**→ Scene 3** — After Shringaar: Haasya Ras [VIDEO + STAGE] — script below after Shringar Garden production notes.
+- Karma directs Maya to scan Earth for high concentrations of theatrical, emotionally charged individuals.
+- Coordinates lock onto **Livia**.
+- High-speed Google Earth-style cosmic zoom from heavens to Livia.
 
 ---
 
-### Scene Shringar Garden — romantic backdrop video (Google Flow / Veo)
+### SCENE 5 — Livia – Reel Life vs Real Life [VIDEO]
 
-> **Source storyboard:** `Dilse 2026/Livia Talkies 6/Story/1st Ras/Shringar Garden/garden_video_storyboard.md`
-> **Shot tracker (CSV):** `livia-navras-shringar-garden-shotlist.csv` — browse shots here; full copy-paste prompts below.
->
-> **Purpose:** 2-minute moonlit Indian mythological garden backdrop for the Shringaar song block — performers filmed on green screen and composited over these plates. **No humans anywhere in the generated footage.**
->
-> **Total runtime when stitched:** 120 seconds (8 scenes, 20 clips). Generate each clip in Flow at the listed duration (split into two ~5s beats if your tier caps length), then stitch in Premiere/CapCut/DaVinci with soft cross-dissolves (0.5–1s).
->
-> **Shared style lock (every prompt):** old classic Indian mythological + romantic; moonlit ambience with soft golden divine accents; palette = deep indigo/navy sky, rich purple/magenta haze, emerald/jade vegetation, soft gold/amber lantern light, silver moonlight on water; soft mist, fireflies, magical particles, gentle wind on plants; no people, no text overlays.
->
-> **Color grade (post):** cool moonlight (5500–6500K) + warm golden accents (3000K); deep but visible shadows; moderate-high contrast; slightly desaturated with jewel-tone pops.
+**Location:** Open rural field → Karan's living room
 
-| Clip | Timecode | Scene | Duration | Status |
-|------|----------|-------|----------|--------|
-| S1.1 | 0:00–0:05 | Moonlit sky descent | 5s | Draft |
-| S1.2 | 0:05–0:10 | Temple gate entrance | 5s | Draft |
-| S2.1 | 0:10–0:15 | Flower avenue glide | 5s | Draft |
-| S2.2 | 0:15–0:20 | Magical flower close-ups | 5s | Draft |
-| S2.3 | 0:20–0:25 | Mandala plaza reveal | 5s | Draft |
-| S3.1 | 0:25–0:30 | Waterfall reveal | 5s | Draft |
-| S3.2 | 0:30–0:38 | Pool reflections | 8s | Draft |
-| S3.3 | 0:38–0:45 | Waterfall spray detail | 7s | Draft |
-| S3.4 | 0:45–0:50 | Wide waterfall landscape | 5s | Draft |
-| S4.1 | 0:50–0:57 | Garden swing in motion | 7s | Draft |
-| S4.2 | 0:57–1:03 | Swing seat close-up | 6s | Draft |
-| S4.3 | 1:03–1:10 | Wide swing in garden | 7s | Draft |
-| S5.1 | 1:10–1:17 | Lotus pond detail | 7s | Draft |
-| S5.2 | 1:17–1:23 | Pond wildlife ripples | 6s | Draft |
-| S5.3 | 1:23–1:30 | Stone bridge over pond | 7s | Draft |
-| S5.4 | 1:30–1:35 | Pond wide return | 5s | Draft |
-| S6.1 | 1:35–1:42 | Ornate pavilion | 7s | Draft |
-| S6.2 | 1:42–1:50 | Pavilion details | 8s | Draft |
-| S7.1 | 1:50–1:55 | Flower beds wide | 5s | Draft |
-| S7.2 | 1:55–1:58 | Macro flower dew | 3s (gen 5s, trim) | Draft |
-| S8 | 1:58–2:00 | Rise to moonlit sky | 2s (gen 5s, trim) | Draft |
+**Part 1 – The Bollywood Spoof (Reel Life)**
+- 90s melodrama homage. Mother (**Shanti**) stands between Karan (Jiten) and Arjun (Kalpesh), singing:
+> *चंदा कब दूर गगन से...*
 
-**S1.1 — Moonlit sky descent (0:00–0:05)**
+**Karma Dev** *(halts the frame, breaks fourth wall):* "यह तो सिर्फ 'रील लाइफ' का ड्रामा है! असल जिंदगी इससे बिल्कुल अलग होती है।"
 
-```
-Wide aerial cinematic shot: the camera descends smoothly through soft luminous clouds into a vast moonlit Indian mythological garden seen from above. A large warm golden full moon hangs in a deep indigo starry sky; stars twinkle gently. Below, rolling mist rises through emerald treetops and reveals an ancient stone temple-style arch gate wrapped in flowering vines. Romantic, divine, no people.
+**Part 2 – Arjun's Reality (The Influencer)**
+- Fast cuts: Arjun's celebrity life in Singapore — red carpets, viral shoots, millions of followers, public acclaim.
 
-Style: ultra-realistic mythic-garden cinematography, cool moonlight with warm golden accents, soft volumetric mist, rich jewel-tone palette (indigo, purple, emerald, gold), no text, no humans.
-Mood: opening wonder — entering a sacred romantic realm.
-Camera: slow vertical descent through clouds toward the garden gate, no cuts, no shake.
-Audio: soft wind, distant night ambience, very faint temple bell, no dialogue.
-Duration: 5 seconds. Aspect ratio: 16:9.
-```
+**Part 3 – Karan's Reality & The IB Prank**
+- Karan glued to sports broadcasts on TV.
 
-**S1.2 — Temple gate entrance (0:05–0:10)**
+**Shanti (Karan's sister):** "भाई! तुम दिन-रात टीवी पर सिर्फ स्पोर्ट्स देखकर अपना वक्त क्यों बर्बाद कर रहे हो?!"
 
-```
-Continuing the descent: the camera arrives at an ornate Indian temple-style stone arch gate in close-up — intricate carved reliefs glowing with soft golden divine light, jasmine and marigold garlands wrapped around the pillars, gentle breeze moving the flowers. A mossy stone tile pathway leads inward, flanked by small golden lanterns. Fireflies dance around the entrance. Deep blue moonlit sky behind the gate.
+*(Doorbell. Three friends in black suits + sunglasses — stone-cold deadpan.)*
 
-Style: ultra-realistic mythic Indian garden architecture, moonlight + warm lantern glow, soft mist at ground level, no text, no humans.
-Mood: intimate invitation — crossing into the garden of love.
-Camera: slow forward push through the gate entrance, lanterns and fireflies passing in foreground parallax, no cuts.
-Audio: gentle breeze through leaves, soft lantern flicker texture, crickets, no dialogue.
-Duration: 5 seconds. Aspect ratio: 16:9.
-```
+**IB Friends:** "हम इन्वेस्टिगेशन ब्यूरो से हैं। हमें आपके भाई की सख्त ज़रूरत है, क्योंकि वे असल में एक सीक्रेट स्पाई हैं। देश की सेवा के लिए हम इन्हें ले जा रहे हैं।"
 
-**S2.1 — Flower avenue glide (0:10–0:15)**
+*(Shanti nearly faints. Karan grabs cycling helmet + road cycle, laughing — getaway.)*
 
-```
-The camera glides smoothly forward through a tree-lined garden pathway. Blooming frangipani/plumeria trees in soft peachy-pink flower line both sides; moonlight filters through leaves, casting dancing shadows on an ancient mossy stone path. Occasional petals drift down in slow motion. Warm golden ground lanterns light the path at intervals. Soft mist between the trees.
+---
 
-Style: ultra-realistic romantic Indian garden cinematography, moonlit cool tones with warm gold lantern accents, gentle particle drift, no text, no humans.
-Mood: dreamy forward journey — walking into romance.
-Camera: steady smooth forward dolly at walking pace through the flower avenue, no cuts.
-Audio: soft wind, rustling leaves, faint water in the distance, no dialogue.
-Duration: 5 seconds. Aspect ratio: 16:9.
-```
+### SCENE 6 — The Marina Bay Ride & The Pro Proposition [VIDEO]
 
-**S2.2 — Magical flower close-ups (0:15–0:20)**
+**Location:** Lavender/Kallang Highway overlooking Marina Bay Sands · **People:** Karan, Arjun, Brishti, Gaurav, Anu, Shikha, Shri
 
-```
-Close gliding pan across blooming garden flowers beaded with dew — jasmine, frangipani, soft pink petals catching moonlight. As the camera passes, delicate magical stardust sparkles bloom around select flowers; a few blossoms emit a faint bioluminescent glow. Leaves rustle gently in a soft breeze. Shallow depth of field, background dissolves into moonlit garden bokeh.
+**Visual:** Group cycles against Singapore skyline; flashbacks of Karan dominating community sports.
 
-Style: ultra-realistic macro garden cinematography with subtle magical particle effects, cool moonlight + soft gold highlights on dew drops, no text, no humans.
-Mood: enchanted tenderness — nature itself is in love.
-Camera: slow lateral pan across flowers at close range, shallow depth of field, no cuts.
-Audio: whisper of wind, soft sparkle/chime texture, no dialogue.
-Duration: 5 seconds. Aspect ratio: 16:9.
-```
+**Friends (Brishti, Gaurav, Anu, Shikha, Shri):** "करन, तू जब भी मैदान में होता है, तेरी खुशी और तेरा पैशन अलग ही लेवल पर दिखता है! Why are you wasting time in a regular job? You belong in professional sports!"
 
-**S2.3 — Mandala plaza reveal (0:20–0:25)**
+**Arjun (defending Karan):** "बस करो यार! बेचारा अपनी जॉब भी संभाल रहा है और जितना वक्त मिलता है उसमें अपना शौक पूरा करता है। Let him just enjoy his sport."
 
-```
-The camera emerges from the flower avenue into a wide circular garden plaza. The floor is pale marble inlaid with an intricate Indian mandala geometric pattern, softly lit by moonlight. In the background, ornate open pavilions with domed roofs and carved pillars frame the space. Mist rolls low across the plaza; fireflies drift. The full moon is visible above.
+*(Arjun challenges Karan to a spontaneous sprint. **Karan wins.** Arjun looks on with sincere pride.)*
 
-Style: ultra-realistic mythic Indian garden architecture, grand scale, moonlit silver on marble with warm golden uplight on pavilion details, no text, no humans.
-Mood: arrival — the heart of the garden opens.
-Camera: forward glide widening into a slow rise to reveal the full circular plaza, no cuts.
-Audio: ambient night garden, faint echo of open space, no dialogue.
-Duration: 5 seconds. Aspect ratio: 16:9.
-```
+**Friends (to Arjun):** "सुन अर्जुन, तू सिंगापुर का इतना बड़ा सेलिब्रिटी और इन्फ्लुएंसर है। तू अपनी पहुंच का इस्तेमाल करके करन को प्रो-स्पोर्ट्स में एंट्री क्यों नहीं दिलाता?"
 
-**S3.1 — Waterfall reveal (0:25–0:30)**
+**Arjun:** "ठीक है, मेरा एक दोस्त है निक्की (Nikki) में—ही इज़ अ ब्रिलियंट बिजनेसमैन। मैं उससे बात करता हूँ।"
 
-```
-The camera pulls back and rises to reveal a majestic multi-tiered waterfall (two to three levels) in an Indian mythological garden. Moonlight turns the cascading water silver; mist rises from the pool below, catching the light. Moss-covered rocks and flowering vines frame the falls. Soft golden divine light uplights the rock formations. Magical luminous orbs and sparkles float around the waterfall. No people.
+> *Note: Nikki / contact path leads into Ajay Walia (Nishant) in Scene 7 — confirm if Nikki = Walia intro middleman or alternate name beat.*
 
-Style: ultra-realistic mythic garden + waterfall cinematography, silver moonlit water, emerald moss, warm gold accent lighting, volumetric mist, no text, no humans.
-Mood: awe — the garden's grand romantic centerpiece.
-Camera: smooth pull-back and slight crane-up to reveal the full waterfall, no cuts.
-Audio: building waterfall roar (gentle, not overpowering), mist hiss, no dialogue.
-Duration: 5 seconds. Aspect ratio: 16:9.
-```
+---
 
-**S3.2 — Pool reflections (0:30–0:38)**
+### SCENE 7 — Corporate Sponsorship – Ajay Walia's Office [VIDEO]
 
-```
-At the base of the waterfall: a still pool mirrors the moon and the silver cascade perfectly. Slow concentric ripples expand across the surface. Flower petals float on the water. Mossy stones around the pool edge glow with soft golden divine light. Water lilies with faint bioluminescent glow dot the surface. Occasional koi shadows glide beneath (optional).
+**Location:** Flamboyant executive office · **People:** Arjun, Karan, **Ajay Walia** (Nishant), **Coach Satak Singh**
 
-Style: ultra-realistic reflective water cinematography, mirror-still surface, cool moonlight + warm gold stone glow, no text, no humans.
-Mood: serene, meditative romance.
-Camera: slow push-in toward the pool surface, holding on the moon reflection and ripples, no cuts.
-Audio: soft water lap, gentle ripple texture, distant waterfall, no dialogue.
-Duration: 8 seconds. Aspect ratio: 16:9.
-```
+*(Arjun pitches Karan to Walia.)*
 
-**S3.3 — Waterfall spray detail (0:38–0:45)**
+**Ajay Walia:** "सिर्फ टैलेंट से स्पॉन्सरशिप नहीं मिलती। मैं जल्द ही एक बड़ी साइकल रेस स्पॉन्सर कर रहा हूँ—उसमें हिस्सा लो और मुझे अपनी काबिलियत साबित करके दिखाओ।"
 
-```
-Extreme close-up of waterfall spray and falling water droplets catching moonlight — slow-motion silver threads of water, fine mist forming web-like patterns, foam glowing softly. A very subtle moonlight rainbow prism in the mist. Magical sparkles drift through the spray. Optional: small bird silhouettes briefly at the pool edge drinking, then gone.
+- **Condition:** Walia assigns his personal mentor, **Coach Satak Singh**, to train Karan and keep him under strict surveillance.
 
-Style: ultra-realistic slow-motion water macro, luminous droplets, cool silver + faint prism, no text, no humans.
-Mood: delicate magic in motion.
-Camera: locked close on the spray with slow-motion water movement, subtle rack focus through mist layers, no cuts.
-Audio: crystalline water droplets, soft whoosh of falling water, no dialogue.
-Duration: 7 seconds. Aspect ratio: 16:9.
-```
+**Arjun (to Karan):** "सुन, मैंने तेरे पीछे अपना पूरा नाम और साख दांव पर लगा दी है। So make sure you deliver—दोस्तों और इंडस्ट्री में मेरी इज्जत मत डुबोना! पर मुझे पता है, तू यह कर दिखाएगा।"
 
-**S3.4 — Wide waterfall landscape (0:45–0:50)**
+*(Handshake seals the deal.)*
 
-```
-Wide shot of the full waterfall scene: ancient Indian stone deity sculptures on either side, draped in marigold garlands and flowers; a small temple-like structure incorporated into the rock formation behind the falls. Soft golden uplighting on the sculptures. Graceful willow-like trees sway in a gentle breeze. Fireflies swarm in the misty foreground. Moonlit sky above.
+---
 
-Style: ultra-realistic mythic garden wide shot, Indian temple sculpture aesthetic, moonlight + warm gold divine accents, no text, no humans.
-Mood: mythic grandeur — love as ancient and eternal.
-Camera: slow pull-back to reveal the full waterfall tableau, no cuts.
-Audio: full waterfall ambience, soft wind in willows, no dialogue.
-Duration: 5 seconds. Aspect ratio: 16:9.
-```
+### SCENE 8 — The Celestial Infiltration [SCREEN → STAGE]
 
-**S4.1 — Garden swing in motion (0:50–0:57)**
+**Location:** Heavens → Earth training grounds · **People:** Karma Dev, Cool, Pratikool, Maya
 
-```
-An empty ornate wooden swing hangs from a massive ancient tree branch in a moonlit Indian garden. The swing moves gently back and forth as if pushed by a magical breeze — ropes decorated with flowers and soft silk fabric, cushioned seat with pillows (no person on the swing). The tree branch glows faintly with divine golden light. Moonlight casts rope-shadow patterns on the ground. Garden and lanterns visible behind.
+**Karma Dev** *(observing):* "लगता है हमें अपनी कहानी का असली प्लॉट मिल गया है!"
 
-Style: ultra-realistic romantic mythic garden, dreamy slow motion on swing movement, cool moonlight + warm lantern glow, no text, no humans.
-Mood: longing — someone was just here, or is about to arrive.
-Camera: medium shot, locked with gentle swing motion as the primary movement, no cuts.
-Audio: soft creak of rope, breeze, distant crickets, no dialogue.
-Duration: 7 seconds. Aspect ratio: 16:9.
-```
+- Karma dispatches Cool and Pratikool down to Earth.
+- AI visual sequence: twin shadows descending through the atmosphere.
 
-**S4.2 — Swing seat close-up (0:57–1:03)**
+---
+
+### SCENE 9 — Sowing Seeds of Paranoia [STAGE]
+
+**Location:** Coach Satak Singh's camp · **People:** Cool, Pratikool, Coach Satak Singh
+
+*(Cool and Pratikool approach Satak while he broods over his assignment.)*
+
+**Pratikool** *(leaning in):* "लगता है बहुत जल्द आपकी यह नौकरी जाने वाली है, कोच साहब!"
+
+**Coach Satak Singh:** "क्या?! क्यों जाएगी मेरी नौकरी?"
+
+**Pratikool & Cool:** "हम आपके लिए जासूस बनेंगे। वे दोनों क्या कर रहे हैं, इसकी पल-पल की खबर हम आपको लाकर देंगे।"
+
+*(Satak Singh agrees — integrates the two celestial shadows into his inner circle.)*
+
+---
+
+### SCENE 10 — The Gym – Sweat, Swagger & The Silent Sting [STAGE]
+
+**Location:** Athletic gym · **People:** Karan, Satak Singh, Arjun, Cool, Brishti, Gaurav, Anu, Shikha, Shri
+
+*(Karan trains under Satak's watch — intense drills.)*
+
+**Coach Satak Singh:** "बहुत बढ़िया करन! फॉर्म बिल्कुल सही है, इसी पेस को बनाए रखो।"
+
+*(Arjun arrives radiating celebrity energy — takes over equipment, advanced moves before onlookers.)*
+
+**Arjun:** "देख भाई, ऐसे करते हैं! तू खुद को प्रो एथलीट कहता है ना? असली फॉर्म और स्वैग इसे कहते हैं!"
+
+**The Sting:** Karan feels humiliated in front of peers — retreats into tight-lipped silence.
+
+**Cool** *(to Karan):* "कोई बात नहीं करन, असली चैंपियन दिखावे से नहीं, अपनी खामोश मेहनत से पहचाना जाता है। Don't lose heart."
+
+*(Cool then cautions Coach Satak Singh to focus on genuine athletic discipline rather than flashy showmanship.)*
+
+---
+
+### SCENE 11 — हास्य रस (Hasya Ras) – Chaos & The Grand Qawwali Show [VIDEO → STAGE]
+
+**Part 1 – Heavenly Commotion (Green Screen Video)**
+
+**Karma Dev:** "जिंदगी में तनाव कितना भी गंभीर क्यों न हो, जब तक इंसान हँसना नहीं सीखता, संतुलन नहीं बन सकता।"
+
+- Slapstick: children causing havoc around Maya — pulling battery cables, glitchy robot tumbles, running circles around Karma amid infectious laughter.
+
+**Part 2 – Live Qawwali & Medley**
+
+**Karma Dev:** "चलो नीचे चलते हैं और उस एंटरटेनमेंट के कबाब को देखते हैं—लेट्स सी अर्जुन एट हिज़ बेस्ट ऑन हिज़ ओन शो!"
+
+- **Ruchi** commands the stage as Emcee → brings on **Arjun**.
+- Dynamic comic **Qawwali** with competitive witty *shayari*.
+- Dance medley:
+  1. *Oiyamma*
+  2. *Sharara Sharara*
+  3. *घाघरा (Ghaghra)* — comic centerpiece; Kalpesh (Arjun) wears a ghaghra (physical slapstick)
+  4. *Dhurandhar* title anthem (*"You're not ready for this"*)
+
+**Choreographer:** TBD
+
+---
+
+### SCENE 12 — रौद्र रस (Raudra Ras) – Stage Crash & Birth of a Rival [STAGE]
+
+**The Crash**
+- Karan and sports friends disrupt the performance — hijack the floor with hard-hitting athletic rhythms (*Mary and Me*).
+
+**The Clashing Choreo (*Malhari*)**
+- Escalates to aggressive competitive dance face-off to **मल्हारी (*Malhari*)**.
+- Physical pushing and shoving. Arjun's show sabotaged in front of his public.
+
+**Pratikool** *(corners Arjun in the wings):* "यह बर्दाश्त मत करना! तूने इस लड़के के लिए अपनी साख दांव पर लगाई, और इसने तेरे ही स्टेज पर आकर तेरी धज्जियां उड़ा दीं!"
+
+**The Dark Turn**
+- Stage lighting → stark black and crimson.
+- Karma Dev descends, chanting the Sanskrit *shloka* of **रौद्र रस (Raudra Ras)**.
+
+**Arjun** *(ties dark band across forehead; smile gone):* "इसने मुझे मेरे ही स्टेज पर नीचा दिखाया है ना? अब मैं इसे कहीं और नहीं, उसी के मैदान में धूल चटाऊँगा! I am going to take him down in his own domain!"
+
+- Arjun commits to entering the cycling championship himself.
+- Rivalry shifts from friendly support to all-out sporting war.
+
+---
+
+**YOUR NOTES — Scenes 13+ (remaining rasas / race climax TBD)**
 
 ```
-Close-up of the empty swing seat — soft silk cushions, scattered flower petals, warm golden light illuminating the fabric. The swing sways gently. Vines and blooming flowers frame the seat in the foreground. Shallow depth of field: blurred moonlit garden and lanterns behind.
-
-Style: ultra-realistic romantic close-up, tactile fabric and petal detail, warm gold + cool moonlit bokeh, no text, no humans.
-Mood: intimate, tender, anticipatory.
-Camera: slow push-in on the cushioned seat as the swing sways, shallow depth of field, no cuts.
-Audio: fabric rustle, soft wind, no dialogue.
-Duration: 6 seconds. Aspect ratio: 16:9.
-```
-
-**S4.3 — Wide swing in garden (1:03–1:10)**
-
-```
-Wide shot: the flower-decorated swing as the focal point in a lush moonlit garden. Flowering shrubs surround a stone path leading to the swing. Golden lanterns and soft torches create warm pools of light. A small fountain or water feature glimmers nearby. Low mist rolls across the ground. Stars visible in the deep indigo sky above the tree canopy.
-
-Style: ultra-realistic mythic garden wide composition, romantic moonlit atmosphere, warm/cool lighting contrast, no text, no humans.
-Mood: peaceful romance — the garden holds its breath.
-Camera: slow pull-back from the swing to reveal the surrounding garden, no cuts.
-Audio: fountain trickle, night ambience, no dialogue.
-Duration: 7 seconds. Aspect ratio: 16:9.
-```
-
-**S5.1 — Lotus pond detail (1:10–1:17)**
-
-```
-A large ornamental lotus pond in an Indian temple-garden style — lily pads, blooming lotus flowers, mirror-still water reflecting the moon perfectly. A single drop creates very slow expanding ripples. Lotus blooms glow faintly with bioluminescent light. Ancient carved stone edges frame the pond. Soft mist above the water.
-
-Style: ultra-realistic Indian temple pond aesthetic, cool moonlight reflections, subtle bioluminescent lotus glow, no text, no humans.
-Mood: sacred stillness — Shringar as devotion.
-Camera: slow lateral drift along the pond edge at low angle, ripples and reflections dominant, no cuts.
-Audio: single water drop, gentle ripple, night insects, no dialogue.
-Duration: 7 seconds. Aspect ratio: 16:9.
-```
-
-**S5.2 — Pond wildlife ripples (1:17–1:23)**
-
-```
-The lotus pond comes alive with gentle natural motion: fish silhouettes glide beneath the surface creating soft ripples; optional crane or swan silhouettes arrive or depart at the far edge (no humans). Tree and moon reflections shimmer on the water. Magical golden particles drift down into the pond, creating concentric ripple patterns. Still deeply romantic and moonlit.
-
-Style: ultra-realistic pond wildlife cinematography, silhouette animals only, reflective water, magical particle accents, no text, no humans.
-Mood: living beauty — the garden breathes.
-Camera: slow pan across the pond surface following ripples and reflections, no cuts.
-Audio: soft splash, ripple texture, distant bird call, no dialogue.
-Duration: 6 seconds. Aspect ratio: 16:9.
-```
-
-**S5.3 — Stone bridge over pond (1:23–1:30)**
-
-```
-A graceful stone arch bridge (Indian/Mughal style) spans the lotus pond. Moonlight highlights carved railings and stone details. Flowers and vines adorn the bridge. The bridge reflects perfectly in the still water below. The camera moves slowly across the bridge; the full pond and garden landscape visible on the far side.
-
-Style: ultra-realistic mythic Indian garden architecture, moonlit stone + floral details, mirror reflection in water, no text, no humans.
-Mood: crossing over — a romantic passage.
-Camera: smooth forward tracking shot across the bridge, slight rise at the apex for vista reveal, no cuts.
-Audio: soft footstep-less ambience, water below, wind, no dialogue.
-Duration: 7 seconds. Aspect ratio: 16:9.
-```
-
-**S5.4 — Pond wide return (1:30–1:35)**
-
-```
-The camera pulls back from the stone bridge to reveal the full lotus pond in garden context — bridge, pond, pavilion shapes, flowering paths, and lantern glow all visible in one romantic moonlit composition. Fireflies and magical particles drift. Soft golden light warms select garden elements against the cool moonlit sky.
-
-Style: ultra-realistic mythic garden establishing wide shot, layered depth, warm gold + cool moonlight, no text, no humans.
-Mood: gathering the garden's beauty before the close.
-Camera: smooth pull-back and slight crane-up from bridge to wide garden vista, no cuts.
-Audio: blended garden night ambience, no dialogue.
-Duration: 5 seconds. Aspect ratio: 16:9.
-```
-
-**S6.1 — Ornate pavilion (1:35–1:42)**
-
-```
-A beautiful open-air domed pavilion in Indian/Mughal architectural style — intricate stone columns and carved jali screens, moonlight illuminating the relief details. Marble floor visible inside; empty silk cushions on the floor (no people). Marigold garlands and flower decorations. Hanging golden lanterns cast warm light. Soft shadows from the lattice screens move gently.
-
-Style: ultra-realistic mythic Indian pavilion architecture, moonlight on carved stone + warm lantern interior glow, no text, no humans.
-Mood: sheltered romance — a stage for love.
-Camera: slow forward approach into the pavilion entrance, revealing interior depth, no cuts.
-Audio: faint wind chime or hanging bell sway, soft lantern ambience, no dialogue.
-Duration: 7 seconds. Aspect ratio: 16:9.
-```
-
-**S6.2 — Pavilion details (1:42–1:50)**
-
-```
-Inside and around the pavilion: close details of intricate stone carvings catching moonlight; a hanging bell or wind chime sways gently; flowers and vines adorn the columns. Camera shifts to a view from inside the pavilion looking out through the jali screen into the layered moonlit garden beyond — multiple depths of paths, trees, and lantern glow. Warm interior gold contrasts cool exterior moonlight.
-
-Style: ultra-realistic architectural detail cinematography, rich carving texture, warm/cool lighting contrast through jali screens, no text, no humans.
-Mood: intricate beauty — love in every carved detail.
-Camera: slow pan across carvings, then gentle turn to look outward through the pavilion, no cuts.
-Audio: wind chime, breeze through lattice, no dialogue.
-Duration: 8 seconds. Aspect ratio: 16:9.
-```
-
-**S7.1 — Flower beds wide (1:50–1:55)**
-
-```
-Wide shot of flowering garden beds in an Indian mythological garden — marigolds, roses, jasmine, hibiscus in rich jewel tones. Moonlight gives petals a soft glow; select flowers emit faint bioluminescent light. Gentle wind moves the flowers. Stone pathways weave between the beds. Optional moth/butterfly silhouettes drift past. No people.
-
-Style: ultra-realistic lush Indian flower garden, moonlit + magical bioluminescent accents, no text, no humans.
-Mood: abundance — love in full bloom.
-Camera: slow lateral tracking shot along the flower beds, no cuts.
-Audio: breeze through flowers, soft insect ambience, no dialogue.
-Duration: 5 seconds. Aspect ratio: 16:9.
-```
-
-**S7.2 — Macro flower dew (1:55–1:58)**
-
-```
-Extreme macro close-up of a single flower petal — dew drops catching moonlight and golden lantern glow, magical sparkles around the bloom. Gentle breeze causes micro-movements in the petal. Rich texture visible — velvety rose or jasmine detail. Soft bokeh background.
-
-Style: ultra-realistic macro flower cinematography, luminous dew, subtle magical particles, no text, no humans.
-Mood: final intimate beat before the sky return.
-Camera: locked macro with micro-movement from breeze, no cuts.
-Audio: near-silent, single soft chime, no dialogue.
-Duration: 5 seconds (trim to 3s in edit). Aspect ratio: 16:9.
-```
-
-**S8 — Rise to moonlit sky (1:58–2:00)**
-
-```
-The camera rises smoothly from garden level up through tree canopy and soft clouds into the open night sky — revealing the full golden moon in a starry indigo sky, the entire garden visible far below glowing softly with lantern light and mist. Final frame holds on moon and stars; gentle fade to black with one last star twinkle.
-
-Style: ultra-realistic aerial rise cinematography, mythic moonlit sky, garden glow below, no text, no humans.
-Mood: closing ascent — love lifts upward.
-Camera: continuous vertical crane-up from garden through trees to sky, ending on moon, no cuts.
-Audio: rising wind, soft orchestral swell fading, no dialogue.
-Duration: 5 seconds (trim to 2s in edit). Aspect ratio: 16:9.
-```
-
-**YOUR NOTES — Shringar Garden takes**
-
-```
-(type here — paste kept takes, note continuity issues between clips, flag any accidental humans)
+(type next beats here)
 ```
 
 ---
 
-**SCENE 3 — After Shringaar: Haasya Ras (2nd Ras) [VIDEO + STAGE]** ⭐
+## LEGACY / ARCHIVE (pre–Sep 2026 drafts — reference only)
 
-> **Placement:** Immediately after Scene 2 (Shringaar mudras + song block). **Same template as Scene 2:** video teaching beat → live stage dances → song block. Video also ends with story pivot to Livia → Cycle Movie (spy montage → **Scene 4** gym → **Scene 5** race).
->
-> **People (video):** Maya, Karma Dev, Kool, PratiKool · **People (stage):** dancers/performers — **Haasya** expression / comedy movement
-
----
-
-**ON VIDEO — post-Shringaar reaction**
-
-**Maya:** "It's beautiful… I kind of feel shy too…"
-
-**Karma:** "Issi Ras se duniya chalti hai… aur acha hota agar sirf ye hota… aur shaayad meri zaroorat bhi nahin hoti…"
-
-**PratiKool:** "Nahin nahin. Aap hein toh hum hein…"
-
-**Kool:** "Aur hum hein toh Entertainment…"
-
-**Karma:** "Wah… Entertainment… Chalo wahi sikhathey hein ab Maaya ko…"
-
----
-
-**Haasya Ras**
-
-*(AI is not laughing much.)*
-
-**PratiKool:** "He vichitra naari… tu toh attitude mein meri bahan lag rahi hai… koi smile nahin… koi expression nahin…"
-
-**Karma Dev:** "Iska chodo… ab sab Ras kaise samjhayein isko?"
-
-**Kool:** "Isko ek ek karkey samjha nahin sakhthey Dev…"
-
-**PratiKool:** "Haan phir Dhurandhar ki tarah lamba ho jayega…"
-
-**Kool:** "Idea… Let us pick a story and explain all within that story."
-
-**Maya:** "Cool idea, Kool Dev… I like stories too — like humans…"
-
-**Karma:** "Maaya — find a good story happening on earth…"
-
----
-
-**Google Earth — Pasir Ris (rejected)**
-
-*(Maya zooms onto Google Earth — shows Pasir Ris.)*
-
-**BACKSHOT:** **Kalpesh** (Arjun) and **Jitin** (Karan) walking with their mother, singing **"Chanda Kab Door Gagan Se"**…
-
-**Karma:** "Nahin Maaya — this is old story… go to other terminal where there is something current in **Livia**… they all are dramebaaz… so all emotions you will find there…"
-
----
-
-**Redirect to Livia**
-
-**Kool** *(to PratiKool):* "Chal hum Livia mein jatein hein… aur jungle mein mingle hotein hein… bahut mazaa aayega…"
-
-**PratiKool** *(negatively):* "Mazaa toh aayega" — *mujhe*…
-
----
-
-**ON STAGE — Haasya Ras (2nd Ras)**
-
-*(Immediately after the video beat — live performers demonstrate **Haasya** / laughter / comic expression for Maya and the audience.)*
-
-- **Haasya mudras / comedy dances** performed live
-- **Song block (TBD):**
-  1. __________ *(Haasya Ras song 1 — TBD)*
-  2. __________ *(TBD)*
-  3. __________ *(TBD)*
-
-**Choreographer:** TBD — assign (Haasya dances + song block)
-
-> Maya still may not laugh on screen — contrast with joyful live stage. Audience gets the Ras even if AI doesn't yet.
-
-**→ NEXT: Cycle Movie spy montage → Scene 4 (gym) → Scene 5 (race).**
-
----
-
-## Cycle Movie — Spy Escape *(montage before Scene 4)* [VIDEO]
-
-> **Format:** Video — Bollywood-style mini-movie cold open inside the human story. **Karan** = **Jitin**, **Arjun** = **Kalpesh**, **Sister** = **Vandana**.
->
-> **Locations:** Karan's home / Livia unit → streets (cycle escape) → arrives at **Livia gym** → **Scene 4**
-
----
-
-**Beat 1 — Sister vs sports channel** *(Vandana)*
-
-*(Vandana doing household work.)*
-
-**Vandana (Sister):** "Bhaiya… don't keep watching the sports channel… finish your other work too…"
-
-**Karan:** "Arey… aata hoon… important race hai…" *(cycle race on TV)*
-
-**Vandana:** "And that office ka call jo tune bola tha…?"
-
-**Karan:** "O teri… chod de… ab kya fayda…"
-
-**Vandana** *(to herself / aside):* "Oh, he never listens… yeh sports pe peeche hi pada rehta hai… khel khel mein ek din office se nikal denge…"
-
----
-
-**Beat 2 — CBI "spy" gag**
-
-*(Sound: door knock and doorbell.)*
-
-*(Three **CBI-type** agents enter — dark suits, deadpan.)*
-
-**Agent:** "Your brother doesn't work… because there is a secret… **he is a spy.**"
-
-**Vandana:** *(acts blur — confused, stunned)*
-
-**Agent:** "The nation needs him now — we are taking him immediately."
-
-*(Vandana **faints**.)*
-
----
-
-**Beat 3 — Arjun rescue + song**
-
-**Arjun and friends:** take Karan and **run away on cycles.**
-
-**Music:** **"Woh Sikandar…"** starts — *"Woh Sikandar Bhi Doston Ke Hain"* (Jo Jeeta Wohi Sikandar energy; chase / buddy escape montage).
-
-```
-(TBD — chase route; cycle escape path to Livia gym)
-```
-
----
-
-**SCENE 4 — Gym: Friends & Challenge [VIDEO]**
-
-*(Livia gym / fitness area — friends surround **Karan**. Cast from Team A/B — assign who plays each type.)*
-
-**The Gym Bro:** "Bhai, my bench press has been stuck at the same weight for a month. What should I change in my routine?"
-
-**The Runner:** "Yaar Karan, I want to run a 10k next month but my knees start hurting after 3 kilometers. Give me some tips na!"
-
-**The Cricketer:** "Listen, my timing on the cover drive is completely off lately. Can you come to the nets this weekend and check my stance?"
-
-**The Casual Fitness Friend:** "Bro, I want to start waking up early for yoga but I just can't leave my bed. How do you stay so disciplined?"
-
-**Arjun** *(to all):* "Bhai log, sabka ho jayega… saans toh lene dena usko…"
-
-**Karan:** "Sahi dramebaaz… bahut tight hai kaam… upar se mere behen ka to-do list… sports ke liye time kahaan milta hai.."
-
-**Arjun:** "Chal banate hain… race kar abhi… mere talent mein tu compete nahin kar saktha.. lekin..tere sports mein equally takkar de saktha hoon.."
-
-**Karan:** "Chalo dekthein hein.."
-
-```
-(TBD — which performers play Gym Bro / Runner / Cricketer / Casual Friend)
-```
-
-**→ Scene 5 — the race.**
-
----
-
-**SCENE 5 — Race: Karan Wins [VIDEO]**
-
-*(Impromptu race between friends — intro energy, everyone lining up / banter.)*
-
-*(They race — **Karan wins.** Everyone praises Karan. **Arjun is proud** — no jealousy yet; establishes the duo at their best.)*
-
-```
-(TBD — foot race vs cycle; outdoor route; race montage shot list; music — continue "Woh Sikandar" or new track)
-```
-
-> **Story note:** Comic spy spoof (pre–Scene 4) → buddy energy + Karan as natural leader (Scenes 4–5). Arjun proud here — contrast for later friction (**Scene 10**). **Scene 8** song overlap — "Woh Sikandar" may span escape + race montage.
-
----
-
-**SCENE 6 — "Yeh Bandhan Toh Pyaar Ka Bandhan Hai" — TRAILER SCENE (not the movie itself)**
-
-*(This is deliberately staged as a mock movie-TRAILER, not a normal scene — think quick cuts, freeze-frames on Karan & Arjun mid-laugh, punchy text cards ("Two Friends." / "One Dream." / "Yeh Bandhan Toh Pyaar Ka Bandhan Hai" as the trailer's theme song under it), maybe a booming trailer-voice narrator. It's Maya playing back an over-the-top, cheesy "coming attractions" reel of Karan & Arjun's friendship — not real-time footage of the actual scene.)*
-
-**PratiKool** *(calls Maya, breaking the fourth wall — now landing literally, since Maya just played an actual trailer):* "Hey, scene change kar — this is old Bollywood style."
-
-**Maya:** "Ok."
-
-*(Cut — out of the trailer, into the real scene: Karan and Arjun are sitting with their friends in a dining setup.)*
-
-*(The friends ask Arjun to help Karan meet Arjun's contacts/friends for sponsorships.)*
-
-```
-(type here — who asks, exact lines, and how Arjun responds, and tell the agent to fold them in)
-```
-
-> This is a nice early beat for Arjun — the group leans on *his* network/connections to help Karan, giving Arjun real value and standing in the group before anything goes wrong. Makes it sting more later that he still feels sidelined despite this.
-
----
-
-**SCENE 7 — Meet the Sponsor: Nishanth's Office**
-
-*(Karan and Arjun meet the sponsor, **Nishanth**, in his office. Nishanth introduces them to Coach **Satak Lee**, who will train them for the Triathlon challenge.)*
-
-People involved: **Karan, Arjun, Nishanth, Satak Lee** — all in Nishanth's office.
-
-```
-(type here — Nishanth's pitch / the sponsorship terms / how Satak Lee is introduced, and tell the agent to fold them in)
-```
-
----
-
-**SCENE 8 — Sponsorship Approved: Celebration [VIDEO]** ⚠️ *review — "Woh Sikandar" used in spy escape (pre–Scene 4)*
-
-*(Arjun and Karan meet their friends, who have been **waiting outside** to find out if they got sponsorship approval. Good news — they're in. **Karan thanks Arjun in front of everyone.** Team A, Team B, and **Coach Satak Lee** celebrate together.)*
-
-**Music:** **TBD** — was **"Woh Sikandar Bhi Doston Ke Hain"** (now used in Cycle Movie Scene 1 escape); pick reprise, different song, or montage continuation.
-
-People involved: **Karan, Arjun, Team A, Team B, Coach Satak Lee**, friends waiting outside.
-
-**Kool** *(heaven / video overlay):* "This is so my type of feeling… Over to you, Maya."
-
-**Production — assign:**
-- **Choreographer:** TBD
-- **Locations:** SUTD, swimming pool, tennis court, basketball court (montage / multi-sport training energy)
-
-```
-(type here — exact outside-meeting beat / who speaks / montage shot list, and tell the agent to fold them in)
-```
-
-> Full scene-flow tracker (people, locations, status for every scene): `livia-navras-scene-flow.md`
-
----
-
-**SCENE 9 — TBD (bridge beat)**
-
-```
-(placeholder — training montage / Naina beat? confirm with team before scripting)
-```
-
----
-
-**SCENE 10 — Arjun & Karan Get Irritated [STAGE]**
-
-*(Arjun and Karan are working out. Phone rings — **Kool picks up and walks away.** Arjun **shouts at Karan in front of everyone** about discipline. Karan feels insulted. **Coach Satak Lee** is watching. **Arjun storms out** — talking to **PratiKool** as he goes; **Coach overhears**.)*
-
-**Kool** *(to Arjun):* "Bhai its ok na.. kar raha hai mehnat.. don't say such things na.. demotivate karogey.."
-
-**Kool** *(to Ankit & Coach):* "Can you take him away and give a break.."
-
-**PratiKool** *(to Karan):* "Arey, bahut advice de raha hai Arjun aajkal but khud toh kuch nahin kar raha hai.. yeh iska race bhi toh hai.."
-
-*(Karan nods.)*
-
-**PratiKool** *(to Pramod):* "Bol na.. sirf mein bolun kya.."
-
-**Pramod:** "I meant agar thoda masti ched-chaat kar diya to kya ho jayega..? Bade followers hai to hum pe bhi influence karega."
-
-**Outside — Kool to Coach:** "Lets get the team together — we need some party fun and entertainment, that will bring them together. Lets do it with **Arjun's show** itself — he'll be easier to talk to after a good show when his mood is good."
-
-*(All friends say it's a good plan.)*
-
-**People:** Karan, Arjun, Kool, PratiKool, Coach Satak Lee, Ankit, Pramod, Team A/B  
-**Location:** TBD — **pool area or gym (24-hr fitness)**
-
----
-
-**YOUR NOTES — scenes 1–10** *(Scene 11+ TBD — user adding new beat tomorrow)*
+> Older running order, video AI prompts, Karma Chakra library, design notes. **Do not treat scene numbers below as current** — use Scenes 1–12 above + `livia-navras-scene-flow.md`.
 
 ---
 
@@ -780,10 +324,11 @@ People involved: **Karan, Arjun, Team A, Team B, Coach Satak Lee**, friends wait
 9. **Gym: Friends & Challenge — see "Scene 4" above [VIDEO].** Friends ask Karan for fitness tips → Arjun redirects → race challenge. · Characters: Karan, Arjun, friends · Music: ________
 10. **Race: Karan Wins — see "Scene 5" above [VIDEO].** Impromptu race → Karan wins, all praise, Arjun proud. Then **"Yeh Bandhan"** trailer (Scene 6). · Characters: Karan, Arjun, friends · Music: TBD
 11. **The Sponsorship Challenge — see "Scene 7" above.** · Characters: Karan, Arjun, Nishanth, Satak Lee · Music: "Aata Maji Satak Li"
-12. **Sponsorship Approved — see "Scene 8" above [VIDEO].** Friends waiting outside; Karan thanks Arjun in front of all; Team A, Team B, Coach celebrate. Kool: "This is so my type of feeling… Over to you, Maya." · Characters: Karan, Arjun, Team A, Team B, Satak Lee, Kool, Maya · Music: TBD · **Choreographer: TBD** · **Locations: SUTD, swimming pool, tennis court, basketball court**
-13. **Training Begins** — *[may overlap Scene 8 montage — confirm with team]* · Characters: ________ · Music: ________
-14. **Explaining the Stakes** — *[partially covered in Scene 8 celebration — confirm merge]* · Characters: ________ · Music: ________
-15. **"All Is Well" Montage (Video)** — *[may merge with Scene 8 — confirm]* · Characters: ________ · Music: ________
+12. **Kool & PratiKool Corner Satak — see "Scene 8" above.** Funny hire; they cycle with Arjun as "assistant coaches." · Characters: Kool, PratiKool, Satak Lee · Music: ________
+13. **Sponsorship Approved — see "Scene 9" above [VIDEO].** Friends waiting outside; Karan thanks Arjun in front of all; Team A, Team B, Coach celebrate. Kool: "This is so my type of feeling… Over to you, Maya." · Characters: Karan, Arjun, Team A, Team B, Satak Lee, Kool, Maya · Music: TBD · **Choreographer: TBD** · **Locations: SUTD, swimming pool, tennis court, basketball court**
+14. **Training Begins** — *[may overlap Scene 9 montage — confirm with team]* · Characters: ________ · Music: ________
+15. **Explaining the Stakes** — *[partially covered in Scene 9 celebration — confirm merge]* · Characters: ________ · Music: ________
+16. **"All Is Well" Montage (Video)** — *[may merge with Scene 9 — confirm]* · Characters: ________ · Music: ________
 13. **Karma's Aside: Achieving Isn't Easy** — Karma congratulates the AI's start, warns that achieving a goal is never easy. *[Needs staging expansion.]* · Characters: ________ · Music: ________
 14. **Basketball vs Girls' Team** — Naina enters, boys tease Karan ("tere naina..."), he's distracted — "Yeh Ladka Hai Deewana." Arjun feels sidelined. · Characters: ________ · Music: ________
 15. **The Fork** — PratiKool instigates Arjun's jealousy; Kool nudges Karan toward Naina (KKHH sting → Main Hoon Na). · Characters: ________ · Music: ________
@@ -1159,7 +704,7 @@ Duration: 5 seconds. Aspect ratio: 16:9.
 | Title song (opening video) | "Navras Se Hai Kalpana" — plays as the 4 head to heaven | Hindi | Title only, needs full lyrics |
 | Shringaar Ras — Scene 2 (video) | Shringaar teaching song — "Shringar" line explained to Maya | Hindi | Teaching song TBD / lyrics to write |
 | Shringaar Ras — Scene 2 (stage) | **"Ishq Wala Love"** + 2 more songs TBD | Hindi | 1 of 3 confirmed |
-| Sponsorship celebration (Scene 8) | "Woh Sikandar Bhi Doston Ke Hain" — Team A/B + coach, video montage | Hindi | Confirmed song, choreo TBD |
+| Sponsorship celebration (Scene 9) | "Woh Sikandar Bhi Doston Ke Hain" — Team A/B + coach, video montage | Hindi | Confirmed song, choreo TBD |
 | Karma hook | Catchy “karma” refrain | Mixed | |
 | Hasya | Qawwali laughter riots | | |
 | Raudra | Durandhar-*style* (original parody cue) | | |

@@ -1,9 +1,10 @@
-# Maya & the Nine Rasas — Scene Flow (MAIN TRACKER)
+# NAVARASA: THE COSMIC CODE OF SPORTS — Scene Flow (MAIN TRACKER)
 
-> **👉 START HERE for scene order.** This file is the single source of truth for **what happens, in what order**.
-> **Script dialogue** (draft lines, video prompts, legacy notes): `livia-navras-play-scribble.md` — always cross-check scene numbers against **this** file.
-> **Miro (MAIN):** [Scenes Flow board](https://miro.com/app/board/uXjVHs6iRk4=/) — **Scene Storyboard** Kanban (Scene # + description on each card) + **Scene Details** doc (dialogues, people — open card or doc on the right).
-> **Rasa order (confirmed):** 1st = **Shringaar** (Scene 2) · 2nd = **Haasya** (Scene 3 video + stage) · in-story Haasya payoff **TBD**
+> **👉 START HERE for scene order.** Single source of truth for **what happens, in what order**.
+> **Script dialogue:** `livia-navras-play-scribble.md`
+> **Miro (MAIN):** [Scenes Flow board](https://miro.com/app/board/uXjVHs6iRk4=/)
+> **Working title:** *Navarasa: The Cosmic Code of Sports*
+> **Core concept:** Mapping and awakening the nine *Navarasas* inside AI **Maya** through the emotional battleground of sports.
 
 ---
 
@@ -11,182 +12,218 @@
 
 | # | Scene | Format | One-line |
 |---|-------|--------|----------|
-| **1** | AKV builds Maya → Karma's team arrives | Video | Cold open; Chitragupt joke; off to heaven |
-| **2** | Shringaar Ras (1st Ras) | Video + Stage | Karma teaches → mudras → song block |
-| **3** | After Shringaar — Haasya Ras (2nd Ras) | Video + Stage | Post-Shringaar video → Haasya dances → story pivot → Livia |
-| — | *Cycle Movie: spy escape* *(pre–Scene 4 montage)* | Video | Vandana scolds → CBI gag → Arjun rescue on cycles (**"Woh Sikandar"**) |
-| **4** | Gym: friends & challenge | Video | Friends swamp Karan → Arjun redirects → impromptu race challenge |
-| **5** | Race: Karan wins | Video | Friends race → **Karan wins**; all praise; **Arjun proud** |
-| **6** | "Yeh Bandhan" trailer → dining | Video + Stage | Mock trailer; sponsorship ask |
-| **7** | Nishanth's office → Coach Satak Lee | Video + Stage | Sponsor meeting; **Aata Maji Satak Li** |
-| **8** | Sponsorship approved — celebration | Video | Friends waiting; Karan thanks Arjun |
-| **9** | *TBD bridge* | TBD | Between celebration and team friction |
-| **10** | Arjun & Karan irritated | Stage | Gym/pool blow-up; party plan seeded *(payoff scene TBD)* |
+| **1** | The Cosmic Collaboration | Video → Stage | AKV builds Maya → celestial arrival → Navras pitch → Karma Chakra ascent |
+| **2** | Navras Introduction & Title Sequence | Video | Heaven control room; rasa roadmap + title sequence |
+| **3** | श्रृंगार रस (Shringar Ras) | Video → Stage | Shloka → romantic dance medley → Maya's comic robot dance |
+| **4** | The Pivot to Storytelling | Stage → Screen | Teach via human story → Google Earth zoom to **Livia** |
+| **5** | Livia – Reel Life vs Real Life | Video | Bollywood spoof → Arjun influencer → IB prank + cycle getaway |
+| **6** | Marina Bay Ride & The Pro Proposition | Video | Skyline ride → sprint (Karan wins) → Arjun will pitch to Nikki/Walia |
+| **7** | Corporate Sponsorship – Ajay Walia's Office | Video | Race-to-prove deal; Coach **Satak Singh** assigned |
+| **8** | The Celestial Infiltration | Screen → Stage | Karma: "real plot found" → Cool & Pratikool descend |
+| **9** | Sowing Seeds of Paranoia | Stage | Cool & Pratikool become Satak's "spies" |
+| **10** | The Gym – Sweat, Swagger & The Silent Sting | Stage | Arjun showboats; Karan stung; Cool reassures |
+| **11** | हास्य रस (Hasya Ras) – Qawwali Show | Video → Stage | Heaven chaos → Ruchi hosts → Arjun qawwali + medley |
+| **12** | रौद्र रस (Raudra Ras) – Stage Crash | Stage | Athletic hijack → *Malhari* clash → Arjun vows sporting war |
+
+> **Scenes 13+:** TBD (remaining rasas / race climax).
 
 ---
 
 ## Quick cast reference
 
+### Celestial realm
+
+| Role | Also called | Notes |
+|------|-------------|--------|
+| **Karma (Karma Dev)** | — | Cosmic administrator; seeks aid for Earth's population boom |
+| **Cool (Anukool)** | was "Kool" | Bright shadow — optimistic, encouraging, supportive |
+| **Pratikool** | PratiKool | Dark shadow — cynical, provocative, amplifies conflict |
+| **Maya** | — | Advanced AI humanoid; emotional consciousness training |
+
+### Earth realm (Livia / Singapore)
+
 | Role | Performer | Notes |
 |------|-----------|--------|
-| Karan | **Jiten** | Team A lead |
-| Arjun | **Kalpesh** | Team B lead |
-| Karma Dev | TBD | Teacher |
-| Maya | TBD | AI student / audit control |
-| Kool | TBD | Positive karma |
-| PratiKool | TBD | Negative karma |
-| Nishanth | TBD | Sponsor |
-| Coach Satak Lee | TBD | Triathlon coach |
-| Naina | TBD | Shringar catalyst (later beats) |
-| Vandana | **Vandana** | **Karan's sister** (Cycle Movie spy beat — pre–Scene 4) |
-
-**Team A:** Jiten, Bristi, Anuj, Shree's husband, Samiran, Misbah?, Abhishek, Sujata, Aruna  
-**Team B:** Kalpesh, Pramod, Vandana *(also Karan's sister)*, Ankit, Varun, Misbah?, Bhavana, Priyanka, Ruchi, Venu
+| **AKV** | TBD | Visionary scientist; creator of Maya |
+| **Karan** | **Jiten** | Gifted athlete balancing job + sports |
+| **Arjun** | **Kalpesh** | Top digital celebrity / influencer; friend → rival |
+| **Shanti** | **Shanti** | Karan's dramatic, sports-averse sister; also Mother in Bollywood spoof |
+| **Ajay Walia** | **Nishant** | Flamboyant billionaire sponsor |
+| **Coach Satak Singh** | TBD | Demanding veteran coach hired by Walia |
+| **Ruchi** | **Ruchi** | Stage Emcee / Host (Hasya show) |
+| **Sports Crew / Friends** | Brishti, Gaurav, Anu, Shikha, Shri | Recurring ensemble |
 
 ---
 
 ## Scene sequence
 
-### Scene 1 — AKV Builds Maya → Karma Dev's Team Arrives
+### Scene 1 — The Cosmic Collaboration [VIDEO → STAGE]
+
 | Field | Detail |
 |-------|--------|
-| **Format** | Screen / video |
-| **People** | Karma Dev, Kool, PratiKool, AKV, Maya |
-| **Music** | **"Navras Se Hai Kalpana"** (on exit to heaven) |
-| **Locations** | AKV's lab (TBD) |
-| **Status** | Script TBD |
-| **Notes** | Chitragupt joke; Maya handed over; Navras pitch; four leave for heaven. |
-
----
-
-### Scene 2 — Shringaar Ras — First Ras [VIDEO + STAGE] ⭐ narration template
-| Field | Detail |
-|-------|--------|
-| **Format** | **Video** (Karma teaches Maya) → **Stage** (mudras + songs) |
-| **People** | **Video:** Karma Dev, Maya · **Stage:** dancers/performers doing **Shringaar mudras** |
-| **Music** | **Video:** Shringaar Ras teaching song — the *"Shringar"* line explained to AI · **Stage:** **"Ishq Wala Love"** + **2 more songs TBD** |
-| **Locations** | **Video:** heaven/TBD · **Stage:** main performance area · **Backdrop:** Shringar Garden (2-min moonlit garden plate — see `livia-navras-play-scribble.md` → Scene Shringar Garden) |
-| **Choreographer** | **TBD — assign** (mudras + 3 song block) |
-| **Status** | Draft — 2 of 3 stage songs TBD |
-| **Notes** | **Karma (video):** *"Let me take the easiest one for you to start — the basis of our existence: Shringar / Pyaar / Love."* The Shringaar line is taught **as a song** to Maya. Then **on stage:** classical **Shringaar mudras** performed live, followed by the song block (Ishq Wala Love + 2 more). This is the **template** for how every Ras will be taught. |
-
----
-
-### Scene 3 — After Shringaar: Haasya Ras (2nd Ras) [VIDEO + STAGE] ⭐
-| Field | Detail |
-|-------|--------|
-| **Format** | **Video** (post-Shringaar + story pivot) → **Stage** (Haasya dances + songs) — same template as Scene 2 |
-| **People** | **Video:** Maya, Karma Dev, Kool, PratiKool · **Stage:** dancers/performers doing **Haasya** expression / comedy movement |
-| **Music** | **Video:** **"Chanda Kab Door Gagan Se"** (Pasir Ris backshot) · **Stage:** **Haasya Ras song block TBD** (2–3 songs) |
-| **Locations** | **Video:** Heaven · Google Earth (Pasir Ris → Livia) · **Stage:** main performance area |
-| **Choreographer** | **TBD — assign** (Haasya dances + song block) |
-| **Status** | Draft — stage songs TBD |
-| **Notes** | **ON VIDEO:** Maya shy after Shringaar → Entertainment → **Haasya Ras** (Maya doesn't laugh) → can't teach one-by-one (Dhurandhar) → **story approach** → Pasir Ris rejected → **Livia**. **ON STAGE:** live **Haasya mudras/dances** + song block. Full dialogue in `livia-navras-play-scribble.md` → Scene 3. **→** Cycle Movie spy montage → **Scene 4** gym → **Scene 5** race. |
-
----
-
-### Cycle Movie — Spy Escape *(montage before Scene 4)* [VIDEO]
-| Field | Detail |
-|-------|--------|
-| **Format** | **Video** — Bollywood mini-movie cold open (3 beats) |
-| **People** | **Karan** (Jitin), **Vandana** (sister), **3 CBI agents**, **Arjun** (Kalpesh) |
-| **Music** | **"Woh Sikandar Bhi Doston Ke Hain"** — chase / buddy escape on cycles |
-| **Locations** | Karan's home / Livia unit → streets (cycle escape) → arrives at **Livia gym** |
-| **Status** | Draft |
-| **Notes** | Vandana scolds Karan → CBI "spy" gag → Vandana faints → Arjun & friends rescue Karan on cycles. Plays immediately before **Scene 4**. Full dialogue in `livia-navras-play-scribble.md`. |
-
----
-
-### Scene 4 — Gym: Friends & Challenge [VIDEO]
-| Field | Detail |
-|-------|--------|
-| **Format** | **Video** |
-| **People** | **Karan** (Jitin), **Arjun** (Kalpesh), friends — Gym Bro / Runner / Cricketer / Casual Fitness Friend (cast TBD from Team A/B) |
-| **Music** | — *(or light underscore from spy escape)* |
-| **Locations** | **Livia gym / fitness area** |
-| **Status** | Draft — friend role casting TBD |
-| **Notes** | Friends swamp Karan with fitness questions. Arjun: *"Bhai log, sabka ho jayega… saans toh lene dena usko…"* Karan dramatic (work + behen's to-do list). Arjun challenges Karan to a race: *"mere talent mein tu compete nahin kar saktha.. lekin..tere sports mein equally takkar de saktha hoon.."* Karan: *"Chalo dekthein hein.."* **→ Scene 5** race. |
-
----
-
-### Scene 5 — Race: Karan Wins [VIDEO]
-| Field | Detail |
-|-------|--------|
-| **Format** | **Video** — impromptu friends' race |
-| **People** | **Karan**, **Arjun**, friends (Team A/B ensemble) |
-| **Music** | **TBD** — may continue **"Woh Sikandar"** from spy escape or new race montage track |
-| **Locations** | Livia gym / fitness area → outdoor route TBD |
-| **Choreographer** | TBD — race montage |
-| **Status** | Draft |
-| **Notes** | Intro race between friends. **Karan wins** — all praise him. **Arjun proud** (no jealousy yet; establishes duo at their best — contrast for **Scene 10** friction). |
-
----
-
-### Scene 6 — Trailer Cut + Dining (Sponsorship Ask)
-| Field | Detail |
-|-------|--------|
-| **Format** | Video (mock trailer) → stage dining |
-| **People** | Karan, Arjun, PratiKool, Maya, friends |
-| **Music** | **"Yeh Bandhan…"** (trailer only) |
-| **Locations** | Dining setup (TBD) |
-| **Status** | Script TBD |
-| **Notes** | PratiKool: "scene change kar." Friends ask Arjun to help Karan with sponsorship contacts. |
-
----
-
-### Scene 7 — Meet the Sponsor: Nishanth's Office
-| Field | Detail |
-|-------|--------|
-| **Format** | Video + stage |
-| **People** | Karan, Arjun, **Nishanth**, **Coach Satak Lee** |
-| **Music** | **"Aata Maji Satak Li"** |
-| **Locations** | Nishanth's office (TBD) |
-| **Status** | Script TBD |
-
----
-
-### Scene 8 — Sponsorship Approved: Celebration [VIDEO] ⚠️ *review*
-| Field | Detail |
-|-------|--------|
-| **Format** | Video |
-| **People** | Karan, Arjun, Team A, Team B, Satak Lee; **Kool:** *"This is so my type of feeling… Over to you, Maya."* |
-| **Music** | **TBD** — "Woh Sikandar" used in spy escape (pre–Scene 4); confirm reprise vs new song here |
-| **Locations** | SUTD, pool, tennis court, basketball court |
-| **Choreographer** | TBD — assign |
-| **Status** | Choreo TBD |
-
----
-
-### Scene 9 — TBD (bridge beat)
-| Field | Detail |
-|-------|--------|
-| **Format** | TBD |
-| **People** | TBD |
-| **Status** | Not yet defined |
-| **Notes** | Placeholder between celebration (Scene 8) and team friction (Scene 10). Candidate: training montage / Naina beat — confirm with team. |
-
----
-
-### Scene 10 — Arjun & Karan Get Irritated [STAGE]
-| Field | Detail |
-|-------|--------|
-| **Format** | **Stage** |
-| **People** | **Karan, Arjun, Kool, PratiKool, Coach Satak Lee, Ankit, Pramod**, Team A/B · Arjun talking to PratiKool (**Coach overhears**) |
-| **Music** | — |
-| **Locations** | **TBD — pool area or gym (24-hr fitness)** |
-| **Choreographer** | — |
+| **Format** | Video projection → live stage |
+| **People** | AKV, Maya, Karma Dev, Cool, Pratikool |
+| **Music** | Futuristic entrance theme → **Navras / Karma Chakra** title track on ascent |
+| **Locations** | Startup tech lab (video) → main stage → celestial chariot |
 | **Status** | Draft — dialogue captured |
-| **Beat** | Working out → phone rings → **Kool picks up and walks away** → Arjun **shouts at Karan in front of everyone** about discipline → Karan insulted → Coach watching → **Arjun storms out**. Kool to Arjun: *"Bhai its ok na.. kar raha hai mehnat.. don't say such things na.. demotivate karogey.."* Kool to Ankit & coach: take Arjun away, give a break. PratiKool to Karan: *"Arey, bahut advice de raha hai Arjun aajkal but khud toh kuch nahin kar raha hai.. yeh iska race bhi toh hai.."* Karan **nods**. PratiKool to Pramod: *"Bol na.. sirf mein bolun kya.."* Pramod: *"Agar thoda masti ched-chaat kar diya to kya ho jayega..? Bade followers hai to hum pe bhi influence karega."* **Outside:** Kool to coach — party plan using **Arjun's show** to lift mood; friends agree it's a good plan. |
+| **Beat** | **VIDEO:** AKV assembles/calibrates Maya. **STAGE:** AKV + Maya step out of screen; Karma, Cool, Pratikool materialize. Population boom overloads cosmic ledger. Paradigm shift: mortals' tech must now aid immortals. AKV: Maya can compute, but ledger needs emotion. Karma: Bharat Muni's **Navarasas** — divine wisdom + human engineering awaken feeling. AKV gifts Maya to the immortals. Quartet boards **Karma Chakra Chariot**; title track as they ascend. |
 
 ---
 
-## Rasa progression (confirmed order so far)
+### Scene 2 — Navras Introduction & Title Sequence [VIDEO]
+
+| Field | Detail |
+|-------|--------|
+| **Format** | Pre-recorded video |
+| **People** | Karma Dev, Cool, Pratikool, Maya |
+| **Music** | Title sequence underscore |
+| **Locations** | Celestial Karma Operations Center |
+| **Status** | Draft |
+| **Beat** | Structured intro defining the nine-rasa roadmap. Official visual title sequence establishes the mission. |
+
+---
+
+### Scene 3 — श्रृंगार रस (Shringar Ras – Love) [VIDEO → STAGE]
+
+| Field | Detail |
+|-------|--------|
+| **Format** | Video (shloka) → live dance → comic coda |
+| **People** | Karma/Maya (video); dancers; Maya (stage robot dance) |
+| **Music** | Sanskrit shloka + Hindi explain · **Suraj Hua Maddham** · **Kuch Kuch Hota Hai** · **Tere Vaaste** · vintage B&W Bollywood classic (Maya robot dance) |
+| **Locations** | Heaven (video) · main stage |
+| **Choreographer** | TBD — assign |
+| **Status** | Draft — tracks shortlisted |
+| **Beat** | **Part 1:** Shringar shloka + Hindi translation. **Part 2:** Romantic dance medley (3 tracks). **Part 3:** Maya neural calibration graphics → stiff mechanical robot dance (comic coda). |
+
+---
+
+### Scene 4 — The Pivot to Storytelling [STAGE → SCREEN]
+
+| Field | Detail |
+|-------|--------|
+| **Format** | Live stage → screen transition |
+| **People** | Cool, Pratikool, Karma Dev, Maya |
+| **Music** | Underscore → cosmic zoom |
+| **Locations** | Celestial realm → Google Earth-style descent to Livia |
+| **Status** | Draft — dialogue captured |
+| **Beat** | Cool & Pratikool banter on Maya's stiff dance. Karma: next eight rasas too complex for lectures — mortals learn through **stories**; her AI will understand a human story. Maya scans Earth for theatrical, emotionally charged people → locks on **Livia**. High-speed cosmic zoom. |
+
+---
+
+### Scene 5 — Livia – Reel Life vs Real Life [VIDEO]
+
+| Field | Detail |
+|-------|--------|
+| **Format** | Pre-recorded video |
+| **People** | Shanti (Mother + sister), Karan (Jiten), Arjun (Kalpesh), IB friends (3), Karma (VO / fourth wall) |
+| **Music** | **चंदा कब दूर गगन से…** (spoof) · cycle getaway energy |
+| **Locations** | Open rural field (spoof) → Karan's living room |
+| **Status** | Draft — dialogue captured |
+| **Beat** | **Part 1 – Reel:** 90s melodrama; Mother (Shanti) between Karan & Arjun sings *Chanda Kab Door…*. Karma freezes frame: *"यह तो सिर्फ 'रील लाइफ' का ड्रामा है! असल जिंदगी इससे बिल्कुल अलग होती है।"* **Part 2:** Arjun's real influencer life (red carpets, viral shoots, followers). **Part 3:** Karan glued to sports TV; Shanti scolds; IB "secret spy" prank; Shanti nearly faints; Karan grabs helmet + road cycle — getaway. |
+
+---
+
+### Scene 6 — The Marina Bay Ride & The Pro Proposition [VIDEO]
+
+| Field | Detail |
+|-------|--------|
+| **Format** | Video sequence |
+| **People** | Karan, Arjun, Brishti, Gaurav, Anu, Shikha, Shri |
+| **Music** | High-energy cycling montage TBD |
+| **Locations** | Lavender/Kallang Highway route overlooking Marina Bay Sands |
+| **Status** | Draft — dialogue captured |
+| **Beat** | Skyline cycle montage + flashbacks of Karan dominating community sports. Friends push him toward pro sports. Arjun defends Karan's balance (job + passion). Spontaneous sprint → **Karan wins**; Arjun proud. Friends: Arjun should use celebrity reach. Arjun: will talk to **Nikki** (brilliant businessman → leads to Walia). |
+
+---
+
+### Scene 7 — Corporate Sponsorship – Ajay Walia's Office [VIDEO]
+
+| Field | Detail |
+|-------|--------|
+| **Format** | Pre-recorded video |
+| **People** | Arjun, Karan, **Ajay Walia** (Nishant), **Coach Satak Singh** (introduced) |
+| **Music** | Corporate / flamboyant underscore TBD |
+| **Locations** | Flamboyant executive office |
+| **Status** | Draft — dialogue captured |
+| **Beat** | Arjun pitches Karan. Walia: talent alone isn't enough — prove it in the big cycle race he sponsors. Assigns **Coach Satak Singh** to train + surveil. Arjun to Karan: my name and reputation are on the line — deliver, don't drown my izzat — I know you will. Handshake seals the deal. |
+
+---
+
+### Scene 8 — The Celestial Infiltration [SCREEN → STAGE]
+
+| Field | Detail |
+|-------|--------|
+| **Format** | Screen graphic → live stage |
+| **People** | Karma Dev, Cool, Pratikool, Maya (observe) |
+| **Music** | Descent / atmospheric TBD |
+| **Locations** | Heavens → Earth training grounds |
+| **Status** | Draft |
+| **Beat** | Karma: *"लगता है हमें अपनी कहानी का असली प्लॉट मिल गया है!"* Dispatches Cool & Pratikool to Earth. AI visual of twin shadows descending. |
+
+---
+
+### Scene 9 — Sowing Seeds of Paranoia [STAGE]
+
+| Field | Detail |
+|-------|--------|
+| **Format** | Live stage / narrative beat |
+| **People** | Cool, Pratikool, Coach Satak Singh |
+| **Music** | Comic / dark sting TBD |
+| **Locations** | Coach Satak Singh's camp |
+| **Status** | Draft — dialogue captured |
+| **Beat** | Pratikool: *"लगता है बहुत जल्द आपकी यह नौकरी जाने वाली है, कोच साहब!"* Satak panics. Duo pitch: they'll be his **spies** — report every move of Karan & Arjun. Satak agrees; celestial shadows enter his inner circle. |
+
+---
+
+### Scene 10 — The Gym – Sweat, Swagger & The Silent Sting [STAGE]
+
+| Field | Detail |
+|-------|--------|
+| **Format** | Stage / production sequence |
+| **People** | Karan, Coach Satak Singh, Arjun, Cool, Brishti, Gaurav, Anu, Shikha, Shri |
+| **Music** | Training underscore TBD |
+| **Locations** | Athletic gym |
+| **Status** | Draft — dialogue captured |
+| **Beat** | Karan trains hard; Satak praises form. Arjun arrives with celebrity swagger, takes over equipment, shows off: *"असली फॉर्म और स्वैग इसे कहते हैं!"* Karan humiliated before peers — silent sting. Cool reassures Karan (champions = quiet mehnat). Cool cautions Satak: focus on discipline, not flash. |
+
+---
+
+### Scene 11 — हास्य रस (Hasya Ras) – Chaos & The Grand Qawwali Show [VIDEO → STAGE]
+
+| Field | Detail |
+|-------|--------|
+| **Format** | Video interlude → live stage extravaganza |
+| **People** | Karma, Maya, children (video) · **Ruchi** (Emcee), **Arjun**, ensemble |
+| **Music** | Qawwali + medley: **Oiyamma** · **Sharara Sharara** · **Ghaghra** (Kalpesh in ghaghra slapstick) · **Dhurandhar** title anthem |
+| **Locations** | Heaven (green screen) · stage (Arjun's show) |
+| **Choreographer** | TBD — assign |
+| **Status** | Draft — tracks shortlisted |
+| **Beat** | **Part 1:** Karma on humor / balance; slapstick kids havoc around Maya. **Part 2:** Karma: watch Arjun at his best on his own show. Ruchi hosts → comic qawwali + shayari → dance medley culminating in Ghaghra slapstick + Dhurandhar. |
+
+---
+
+### Scene 12 — रौद्र रस (Raudra Ras) – Stage Crash & Birth of a Rival [STAGE]
+
+| Field | Detail |
+|-------|--------|
+| **Format** | Live stage climax |
+| **People** | Karan, sports friends, Arjun, Pratikool, Karma Dev, audience/ensemble |
+| **Music** | *Mary and Me* (athletic hijack) · **मल्हारी (Malhari)** clash · Raudra Sanskrit shloka |
+| **Locations** | Stage (Arjun's show → crashed) |
+| **Choreographer** | TBD — clash choreo |
+| **Status** | Draft — dialogue captured |
+| **Beat** | Karan + sports crew hijack floor with athletic rhythms. Escalates to **Malhari** face-off; pushing/shoving; show sabotaged. Pratikool stokes Arjun's vanity in the wings. Lights → black/crimson. Karma chants **Raudra** shloka. Arjun darkens (forehead band): will take Karan down **in his own domain** — enters the cycling championship. Friendship → sporting war. |
+
+---
+
+## Rasa progression (locked so far)
 
 | # | Rasa | Scene(s) | Format |
 |---|------|----------|--------|
-| 1 | **Shringaar** | 2 | Video (Karma teaches) + Stage (mudras + songs) |
-| 2 | **Haasya** | 3 *(in-story payoff TBD)* | Video + Stage (Scene 3) |
-| 3+ | TBD | — | — |
+| 1 | **Shringar** | 3 | Video shloka + Stage medley + comic coda |
+| 2 | **Hasya** | 11 | Video chaos + Stage qawwali / medley |
+| 3 | **Raudra** | 12 | Stage crash + shloka + Arjun's turn |
+| 4+ | TBD | 13+ | — |
 
 ---
 
@@ -194,12 +231,9 @@
 
 | Scene | Choreographer | Locations | Status |
 |-------|---------------|-----------|--------|
-| 2 | TBD — assign | Stage (Shringaar mudras + 3 songs) | Draft — 2 songs TBD |
-| 3 | TBD — assign | Stage (Haasya dances + songs) | Draft — songs TBD |
-| 4 | TBD | Livia gym | Draft |
-| 5 | TBD | Livia gym / outdoor race route | Draft |
-| 8 | TBD — assign | SUTD, pool, tennis, basketball | Choreo TBD |
-| 10 | — | Pool or gym (24hr) | Locations TBD |
+| 3 | TBD | Stage — Shringar medley + Maya robot dance | Tracks shortlisted |
+| 11 | TBD | Stage — Qawwali + Oiyamma / Sharara / Ghaghra / Dhurandhar | Tracks shortlisted |
+| 12 | TBD | Stage — Mary and Me / Malhari clash | Draft |
 
 ---
 
@@ -207,6 +241,6 @@
 
 | This doc | Also lives in |
 |----------|----------------|
-| Scene Storyboard Kanban + Details doc | [Miro MAIN board](https://miro.com/app/board/uXjVHs6iRk4=/) |
+| Scene Storyboard Kanban + Details | [Miro MAIN board](https://miro.com/app/board/uXjVHs6iRk4=/) |
 | Script dialogue | `livia-navras-play-scribble.md` |
-| Legacy 44-step board | Old Miro `uXjVHzpv1og` — reference only |
+| Story summary | `livia-navras-story-onepager.md` |
