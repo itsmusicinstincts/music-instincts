@@ -11,7 +11,7 @@
 
 **Karma Dev**, overwhelmed by Earth's booming population and karmic ledger, recruits scientist **AKV**'s AI **Maya** — but she cannot feel — so Karma, **Cool (Anukool)**, and **Pratikool** awaken her **Navarasas** through a live human sports story at **Livia**: athlete **Karan** and celebrity **Arjun**, whose sponsorship dream turns friendship into rivalry.
 
-> **Status (latest):** **👉 Scene order (Scenes 1–19):** `livia-navras-scene-flow.md` — **read this first.** This file = script dialogue + production notes. **Miro:** [Scenes Flow board](https://miro.com/app/board/uXjVHs6iRk4=/).
+> **Status (latest):** **👉 Scene order (Scenes 1–20):** `livia-navras-scene-flow.md` — **read this first.** This file = script dialogue + production notes. **Miro:** [Scenes Flow board](https://miro.com/app/board/uXjVHs6iRk4=/).
 
 ---
 
@@ -21,7 +21,7 @@
 |------|--------|
 | Tone | Comic end-to-end; sincere under the jokes |
 | Hero / guide | Maya (AI student) + Karma Dev (cosmic administrator / teacher) |
-| Structure | Nine rasas via sports battleground; Scenes **1–19** complete arc (Shringar→Shanta + race climax + cosmic coda) |
+| Structure | Nine rasas via sports battleground; Scenes **1–20** complete arc (Shringar→Shanta + race climax + cosmic coda) |
 | Shadows | **Cool** = bright (encourage) · **Pratikool** = dark (provoke / amplify) |
 | Instant karma | Small action → fast comic/emotional echo |
 | Ending (TBD) | Maya can mimic; humans *choose* which side of emotion they lean into |
@@ -47,14 +47,14 @@
 | **Karan** | Passionate gifted athlete balancing job + sports | **Jiten** |
 | **Arjun** | Top digital celebrity / mega-influencer; friend → rival | **Kalpesh** |
 | **Shanti** | Karan's dramatic sports-averse sister; also Mother in Bollywood spoof | **Shanti** |
-| **Ajay Walia** | Flamboyant corporate billionaire sponsor | **Nishant** |
+| **Ajay Walia** | Flamboyant billionaire; boss of **NEKI** (Nike-parody sportswear) | **Nishant** |
 | **Coach Satak Singh** | Demanding veteran coach hired by Walia | TBD |
 | **Ruchi** | Charismatic stage Emcee / Host | **Ruchi** |
 | **Sports Crew** | Friends ensemble | **Brishti, Gaurav, Anu, Shikha, Shri** |
 
 ---
 
-## SCENES 1–19 (MASTER DRAFT)
+## SCENES 1–20 (MASTER DRAFT)
 
 ---
 
@@ -169,19 +169,19 @@
 
 **Friends (to Arjun):** "सुन अर्जुन, तू सिंगापुर का इतना बड़ा सेलिब्रिटी और इन्फ्लुएंसर है। तू अपनी पहुंच का इस्तेमाल करके करन को प्रो-स्पोर्ट्स में एंट्री क्यों नहीं दिलाता?"
 
-**Arjun:** "ठीक है, मेरा एक दोस्त है निक्की (Nikki) में—ही इज़ अ ब्रिलियंट बिजनेसमैन। मैं उससे बात करता हूँ।"
+**Arjun:** "ठीक है। मेरा एक दोस्त है NEKI में—अजय वालिया। He's a brilliant businessman. मैं उससे बात करता हूँ।"
 
-> *Note: Nikki / contact path leads into Ajay Walia (Nishant) in Scene 7 — confirm if Nikki = Walia intro middleman or alternate name beat.*
+*(Comic beat — brand gag that rhymes with Hindi नेकी:)* **Friends / Arjun (riffing):** "NEKI — नेकी और पूछ-पूछ!"
 
 ---
 
-### SCENE 7 — Corporate Sponsorship – Ajay Walia's Office [VIDEO]
+### SCENE 7 — Corporate Sponsorship – NEKI / Ajay Walia's Office [VIDEO]
 
-**Location:** Flamboyant executive office · **People:** Arjun, Karan, **Ajay Walia** (Nishant), **Coach Satak Singh**
+**Location:** Flamboyant **NEKI** HQ suite (Nike-parody branding everywhere) · **People:** Arjun, Karan, **Ajay Walia** (Nishant), **Coach Satak Singh**
 
-*(Arjun pitches Karan to Walia.)*
+*(Arjun pitches Karan to Walia under the giant NEKI logo.)*
 
-**Ajay Walia:** "सिर्फ टैलेंट से स्पॉन्सरशिप नहीं मिलती। मैं जल्द ही एक बड़ी साइकल रेस स्पॉन्सर कर रहा हूँ—उसमें हिस्सा लो और मुझे अपनी काबिलियत साबित करके दिखाओ।"
+**Ajay Walia** *(gesturing at the brand):* "NEKI — नेकी और पूछ-पूछ! सिर्फ टैलेंट से स्पॉन्सरशिप नहीं मिलती। मैं जल्द ही एक बड़ी साइकल रेस स्पॉन्सर कर रहा हूँ—उसमें हिस्सा लो और मुझे अपनी काबिलियत साबित करके दिखाओ।"
 
 - **Condition:** Walia assigns his personal mentor, **Coach Satak Singh**, to train Karan and keep him under strict surveillance.
 
@@ -220,37 +220,55 @@
 
 ### SCENE 10 — The Gym – Sweat, Swagger & The Silent Sting [STAGE]
 
-**Location:** Athletic gym · **People:** Karan, Satak Singh, Arjun, Cool, Brishti, Gaurav, Anu, Shikha, Shri
+**Location:** Athletic gym · **People:** Karan, Satak Singh, Arjun, Cool, **Pratikool**, Brishti, Gaurav, Anu, Shikha, Shri
 
 *(Karan trains under Satak's watch — intense drills.)*
 
 **Coach Satak Singh:** "बहुत बढ़िया करन! फॉर्म बिल्कुल सही है, इसी पेस को बनाए रखो।"
 
-*(Arjun arrives radiating celebrity energy — takes over equipment, advanced moves before onlookers.)*
+*(Arjun arrives radiating celebrity energy — takes over equipment, flexes, advanced moves before onlookers. Small conflict ignites.)*
 
-**Arjun:** "देख भाई, ऐसे करते हैं! तू खुद को प्रो एथलीट कहता है ना? असली फॉर्म और स्वैग इसे कहते हैं!"
+**Arjun** *(showing off):* "देख भाई, ऐसे करते हैं! तू खुद को प्रो एथलीट कहता है ना? असली फॉर्म और स्वैग इसे कहते हैं!"
 
-**The Sting:** Karan feels humiliated in front of peers — retreats into tight-lipped silence.
+**The Sting:** Insult lands. Karan uneasy in front of everyone — looks disappointed, tight-lipped.
 
-**Cool** *(to Karan):* "कोई बात नहीं करन, असली चैंपियन दिखावे से नहीं, अपनी खामोश मेहनत से पहचाना जाता है। Don't lose heart."
+*(Pratikool slips in fast — seizes the crack in the friendship.)*
 
-*(Cool then cautions Coach Satak Singh to focus on genuine athletic discipline rather than flashy showmanship.)*
+**Pratikool** *(to Karan, loud enough for others):* "अर्जुन ने दोस्त बनके तुझे मौका दिया—इसका मतलब यह नहीं कि अब वो तेरा मालिक है… जो मर्ज़ी कमांड करे, जो मर्ज़ी बोले!"
+
+*(Coach Satak Singh and Cool exchange a look — watching.)*
+
+**Coach Satak Singh** *(concerned):* "भाई… ये ठीक नहीं हो रहा है।"
+
+**Cool:** "रेस का मार्केटिंग प्री-इवेंट पार्टी है… लेट्स डू सम गुड पार्टी एंड ब्रिंग देयर फ्रेंडशिप बैक।"
 
 ---
 
-### SCENE 11 — हास्य रस (Hasya Ras) – Chaos & The Grand Qawwali Show [VIDEO → STAGE]
+### SCENE 11 — Karma Operations Centre – Twist & हास्य Setup [VIDEO / STAGE]
 
-**Part 1 – Heavenly Commotion (Green Screen Video)**
+**Location:** Celestial Karma Operations Center · **People:** Karma Dev, Maya (Cool/Pratikool optional monitors)
 
-**Karma Dev:** "जिंदगी में तनाव कितना भी गंभीर क्यों न हो, जब तक इंसान हँसना नहीं सीखता, संतुलन नहीं बन सकता।"
+*(Holographic feeds show the gym sting. Maya processes the anomaly.)*
 
-- Slapstick: children causing havoc around Maya — pulling battery cables, glitchy robot tumbles, running circles around Karma amid infectious laughter.
+**Maya:** "कर्मा देव… स्टोरी में अचानक ट्विस्ट क्यों आ गया? वे इतने अच्छे दोस्त थे—फिर ये क्या हो रहा है?"
 
-**Part 2 – Live Qawwali & Medley**
+**Karma Dev** *(Hindi):* "तू भावनाओं के बहुत सारे बदलाव देखने वाली है… और भावनाओं के वे पहलू भी, जो काबू में नहीं रहते। अब उस लर्निंग के लिए तैयार हो जा—पर पहले आसान से शुरू करते हैं। थोड़ा एंटरटेनमेंट… सुना है मार्केटिंग इवेंट है। थोड़ा हँसी-मज़ाक होगा… और मैं तुझे **हास्य रस** भी सिखा सकता हूँ—जो इंसान की ज़िंदगी के सारे एंटरटेनमेंट की बुनियाद है।"
 
-**Karma Dev:** "चलो नीचे चलते हैं और उस एंटरटेनमेंट के कबाब को देखते हैं—लेट्स सी अर्जुन एट हिज़ बेस्ट ऑन हिज़ ओन शो!"
+**Maya:** "ओह… हँसी-मज़ाक?"
 
-- **Ruchi** commands the stage as Emcee → brings on **Arjun**.
+**Karma Dev:** *(sings / chants the **हास्य रस** Sanskrit *shloka* — sacred Hasya shloka.)*
+
+*(Cut / transition cue toward the earthly marketing party.)*
+
+---
+
+### SCENE 12 — हास्य रस (Hasya Ras) – Marketing Pre-Event Qawwali Party [STAGE]
+
+**Location:** Race marketing pre-event party stage · **People:** **Ruchi** (Emcee), Arjun, Karan, friends, Cool, Pratikool, ensemble · Karma/Maya observe
+
+*(Setup from Cool's plan — patch the friendship with laughter before the race.)*
+
+**Ruchi** commands the stage as Emcee → brings on **Arjun**.
 - Dynamic comic **Qawwali** with competitive witty *shayari*.
 - Dance medley:
   1. *Oiyamma*
@@ -260,16 +278,18 @@
 
 **Choreographer:** TBD
 
+*(Hasya lands — crowd laughing. Friendship looks briefly repairable… until the next crash.)*
+
 ---
 
-### SCENE 12 — रौद्र रस (Raudra Ras) – Stage Crash & Birth of a Rival [STAGE]
+### SCENE 13 — रौद्र रस (Raudra Ras) – Stage Crash & Birth of a Rival [STAGE]
 
 **The Crash**
-- Karan and sports friends disrupt the performance — hijack the floor with hard-hitting athletic rhythms (*Mary and Me*).
+- Mid-party / curtain energy: Karan and sports friends disrupt the performance — hijack the floor with hard-hitting athletic rhythms (*Mary and Me*).
 
 **The Clashing Choreo (*Malhari*)**
 - Escalates to aggressive competitive dance face-off to **मल्हारी (*Malhari*)**.
-- Physical pushing and shoving. Arjun's show sabotaged in front of his public.
+- Physical pushing and shoving. Arjun's marketing show sabotaged in front of his public.
 
 **Pratikool** *(corners Arjun in the wings):* "यह बर्दाश्त मत करना! तूने इस लड़के के लिए अपनी साख दांव पर लगाई, और इसने तेरे ही स्टेज पर आकर तेरी धज्जियां उड़ा दीं!"
 
@@ -284,82 +304,60 @@
 
 ---
 
-### SCENE 13 — बीभत्स रस (Bibhatsa Ras) – The Vile Sabotage [VIDEO + STAGE]
+### SCENE 14 — The Sabotage & The Fall [VIDEO]
 
-**People:** Karan (Jiten), cycling companions/girls, Pratikool, Arjun (Kalpesh), Karma Dev
+**People:** Karan, Arjun's crew/accomplices, Karma Dev
 
-**Part 1 – The Carefree Sprint (Video)**
-- Sunlit coastal stretch / park connector. Karan cruises with a group of girls, laughing.
-- **Soundtrack:** *हवा के साथ साथ, घटा के संग संग... ओ साथी चल!*
-
-**Part 2 – Pratikool's Bait**
-
-**Pratikool** *(pulls up beside Karan):* "क्या बात है करन! इतनी धीमी रफ्तार? अगर रेस जीतनी है, तो हवा की तरह उड़ना सीखो! दम है तो खींच के दिखाओ!"
-
-*(Karan drops into aero tuck, full-throttle sprint. Pratikool smiles maliciously and peels back into shadow.)*
-
-**Part 3 – Arjun's Ambush**
-- Shaded narrow bend. Blinded by anger, Arjun has strung **thin invisible wires** across both sides of the street between trees/posts — directly in Karan's sprint line.
-
-**Part 4 – Karma Dev's Song of बीभत्स रस**
-
-**Karma Dev:** "बीभत्स रस केवल घिनौनी चीज़ों या खून-खराबे का नाम नहीं है... इंसान के भीतर जब ईर्ष्या और अहंकार इस हद तक गिर जाए कि वह अपने ही दोस्त की पीठ में छुरा घोंप दे, तो वह नैतिक पतन और वह गंदा विचार ही **बीभत्स रस** की पराकाष्ठा है।"
-
-*(Score → tense, jarring, dissonant — ugliness of a poisoned conscience.)*
+- Bright motivational track; Karan rides winding training road in peak rhythm.
+- Blind corner: crew pulls thin nearly invisible wire taut across the road.
+- Karan hits wire at full speed — cycle flips; frame cracked, wheel twisted, gears shredded; Karan unconscious/bleeding.
+- Karma Dev on screen — somber Sanskrit shloka marking descent into grief.
 
 ---
 
-### SCENE 14 — करुण रस (Karuna Ras) – Shattered Bones & Broken Dreams [VIDEO + STAGE]
+### SCENE 15 — करुण रस (Karuna) – The Shattered Dream [VIDEO / STAGE]
 
-**People:** Karan, Coach Satak Singh, Brishti, Gaurav, Anu, Shikha, Shri, Shanti, Karma Dev, Cool, Pratikool
+**People:** Karan, Coach Satak Singh, Ajay Walia (speakerphone), Karma Dev, Maya
 
-**Part 1 – The Crash (Video)**
-- Karan hits the invisible tripwire at max speed. Cycle flips; carbon frame snaps; hard tarmac crash. Cries fade under sirens → cut to black.
+**Corridor — phone**
 
-**Part 2 – The Hospital – Crushing Verdict**
-- Karan bedridden — arms/legs in casts. Friends + Shanti fight tears.
+**Coach Satak Singh:** "वालिया साहब, करन का बहुत भयानक एक्सीडेंट हो गया है। साइकल पूरी टूट चुकी है और वह खुद चलने की हालत में भी नहीं है।"
 
-**Coach Satak Singh** *(clipboard):* "आई एम सॉरी करन... इन टूटी हड्डियों के साथ तुम अब रेस के लिए क्वालीफाई नहीं कर सकते। वक्त बिल्कुल नहीं है और स्पॉन्सरशिप दांव पर लगी है। मजबूरी में मुझे तुम्हारी जगह **अर्जुन** को नॉमिनेट करना होगा।"
+**Ajay Walia** *(cold, speakerphone):* "नो रिजल्ट्स, नो स्पॉन्सरशिप। तुरंत कॉन्ट्रैक्ट कैंसिल करो!"
 
-*(Karan turns face into the pillow — absolute silence.)*
+**Ward**
 
-**Part 3 – करुण रस Ballad (Stage)**
-- Soft melancholic amber light. Karma Dev + Cool define Karuna:
+**Coach Satak Singh** *(holding agreement, then tearing it over the bed):* "करन, तुम्हारी इस हालत के बाद स्पॉन्सरशिप का सवाल ही नहीं उठता। यू कैन नॉट पार्टिसिपेट।"
 
-> "करुण रस वह पीड़ा है जो किसी के टूटे हुए सपनों को देखकर आत्मा में उतरती है... जब एक सच्चे खिलाड़ी की वर्षों की तपस्या एक धोखे से बिखर जाए, तो उस बेबसी से जो आंसू बहते हैं, वही करुणा है।"
-
-**Part 4 – The Shadows Diverge**
-- Cool at the foot of Karan's bed — quiet empathy.
-
-**Pratikool** *(malignant delight):* "देखा? एक ही झटके में खेल खत्म! ईर्ष्या जीत गई और खिलाड़ी अस्पताल के बिस्तर पर पहुंच गया!"
+*(Slow motion: white scraps flutter across the sheets. Karan clutches bandaged ribs — devastated. Karuna theme + shloka. Maya logs human heartbreak.)*
 
 ---
 
-### SCENE 15 — वीर रस (Veer Ras) – Conquering One's Inner Self [STAGE + MONTAGE]
+### SCENE 16 — The Comeback Ignition [STAGE → MONTAGE]
 
-**People:** Karan, Cool, friends + Shanti, Karma Dev
+**People:** Karan, Cool, Brishti, Gaurav, Anu, Shikha, Shri
 
-**Part 1 – The Flare of Wrath**
+**Karan** *(grabs heavy sports bat):* "मैं अर्जुन को नहीं छोड़ूँगा! उसने धोखे से मुझे गिराया है, आई एम गोइंग टू डिस्ट्रॉय हिम!"
 
-**Karan** *(trying to tear out of bed):* "अर्जुन ने मेरे साथ यह दगाबाजी की?! मैं उसे ऐसे ही नहीं छोड़ने वाला! I won't let him get away with this!"
+*(Cool + friends wrestle the bat away.)*
 
-**Part 2 – The Intervention**
+**Cool:** "करन, रुक! बदले की आग में सिर्फ तू खुद को जलाएगा। असली जवाब अर्जुन को तोड़ना नहीं, मैदान में वापस खड़ा होकर दिखाना है!"
 
-**Friends:** "रुक जा करन! इस गुस्से से क्या हासिल होगा? क्या चीखने-चिल्लाने से टूटी हड्डियां जुड़ जाएंगी या स्पॉन्सरशिप वापस मिलेगी? बिल्कुल नहीं!"
+**Brishti:** "गुस्सा छोड़ करन। पहले फिजियोथेरेपी शुरू करते हैं, तुम्हारी चोटों को हील करना पहली प्रायोरिटी है।"
 
-**Cool:** "करन, स्पॉन्सरशिप छूटी है, तुम्हारी खेल भावना (sports spirit) नहीं! अपने अंदर के उस खिलाड़ी को कभी मत हारने देना। इस आग को बदले की नफ़रत में बर्बाद मत करो, इसे पॉजिटिव एनर्जी में बदलो। उठो, मेहनत करो, और देखो कि क्या तुम जीतने के लिए नहीं, तो कम से कम उस मैदान में फिर से खड़े होने के काबिल बन सकते हो या नहीं!"
+**Gaurav:** "वालिया ने स्पॉन्सरशिप छीनी है ना? तेरी हिम्मत कोई नहीं छीन सकता। We are going to fund and back you!"
 
-**Part 3 – वीर रस**
+**Anu:** "डाइट, रिकवरी और स्ट्रेंथ ट्रेनिंग का नया प्लान मैं बना रही हूँ। एक-एक दिन का हिसाब रखेंगे।"
 
-**Karma Dev:** "वीर रस का मतलब सिर्फ मैदान में दूसरों को हराना नहीं है... **वीर रस की असली जीत है—अपने ही दर्द, अपने गुस्से और अपनी कमजोरियों पर विजय पाना (Winning over one's own emotions).**"
+**Shikha:** "और उस टूटी हुई साइकल की चिंता मत कर। जब तक तू खड़ा होगा, तेरी बाइक पहले से ज्यादा तेज दौड़ने के लिए तैयार मिलेगी!"
 
-**Part 4 – Comeback Training Montage**
-- Physio through agony; friends weld/rebuild shattered cycle; pre-dawn rain training.
-- Karan stands ready in full racing kit beside rebuilt machine.
+**Shri:** "हम सब तेरे साथ हैं करन। तुझे बस अपनी नजर फिनिश लाइन पर रखनी है।"
+
+**Comeback montage:** physio → garage rebuild → limp to jog to cleats locked into rebuilt pedals — race-ready.
 
 ---
 
-### SCENE 16 — The Cycle Race & The Final 3 Laps [VIDEO / STAGE]
+### SCENE 17 — The Cycle Race & The Final 3 Laps [VIDEO / STAGE] *(prior draft)*
 
 **People:** Karan, Arjun, Ajay Walia, Coach Satak Singh, crowd, friends, Cool, Pratikool, Karma, Maya
 
@@ -380,7 +378,7 @@
 
 ---
 
-### SCENE 17 — अद्भुत रस (Adbhuta Ras) – Sacrifice & The Power of Choice [VIDEO + STAGE]
+### SCENE 18 — अद्भुत रस (Adbhuta Ras) – Sacrifice & The Power of Choice [VIDEO + STAGE]
 
 **People:** Karan, Arjun, Maya, Karma Dev, Pratikool
 
@@ -408,7 +406,7 @@
 
 ---
 
-### SCENE 18 — भयानक रस (Bhayanaka Ras) – Raktabija & Mahakali [STAGE / VIDEO]
+### SCENE 19 — भयानक रस (Bhayanaka Ras) – Raktabija & Mahakali [STAGE / VIDEO]
 
 **People:** Karma Dev (narrator), Maya (observer), Raktabija, Maa Kali, ensemble
 
@@ -423,7 +421,7 @@
 
 ---
 
-### SCENE 19 — शांत रस (Shanta Ras) & The Grand Finale [STAGE]
+### SCENE 20 — शांत रस (Shanta Ras) & The Grand Finale [STAGE]
 
 **People:** Full company — celestial + mortal + dancers
 
