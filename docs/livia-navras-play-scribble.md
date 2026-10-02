@@ -11,7 +11,7 @@
 
 **Karma Dev**, overwhelmed by Earth's booming population and karmic ledger, recruits scientist **AKV**'s AI **Maya** — but she cannot feel — so Karma, **Cool (Anukool)**, and **Pratikool** awaken her **Navarasas** through a live human sports story at **Livia**: athlete **Karan** and celebrity **Arjun**, whose sponsorship dream turns friendship into rivalry.
 
-> **Status (latest):** **👉 Scene order (Scenes 1–20):** `livia-navras-scene-flow.md` — **read this first.** This file = script dialogue + production notes. **Miro:** [Scenes Flow board](https://miro.com/app/board/uXjVHs6iRk4=/).
+> **Status (latest):** **👉 Scene order (Scenes 1–21):** `livia-navras-scene-flow.md` — **read this first.** This file = script dialogue + production notes. **Miro:** [Scenes Flow board](https://miro.com/app/board/uXjVHs6iRk4=/).
 
 ---
 
@@ -21,7 +21,7 @@
 |------|--------|
 | Tone | Comic end-to-end; sincere under the jokes |
 | Hero / guide | Maya (AI student) + Karma Dev (cosmic administrator / teacher) |
-| Structure | Nine rasas via sports battleground; Scenes **1–20** complete arc (Shringar→Shanta + race climax + cosmic coda) |
+| Structure | Nine rasas via sports battleground; Scenes **1–21** complete arc (Shringar→Shanta + race climax + cosmic coda) |
 | Shadows | **Cool** = bright (encourage) · **Pratikool** = dark (provoke / amplify) |
 | Instant karma | Small action → fast comic/emotional echo |
 | Ending (TBD) | Maya can mimic; humans *choose* which side of emotion they lean into |
@@ -54,11 +54,11 @@
 
 ---
 
-## SCENES 1–20 (MASTER DRAFT)
+## SCENES 1–21 (MASTER DRAFT)
 
 ---
 
-### SCENE 1 — The Cosmic Collaboration [VIDEO → STAGE]
+### SCENE 1 — The Cosmic Collaboration [VIDEO → STAGE] *(≈3 min)*
 
 **Location:** Startup tech lab → main stage · **People:** AKV, Maya, Karma Dev, Cool, Pratikool
 
@@ -84,7 +84,7 @@
 
 ---
 
-### SCENE 2 — Navras Introduction & Title Sequence [VIDEO]
+### SCENE 2 — Navras Introduction & Title Sequence [VIDEO] *(≈3 min)*
 
 **Location:** Celestial Karma Operations Center · **People:** Karma Dev, Cool, Pratikool, Maya
 
@@ -97,7 +97,7 @@
 
 ---
 
-### SCENE 3 — श्रृंगार रस (Shringar Ras – Love) [VIDEO → STAGE]
+### SCENE 3 — श्रृंगार रस (Shringar Ras – Love) [VIDEO → STAGE] *(≈5 min)*
 
 **Part 1 – The Shloka (Video)**
 - Sacred Sanskrit *shloka* on Shringar Ras + Hindi translation/explanation (love & beauty).
@@ -115,7 +115,7 @@
 
 ---
 
-### SCENE 4 — The Pivot to Storytelling [STAGE → SCREEN]
+### SCENE 4 — The Pivot to Storytelling [STAGE → SCREEN] *(≈4 min)*
 
 **Location:** Celestial realm → cosmic descent to Livia · **People:** Cool, Pratikool, Karma Dev, Maya
 
@@ -129,7 +129,7 @@
 
 ---
 
-### SCENE 5 — Livia – Reel Life vs Real Life [VIDEO]
+### SCENE 5 — Livia – Reel Life vs Real Life [VIDEO] *(≈4 min)*
 
 **Location:** Open rural field → Karan's living room
 
@@ -155,7 +155,7 @@
 
 ---
 
-### SCENE 6 — The Marina Bay Ride & The Pro Proposition [VIDEO]
+### SCENE 6 — The Marina Bay Ride & The Pro Proposition [VIDEO] *(≈7 min)*
 
 **Location:** Lavender/Kallang Highway overlooking Marina Bay Sands · **People:** Karan, Arjun, Brishti, Gaurav, Anu, Shikha, Shri
 
@@ -175,7 +175,7 @@
 
 ---
 
-### SCENE 7 — Corporate Sponsorship – NEKI / Ajay Walia's Office [VIDEO]
+### SCENE 7 — Corporate Sponsorship – NEKI / Ajay Walia's Office [VIDEO] *(≈4 min)*
 
 **Location:** Flamboyant **NEKI** HQ suite (Nike-parody branding everywhere) · **People:** Arjun, Karan, **Ajay Walia** (Nishant), **Coach Satak Singh**
 
@@ -191,7 +191,31 @@
 
 ---
 
-### SCENE 8 — The Celestial Infiltration [SCREEN → STAGE]
+### SCENE 8 — Song Continuation on Stage [STAGE] *(≈3 min)*
+
+**Location:** Stage (post-deal celebration / song coda) · **People:** Karan, Arjun
+
+*(Karan is singing and dancing the last para of the song on stage. Arjun walks in.)*
+
+**Arjun:** "भाई — बहुत कुछ दाव पर लगाया है मैंने… please focus कर। तेरा परफॉर्मेंस तो मुझसे भी खराब हो रहा है!!!"
+
+*(Karan with his hand on Arjun's shoulder.)*
+
+**Karan:** "चिल यार, देख लेंगे… तू जानता है मेरे लिए साइकल तो बाएँ हाथ का खेल है…"
+
+"वैसे यार, आजकल थोड़ा ज़्यादा सीरियस नहीं ले रहा है…"
+
+**Arjun:** "मेरी रेप्युटेशन का सवाल है भाई… अजय वालिया ने तो धमकी दी है… वरना तेरे साथ मेरे और कोच का भी लाइफ बर्बाद कर देगा…"
+
+**Karan:** "अरे कुछ नहीं होगा… वैसे कोच सतक सिंह… उसके साथ तो मस्त कॉमेडी होने वाला है…"
+
+**Arjun:** "वैसे… बाएँ हाथ नहीं — पैर से चलाना पड़ेगा।"
+
+*(Both laugh: हहाहा…)*
+
+---
+
+### SCENE 9 — The Celestial Infiltration [SCREEN → STAGE] *(≈3 min)*
 
 **Location:** Heavens → Earth training grounds · **People:** Karma Dev, Cool, Pratikool, Maya
 
@@ -202,7 +226,7 @@
 
 ---
 
-### SCENE 9 — Sowing Seeds of Paranoia [STAGE]
+### SCENE 10 — Sowing Seeds of Paranoia [STAGE] *(≈4 min)*
 
 **Location:** Coach Satak Singh's camp · **People:** Cool, Pratikool, Coach Satak Singh
 
@@ -218,7 +242,7 @@
 
 ---
 
-### SCENE 10 — The Gym – Sweat, Swagger & The Silent Sting [STAGE]
+### SCENE 11 — The Gym – Sweat, Swagger & The Silent Sting [STAGE] *(≈3 min)*
 
 **Location:** Athletic gym · **People:** Karan, Satak Singh, Arjun, Cool, **Pratikool**, Brishti, Gaurav, Anu, Shikha, Shri
 
@@ -244,7 +268,7 @@
 
 ---
 
-### SCENE 11 — Karma Operations Centre – Twist & हास्य Setup [VIDEO / STAGE]
+### SCENE 12 — Karma Operations Centre – Twist & हास्य Setup [VIDEO / STAGE] *(≈3 min)*
 
 **Location:** Celestial Karma Operations Center · **People:** Karma Dev, Maya (Cool/Pratikool optional monitors)
 
@@ -262,7 +286,7 @@
 
 ---
 
-### SCENE 12 — हास्य रस (Hasya Ras) – Marketing Pre-Event Qawwali Party [STAGE]
+### SCENE 13 — हास्य रस (Hasya Ras) – Marketing Pre-Event Qawwali Party [STAGE] *(≈20 min)*
 
 **Location:** Race marketing pre-event party stage · **People:** **Ruchi** (Emcee), Arjun, Karan, friends, Cool, Pratikool, ensemble · Karma/Maya observe
 
@@ -275,6 +299,7 @@
   2. *Sharara Sharara*
   3. *घाघरा (Ghaghra)* — comic centerpiece; Kalpesh (Arjun) wears a ghaghra (physical slapstick)
   4. *Dhurandhar* title anthem (*"You're not ready for this"*)
+  5. *मेरे अंगने में (Mere Angane Mein)*
 
 **Choreographer:** TBD
 
@@ -282,7 +307,7 @@
 
 ---
 
-### SCENE 13 — रौद्र रस (Raudra Ras) – Stage Crash & Birth of a Rival [STAGE]
+### SCENE 14 — रौद्र रस (Raudra Ras) – Stage Crash & Birth of a Rival [STAGE] *(≈3 min)*
 
 **The Crash**
 - Mid-party / curtain energy: Karan and sports friends disrupt the performance — hijack the floor with hard-hitting athletic rhythms (*Mary and Me*).
@@ -304,7 +329,7 @@
 
 ---
 
-### SCENE 14 — The Sabotage & The Fall [VIDEO]
+### SCENE 15 — The Sabotage & The Fall [VIDEO] *(≈3 min)*
 
 **People:** Karan, Arjun's crew/accomplices, Karma Dev
 
@@ -315,7 +340,7 @@
 
 ---
 
-### SCENE 15 — करुण रस (Karuna) – The Shattered Dream [VIDEO / STAGE]
+### SCENE 16 — करुण रस (Karuna) – The Shattered Dream [VIDEO / STAGE] *(≈2 min)*
 
 **People:** Karan, Coach Satak Singh, Ajay Walia (speakerphone), Karma Dev, Maya
 
@@ -333,7 +358,7 @@
 
 ---
 
-### SCENE 16 — The Comeback Ignition [STAGE → MONTAGE]
+### SCENE 17 — The Comeback Ignition [STAGE → MONTAGE] *(≈5 min)*
 
 **People:** Karan, Cool, Brishti, Gaurav, Anu, Shikha, Shri
 
@@ -357,7 +382,7 @@
 
 ---
 
-### SCENE 17 — The Cycle Race & The Final 3 Laps [VIDEO / STAGE] *(prior draft)*
+### SCENE 18 — The Cycle Race & The Final 3 Laps [VIDEO / STAGE] *(prior draft · ≈5 min)*
 
 **People:** Karan, Arjun, Ajay Walia, Coach Satak Singh, crowd, friends, Cool, Pratikool, Karma, Maya
 
@@ -378,7 +403,7 @@
 
 ---
 
-### SCENE 18 — अद्भुत रस (Adbhuta Ras) – Sacrifice & The Power of Choice [VIDEO + STAGE]
+### SCENE 19 — अद्भुत रस (Adbhuta Ras) – Sacrifice & The Power of Choice [VIDEO + STAGE] *(≈3 min)*
 
 **People:** Karan, Arjun, Maya, Karma Dev, Pratikool
 
@@ -406,7 +431,7 @@
 
 ---
 
-### SCENE 19 — भयानक रस (Bhayanaka Ras) – Raktabija & Mahakali [STAGE / VIDEO]
+### SCENE 20 — भयानक रस (Bhayanaka Ras) – Raktabija & Mahakali [STAGE / VIDEO] *(≈8 min)*
 
 **People:** Karma Dev (narrator), Maya (observer), Raktabija, Maa Kali, ensemble
 
@@ -421,7 +446,7 @@
 
 ---
 
-### SCENE 20 — शांत रस (Shanta Ras) & The Grand Finale [STAGE]
+### SCENE 21 — शांत रस (Shanta Ras) & The Grand Finale [STAGE] *(≈3 min)*
 
 **People:** Full company — celestial + mortal + dancers
 

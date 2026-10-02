@@ -1,7 +1,7 @@
 # NAVARASA: THE COSMIC CODE OF SPORTS
 
 ### Continuous Storyboard & Narration Write-up  
-**Scenes 1–16 locked (cleaned master) · Scenes 17–20 prior draft (see scene-flow)**
+**Scenes 1–17 locked (cleaned master) · Scenes 18–21 prior draft (see scene-flow)**
 
 > Companion Excel: `docs/navarasa-master-production.xlsx`  
 > Scene tracker: `docs/livia-navras-scene-flow.md`  
@@ -30,7 +30,7 @@
 
 ---
 
-## Continuous Narration (Scenes 1–16)
+## Continuous Narration (Scenes 1–17)
 
 The screen flickers to life on a high-tech startup lab. Through the glass, we see **AKV** hunched over glowing monitors and exposed circuit boards, putting the finishing touches on **Maya**, an elegant futuristic humanoid whose artificial neural pathways pulse with blue light.
 
@@ -132,6 +132,22 @@ Condition: train under **Coach Satak Singh**.
 > "सुन, मैंने तेरे पीछे अपना पूरा नाम और साख दांव पर लगा दी है। So make sure you deliver—दोस्तों और इंडस्ट्री में मेरी इज्जत मत डुबोना! …पर मुझे पता है, तू यह कर दिखाएगा।"
 
 The pact is sealed.
+
+---
+
+On stage, Karan is still riding the song's last para—singing, dancing. Arjun walks in, hand of friendship turning into pressure:
+
+> "भाई — बहुत कुछ दाव पर लगाया है मैंने… please focus कर। तेरा परफॉर्मेंस तो मुझसे भी खराब हो रहा है!!!"
+
+Karan's hand lands on Arjun's shoulder:
+
+> "चिल यार, देख लेंगे… तू जानता है मेरे लिए साइकल तो बाएँ हाथ का खेल है…"
+
+Arjun: reputation, **Ajay Walia**'s threat — they could all be ruined. Karan laughs it off; Satak will be comedy. Arjun's punchline:
+
+> "वैसे… बाएँ हाथ नहीं — पैर से चलाना पड़ेगा।"
+
+Both crack up.
 
 ---
 
