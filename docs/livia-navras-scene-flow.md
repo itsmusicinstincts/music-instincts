@@ -6,6 +6,8 @@
 > **Excel workbook:** `navarasa-master-production.xlsx`
 > **Miro (MAIN):** [Scenes Flow board](https://miro.com/app/board/uXjVHs6iRk4=/)
 > **Working title:** *Navarasa: The Cosmic Code of Sports*
+>
+> **Insert convention (Miro → sync):** New scenes drafted as **`x.5` / `x.6`** (etc.) between neighbors are treated as inserts. On sync they become the next integer (**Scene 8**, …) and every later scene number shifts +1. Never leave fractional numbers in the master docs.
 
 ---
 
@@ -13,7 +15,7 @@
 
 | # | Scene | Format | ≈ min | One-line |
 |---|-------|--------|------:|----------|
-| **1** | The Cosmic Collaboration | Video → Stage | 3 | AKV builds Maya → celestial arrival → Navras pitch → Karma Chakra ascent |
+| **1** | Karma Operations – The Hisaab Kitaab Department | Video → Stage | TBD | Welcome + AnuKool/PratiKool entrance → overload → Maya handover → title song |
 | **2** | Navras Introduction & Title Sequence | Video | 3 | Heaven control room; rasa roadmap + title sequence |
 | **3** | श्रृंगार रस (Shringar Ras) | Video → Stage | 5 | Shloka → romantic dance medley → Maya's comic robot dance |
 | **4** | The Pivot to Storytelling | Stage → Screen | 4 | Teach via human story → Google Earth zoom to **Livia** |
@@ -21,9 +23,9 @@
 | **6** | Marina Bay Ride & The Pro Proposition | Video | 7 | Skyline ride → sprint (Karan wins) → Arjun pitches **Ajay Walia** / **NEKI** |
 | **7** | Corporate Sponsorship – NEKI / Ajay Walia's Office | Video | 4 | NEKI race-to-prove deal; Coach **Satak Singh** assigned |
 | **8** | Song Continuation on Stage | Stage | 3 | Karan song coda; Arjun focus / Walia threat; laughs about Satak |
-| **9** | The Celestial Infiltration | Screen → Stage | 3 | Karma: "real plot found" → Cool & Pratikool descend |
-| **10** | Sowing Seeds of Paranoia | Stage | 4 | Cool & Pratikool become Satak's "spies" |
-| **11** | The Gym – Sweat, Swagger & The Silent Sting | Stage | 3 | Arjun showboats/insults; Pratikool stokes; Cool pitches marketing party |
+| **9** | The Celestial Infiltration | Screen → Stage | 3 | Karma: "real plot found" → AnuKool & PratiKool descend |
+| **10** | Sowing Seeds of Paranoia | Stage | 4 | AnuKool & PratiKool become Satak's "spies" |
+| **11** | The Gym – Sweat, Swagger & The Silent Sting | Stage | 3 | Arjun showboats/insults; PratiKool stokes; AnuKool pitches marketing party |
 | **12** | Karma Operations Centre – Twist & हास्य Setup | Video / Stage | 3 | Maya asks about friendship twist; Karma → Hasya shloka |
 | **13** | हास्य रस (Hasya Ras) – Marketing Pre-Event Qawwali | Stage | 20 | Ruchi hosts → qawwali + Oiyamma / Sharara / Ghaghra / Dhurandhar / Mere Angane Mein |
 | **14** | रौद्र रस (Raudra Ras) – Stage Crash | Stage | 3 | Athletic hijack → *Malhari* clash → Arjun vows sporting war |
@@ -48,8 +50,8 @@
 | Role | Also called | Notes |
 |------|-------------|--------|
 | **Karma (Karma Dev)** | — | Cosmic administrator; seeks aid for Earth's population boom |
-| **Cool (Anukool)** | was "Kool" | Bright shadow — optimistic, encouraging, supportive |
-| **Pratikool** | PratiKool | Dark shadow — cynical, provocative, amplifies conflict |
+| **AnuKool** | was "Kool" / Cool | Bright shadow — optimistic, encouraging, supportive |
+| **PratiKool** | was "Pratikool" | Dark shadow — cynical, provocative, amplifies conflict |
 | **Maya** | — | Advanced AI humanoid; emotional consciousness training |
 
 ### Earth realm (Livia / Singapore)
@@ -69,17 +71,17 @@
 
 ## Scene sequence
 
-### Scene 1 — The Cosmic Collaboration [VIDEO → STAGE]
+### Scene 1 — Karma Operations – The Hisaab Kitaab Department [VIDEO → STAGE]
 
 | Field | Detail |
 |-------|--------|
-| **Format** | Video projection → live stage |
-| **Timing** | ≈ **3 min** |
-| **People** | AKV, Maya, Karma Dev, Cool, Pratikool |
-| **Music** | Futuristic entrance theme → **Navras / Karma Chakra** title track on ascent |
-| **Locations** | Startup tech lab (video) → main stage → celestial chariot |
-| **Status** | Draft — dialogue captured |
-| **Beat** | **VIDEO:** AKV assembles/calibrates Maya. **STAGE:** AKV + Maya step out of screen; Karma, Cool, Pratikool materialize. Population boom overloads cosmic ledger. Paradigm shift: mortals' tech must now aid immortals. AKV: Maya can compute, but ledger needs emotion. Karma: Bharat Muni's **Navarasas** — divine wisdom + human engineering awaken feeling. AKV gifts Maya to the immortals. Quartet boards **Karma Chakra Chariot**; title track as they ascend. |
+| **Format** | Visual projection → live stage |
+| **Timing** | **TBD** (old estimate ≈3 min; this draft adds welcome, shadow entrance song, Maya theme, and title-song exit) |
+| **People** | Karma Dev, **AnuKool**, **PratiKool**, AKV, Maya |
+| **Music** | Ethereal welcome → *कर्म... पीछे पड़ा है कर्म* entrance → **Maya theme** → **NAVARASA title song** / chariot |
+| **Locations** | Karma Operations (heaven screen) → Earth tech hub (stage) → chariot back to Hisaab Kitaab |
+| **Status** | Draft — full dialogue locked from latest pass |
+| **Beat** | Karma welcomes the house to **Karma Operations – The Hisaab Kitaab Department** and introduces his two shadows. **AnuKool** and **PratiKool** sprint in on the Karma theme. Overload: Kaliyug data is too much. AnuKool swipes to AKV's lab. AKV + Maya enter; immortals need Maya to run Karma Operations. Maya has no emotions yet — Karma takes her to teach. Blackout into NAVARASA title song; screen returns to Hisaab Kitaab. |
 
 ---
 
@@ -89,7 +91,7 @@
 |-------|--------|
 | **Format** | Pre-recorded video |
 | **Timing** | ≈ **3 min** |
-| **People** | Karma Dev, Cool, Pratikool, Maya |
+| **People** | Karma Dev, AnuKool, PratiKool, Maya |
 | **Music** | Title sequence underscore |
 | **Locations** | Celestial Karma Operations Center |
 | **Status** | Draft |
@@ -118,11 +120,11 @@
 |-------|--------|
 | **Format** | Live stage → screen transition |
 | **Timing** | ≈ **4 min** |
-| **People** | Cool, Pratikool, Karma Dev, Maya |
+| **People** | AnuKool, PratiKool, Karma Dev, Maya |
 | **Music** | Underscore → cosmic zoom |
 | **Locations** | Celestial realm → Google Earth-style descent to Livia |
 | **Status** | Draft — dialogue captured |
-| **Beat** | Cool & Pratikool banter on Maya's stiff dance. Karma: next eight rasas too complex for lectures — mortals learn through **stories**; her AI will understand a human story. Maya scans Earth for theatrical, emotionally charged people → locks on **Livia**. High-speed cosmic zoom. |
+| **Beat** | AnuKool & PratiKool banter on Maya's stiff dance. Karma: next eight rasas too complex for lectures — mortals learn through **stories**; her AI will understand a human story. Maya scans Earth for theatrical, emotionally charged people → locks on **Livia**. High-speed cosmic zoom. |
 
 ---
 
@@ -188,11 +190,11 @@
 |-------|--------|
 | **Format** | Screen graphic → live stage |
 | **Timing** | ≈ **3 min** |
-| **People** | Karma Dev, Cool, Pratikool, Maya (observe) |
+| **People** | Karma Dev, AnuKool, PratiKool, Maya (observe) |
 | **Music** | Descent / atmospheric TBD |
 | **Locations** | Heavens → Earth training grounds |
 | **Status** | Draft |
-| **Beat** | Karma: *"लगता है हमें अपनी कहानी का असली प्लॉट मिल गया है!"* Dispatches Cool & Pratikool to Earth. AI visual of twin shadows descending. |
+| **Beat** | Karma: *"लगता है हमें अपनी कहानी का असली प्लॉट मिल गया है!"* Dispatches AnuKool & PratiKool to Earth. AI visual of twin shadows descending. |
 
 ---
 
@@ -202,11 +204,11 @@
 |-------|--------|
 | **Format** | Live stage / narrative beat |
 | **Timing** | ≈ **4 min** |
-| **People** | Cool, Pratikool, Coach Satak Singh |
+| **People** | AnuKool, PratiKool, Coach Satak Singh |
 | **Music** | Comic / dark sting TBD |
 | **Locations** | Coach Satak Singh's camp |
 | **Status** | Draft — dialogue captured |
-| **Beat** | Pratikool: *"लगता है बहुत जल्द आपकी यह नौकरी जाने वाली है, कोच साहब!"* Satak panics. Duo pitch: they'll be his **spies** — report every move of Karan & Arjun. Satak agrees; celestial shadows enter his inner circle. |
+| **Beat** | PratiKool: *"लगता है बहुत जल्द आपकी यह नौकरी जाने वाली है, कोच साहब!"* Satak panics. Duo pitch: they'll be his **spies** — report every move of Karan & Arjun. Satak agrees; celestial shadows enter his inner circle. |
 
 ---
 
@@ -216,11 +218,11 @@
 |-------|--------|
 | **Format** | Stage / production sequence |
 | **Timing** | ≈ **3 min** |
-| **People** | Karan, Coach Satak Singh, Arjun, Cool, **Pratikool**, Brishti, Gaurav, Anu, Shikha, Shri |
+| **People** | Karan, Coach Satak Singh, Arjun, AnuKool, **PratiKool**, Brishti, Gaurav, Anu, Shikha, Shri |
 | **Music** | Training underscore TBD |
 | **Locations** | Athletic gym |
 | **Status** | Draft — dialogue captured |
-| **Beat** | Karan trains; Satak praises. Arjun showboats fitness before others and **insults** Karan → Karan uneasy / disappointed. **Pratikool** strikes: Arjun gave opportunity as a friend — doesn't own him to command / say anything. Coach + Cool watch; Coach: *"भाई… ये ठीक नहीं हो रहा है।"* Cool: race **marketing pre-event party** — do a good party, bring friendship back. |
+| **Beat** | Karan trains; Satak praises. Arjun showboats fitness before others and **insults** Karan → Karan uneasy / disappointed. **PratiKool** strikes: Arjun gave opportunity as a friend — doesn't own him to command / say anything. Coach + AnuKool watch; Coach: *"भाई… ये ठीक नहीं हो रहा है।"* AnuKool: race **marketing pre-event party** — do a good party, bring friendship back. |
 
 ---
 
@@ -244,12 +246,12 @@
 |-------|--------|
 | **Format** | Live stage extravaganza |
 | **Timing** | ≈ **20 min** |
-| **People** | **Ruchi** (Emcee), **Arjun**, Karan, friends, Cool, Pratikool, ensemble · Karma/Maya observe |
+| **People** | **Ruchi** (Emcee), **Arjun**, Karan, friends, AnuKool, PratiKool, ensemble · Karma/Maya observe |
 | **Music** | Qawwali + medley: **Oiyamma** · **Sharara Sharara** · **Ghaghra** · **Dhurandhar** · **Mere Angane Mein** |
 | **Locations** | Race marketing pre-event party stage |
 | **Choreographer** | TBD — assign |
 | **Status** | Draft — tracks shortlisted |
-| **Beat** | Cool's plan from Scene 10: patch friendship via party. Ruchi hosts → comic qawwali + shayari → dance medley (Ghaghra slapstick + Dhurandhar). Hasya lands; friendship briefly looks repairable — until Scene 13 crash. |
+| **Beat** | AnuKool's plan from Scene 10: patch friendship via party. Ruchi hosts → comic qawwali + shayari → dance medley (Ghaghra slapstick + Dhurandhar). Hasya lands; friendship briefly looks repairable — until Scene 13 crash. |
 
 ---
 
@@ -259,12 +261,12 @@
 |-------|--------|
 | **Format** | Live stage climax |
 | **Timing** | ≈ **3 min** |
-| **People** | Karan, sports friends, Arjun, Pratikool, Karma Dev, audience/ensemble |
+| **People** | Karan, sports friends, Arjun, PratiKool, Karma Dev, audience/ensemble |
 | **Music** | *Mary and Me* (athletic hijack) · **मल्हारी (Malhari)** clash · Raudra Sanskrit shloka |
 | **Locations** | Marketing party stage → crashed |
 | **Choreographer** | TBD — clash choreo |
 | **Status** | Draft — dialogue captured |
-| **Beat** | Mid-party: Karan + sports crew hijack floor. Escalates to **Malhari** face-off; show sabotaged. Pratikool stokes Arjun in the wings. Lights → black/crimson. Karma chants **Raudra** shloka. Arjun darkens (forehead band): will take Karan down **in his own domain** — enters the cycling championship. Friendship → sporting war. |
+| **Beat** | Mid-party: Karan + sports crew hijack floor. Escalates to **Malhari** face-off; show sabotaged. PratiKool stokes Arjun in the wings. Lights → black/crimson. Karma chants **Raudra** shloka. Arjun darkens (forehead band): will take Karan down **in his own domain** — enters the cycling championship. Friendship → sporting war. |
 
 ---
 
@@ -302,11 +304,11 @@
 |-------|--------|
 | **Format** | Live stage → training montage |
 | **Timing** | ≈ **5 min** |
-| **People** | Karan, Cool, Brishti, Gaurav, Anu, Shikha, Shri |
+| **People** | Karan, AnuKool, Brishti, Gaurav, Anu, Shikha, Shri |
 | **Music** | Tension → comeback anthem |
 | **Locations** | Recovery room → workshop → running track |
 | **Status** | Locked (cleaned master) |
-| **Beat** | Karan grabs a bat in rage. Cool + friends stop him. Friend roles: Brishti (physio), Gaurav (funding), Anu (diet/plan), Shikha (rebuild bike), Shri (finish line). Montage → race-ready. **Veer** energy (inner valor). |
+| **Beat** | Karan grabs a bat in rage. AnuKool + friends stop him. Friend roles: Brishti (physio), Gaurav (funding), Anu (diet/plan), Shikha (rebuild bike), Shri (finish line). Montage → race-ready. **Veer** energy (inner valor). |
 
 ---
 
@@ -316,7 +318,7 @@
 |-------|--------|
 | **Format** | Video race sequence (+ stage VIP / stands cutaways) |
 | **Timing** | ≈ **5 min** |
-| **People** | Karan, Arjun, Ajay Walia, Satak Singh, crowd, friends, Cool, Pratikool, Karma, Maya |
+| **People** | Karan, Arjun, Ajay Walia, Satak Singh, crowd, friends, AnuKool, PratiKool, Karma, Maya |
 | **Music** | Race fanfare → duel underscore → stadium roar |
 | **Locations** | Starting grid → road course → VIP lounge → stadium arena |
 | **Status** | Draft — dialogue captured |
@@ -330,7 +332,7 @@
 |-------|--------|
 | **Format** | Video (race climax) + Stage/heaven (Maya paradox) |
 | **Timing** | ≈ **3 min** |
-| **People** | Karan, Arjun, Maya, Karma Dev, Pratikool |
+| **People** | Karan, Arjun, Maya, Karma Dev, PratiKool |
 | **Music** | Mechanical snap → silence → Adbhuta swell |
 | **Locations** | Track final stretch → heaven monitors |
 | **Status** | Draft — dialogue captured |

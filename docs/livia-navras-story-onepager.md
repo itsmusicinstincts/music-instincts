@@ -6,7 +6,7 @@
 
 ## Logline
 
-**Karma Dev**, overloaded by Earth's population boom, recruits scientist **AKV**'s AI **Maya** — but she cannot feel. With bright shadow **Cool (Anukool)** and dark shadow **Pratikool**, Karma awakens her **Navarasas** through a live human story: athlete **Karan** and celebrity influencer **Arjun**, whose sponsorship dream turns friendship into sporting war.
+**Karma Dev**, overloaded by Earth's population boom, recruits scientist **AKV**'s AI **Maya** — but she cannot feel. With bright shadow **AnuKool** and dark shadow **PratiKool**, Karma awakens her **Navarasas** through a live human story: athlete **Karan** and celebrity influencer **Arjun**, whose sponsorship dream turns friendship into sporting war.
 
 ---
 
@@ -25,8 +25,8 @@
 | Character | Role |
 |---|---|
 | **Karma (Karma Dev)** | Cosmic administrator; seeks computational aid; teaches Navarasas |
-| **Cool (Anukool)** | Bright shadow — optimistic, encouraging, supportive |
-| **Pratikool** | Dark shadow — cynical, provocative, amplifies conflict |
+| **AnuKool** | Bright shadow — optimistic, encouraging, supportive |
+| **PratiKool** | Dark shadow — cynical, provocative, amplifies conflict |
 | **Maya** | Advanced AI humanoid; emotional consciousness training |
 
 ### Earth (Livia / Singapore)
@@ -46,7 +46,7 @@
 ## The Story, Beat by Beat (Scenes 1–21)
 
 **Cosmic setup**
-1. **Cosmic Collaboration** *(≈3)* — AKV builds Maya (video) → stage: Karma/Cool/Pratikool arrive; paradigm shift; Navarasas plan; Karma Chakra ascent.
+1. **Karma Operations – Hisaab Kitaab** *(timing TBD)* — Karma welcomes the house; **AnuKool** & **PratiKool** sprint in; overload → swipe to AKV; Maya has no emotions; title song back to heaven.
 2. **Navras Intro & Title Sequence** *(≈3)* — heaven control room; nine-rasa roadmap + title cards.
 
 **First rasa**
@@ -60,9 +60,9 @@
 8. **Song Continuation on Stage** *(≈3)* — Karan song coda; Arjun: focus / Walia threat; joke about Satak; both laugh.
 
 **Celestial infiltration**
-9. **Celestial Infiltration** *(≈3)* — Karma: real plot found; Cool & Pratikool descend.
+9. **Celestial Infiltration** *(≈3)* — Karma: real plot found; AnuKool & PratiKool descend.
 10. **Sowing Seeds of Paranoia** *(≈4)* — duo spy for Satak.
-11. **Gym – Silent Sting** *(≈3)* — Arjun showboats/insults; Pratikool stokes; Coach worried; Cool pitches marketing party.
+11. **Gym – Silent Sting** *(≈3)* — Arjun showboats/insults; PratiKool stokes; Coach worried; AnuKool pitches marketing party.
 
 **Hasya → Raudra**
 12. **Karma Ops – Twist & Hasya Setup** *(≈3)* — Maya asks about friendship twist; Karma → Hasya shloka.
@@ -72,7 +72,7 @@
 **Bibhatsa → Veer**
 15. **Bibhatsa Ras** *(≈3)* — sabotage ride; invisible wires; Karma on moral disgust.
 16. **Karuna Ras** *(≈2)* — crash → hospital; Satak / Walia cancel; contract torn.
-17. **Veer Ras** *(≈5)* — rage held back; Cool: turn fire into grit; comeback montage.
+17. **Veer Ras** *(≈5)* — rage held back; AnuKool: turn fire into grit; comeback montage.
 
 **Race & wonder**
 18. **Cycle Race & Final 3 Laps** *(≈5)* — Karan returns; duel; VIP shock; stadium board.

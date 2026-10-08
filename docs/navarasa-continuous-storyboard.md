@@ -13,8 +13,8 @@
 
 ### Celestial Realm
 - **KARMA DEV** — Cosmic arbiter; Earth's karmic backlog overwhelms him.
-- **COOL (Anukool)** — Light shadow: cheerful, optimistic, supportive.
-- **PRATIKOOL** — Dark shadow: gruff, cynical, disruptive.
+- **AnuKool** — Light shadow: cheerful, optimistic, supportive.
+- **PratiKool** — Dark shadow: gruff, cynical, disruptive.
 - **MAYA** — Next-gen AI humanoid in Navarasa emotional training.
 
 ### Earth Realm (Livia / Singapore)
@@ -32,33 +32,21 @@
 
 ## Continuous Narration (Scenes 1–17)
 
-The screen flickers to life on a high-tech startup lab. Through the glass, we see **AKV** hunched over glowing monitors and exposed circuit boards, putting the finishing touches on **Maya**, an elegant futuristic humanoid whose artificial neural pathways pulse with blue light.
+The screen opens on **Karma Operations – The Hisaab Kitaab Department**: glowing ledgers, planetary dashboards. **Karma Dev** welcomes the house — he is the axle of time's wheel, and no deed escapes his hisaab. He is never alone. His two shadows: **AnuKool** (Very Cool boy — every deed seen in a positive light) and **PratiKool** (Bad boy — turns thought toward negative karma). They're busy on Earth, so he goes to them.
 
-A heavy synth rhythm drops, and the projection dissolves as the stage lights flare. AKV walks out into the physical arena, and right beside him, perfectly synchronized, walks Maya.
+A catchy beat: *कर्म... पीछे पड़ा है कर्म...* **AnuKool** and **PratiKool** sprint from opposite wings and skid to a halt beside him — right hand of hope, and the bitter truth that slams human mischief to the ground.
 
-Before the applause can settle, a low roll of thunder shakes the hall. Golden celestial light cuts through the darkness, and three divine figures materialize: **Karma Dev**, flanked on his right by **Cool**, glowing with warm optimism, and on his left by **Pratikool**, a brooding cynical silhouette.
+Karma sighs: Earth's population logs lakhs of new karmas every second; the paap-punya database is impossible alone. PratiKool is in overtime — Kaliyug won't be handled. AnuKool: humans who made the mess also invent the fix — artificial intelligence. Karma names the scientist **AKV** and his robot **Maya**. AnuKool swipes the screen open.
 
-**Karma Dev** raises his hand:
+**Maya's theme.** AKV and Maya walk on. AKV: immortals need mere mortals for the first time? Maya told him. PratiKool: we need the creation, not you — overpopulation broke Karma Operations. AnuKool: we need Maya to run it.
 
-> "AKV, mortals have outpaced the cosmic order. Earth's exploding population has created a massive overload in our karmic ledgers. Historically, the immortals set up mortals. Today, the cycle turns. Mortals must now assist the immortals. सृष्टि का चक्र बदल चुका है—हमें कर्म ऑपरेशन्स सेंटर संभालने के लिए तुम्हारी बनाई इस माया की ज़रूरत है।"
+Maya isn't sure of the scope; the trip is too far. AKV: she is brilliant, but Karma Operations runs on actions, thoughts, and emotions — she hasn't learned emotion yet. AnuKool: Karma Dev will teach her. PratiKool fears she'll eat their jobs. Karma takes the responsibility. AKV: "Bye Maya, keep in touch."
 
-**AKV** steps forward, skeptical:
-
-> "Listen, I've created the most advanced humanoid in human history. Her processing power is limitless. But your karmic system isn't an algorithm—it runs entirely on human emotion and intent. She has no heart, Karma. She doesn't feel. How are you going to solve that?"
-
-**Karma Dev** smiles with ancient confidence:
-
-> "One of humanity's own ancient masters, Sage Bharat Muni, codified the entire human spirit into the **Navarasas**. Mortals couldn't crack artificial consciousness alone, but together—divine truth and human engineering—we will awaken her artificial neurons through the nine Rasas."
-
-**AKV** looks at Maya, nods, and steps aside:
-
-> "On behalf of humanity, I give this gift back to the immortals. Take Maya with you."
-
-Karma Dev, Maya, Cool, and Pratikool step aboard the magnificent rotating **Karma Chakra Chariot**. As the cosmic title anthem roars, the chariot rises into the heavens.
+Blackout. The **NAVARASA** title song and the Karma Chakra Chariot rocket home. The screen settles again on **Karma Operations – The Hisaab Kitaab Department**.
 
 ---
 
-High above the clouds, inside the celestial **Karma Operations Center**, holographic data feeds track billions of earthly deeds. Karma, Cool, and Pratikool gather around Maya, initiating her diagnostic core as the massive golden title graphic locks into the sky: **NAVARASA**.
+High above the clouds, inside the celestial **Karma Operations Center**, holographic data feeds track billions of earthly deeds. Karma, AnuKool, and PratiKool gather around Maya, initiating her diagnostic core as the massive golden title graphic locks into the sky: **NAVARASA**.
 
 ---
 
@@ -68,7 +56,7 @@ A sacred Sanskrit shloka echoes across the hall, followed by Hindi narration exp
 
 As the dancers strike their final pose, Maya steps to center stage. Digital pulses of pink light and heart emoticons ripple across her frame. She attempts romance herself—a stiff, hilarious mechanical robot dance to a vintage black-and-white Bollywood track. The crowd erupts.
 
-Cool and Pratikool exchange smirks. **Karma Dev** shakes his head:
+AnuKool and PratiKool exchange smirks. **Karma Dev** shakes his head:
 
 > "Shringar was easy to compute. The remaining eight Rasas are far too complex for raw code. Mortals don't learn from dry spreadsheets—they learn through **stories**. She was built by humans, and her AI will only awaken through an unfolding human story."
 
@@ -155,13 +143,13 @@ In heaven, Karma grins:
 
 > "लगता है हमें अपनी कहानी का असली प्लॉट मिल गया है!"
 
-Cool and Pratikool streak to Earth like shooting stars into Satak's camp. Pratikool whispers:
+AnuKool and PratiKool streak to Earth like shooting stars into Satak's camp. PratiKool whispers:
 
 > "लगता है बहुत जल्द आपकी यह नौकरी जाने वाली है, कोच साहब!"
 
 **Satak:** "क्या?! क्यों जाएगी मेरी नौकरी?"
 
-**Pratikool:** "हम आपके लिए जासूस बनेंगे। वे दोनों पीठ पीछे क्या कर रहे हैं, इसकी पल-पल की खबर हम आपको लाकर देंगे।"
+**PratiKool:** "हम आपके लिए जासूस बनेंगे। वे दोनों पीठ पीछे क्या कर रहे हैं, इसकी पल-पल की खबर हम आपको लाकर देंगे।"
 
 Satak absorbs them into the camp.
 
@@ -171,15 +159,15 @@ In the gym, Satak praises Karan's form. **Arjun** struts in, hijacks the equipme
 
 > "देख भाई, ऐसे करते हैं! तू खुद को प्रो एथलीट कहता है ना? असली फॉर्म और स्वैग इसे कहते हैं!"
 
-Karan goes uneasy—disappointed in front of everyone. **Pratikool** strikes at once:
+Karan goes uneasy—disappointed in front of everyone. **PratiKool** strikes at once:
 
 > "अर्जुन ने दोस्त बनके तुझे मौका दिया—इसका मतलब यह नहीं कि अब वो तेरा मालिक है… जो मर्ज़ी कमांड करे, जो मर्ज़ी बोले!"
 
-Coach and Cool watch. Satak murmurs:
+Coach and AnuKool watch. Satak murmurs:
 
 > "भाई… ये ठीक नहीं हो रहा है।"
 
-**Cool:**
+**AnuKool:**
 
 > "रेस का मार्केटिंग प्री-इवेंट पार्टी है… लेट्स डू सम गुड पार्टी एंड ब्रिंग देयर फ्रेंडशिप बैक।"
 
@@ -205,7 +193,7 @@ Karma sings the **Hasya** Sanskrit shloka.
 
 **Raudra.** Mid-party, Karan and the sports crew crash the stage to *Mary and Me*, exploding into *Malhari*. Shoves, props flying—Arjun's marketing show ruined.
 
-**Pratikool** in the wings:
+**PratiKool** in the wings:
 
 > "यह बर्दाश्त मत करना! तूने इस लड़के के लिए अपनी साख दांव पर लगाई, और इसने तेरे ही स्टेज पर आकर तेरी धज्जियां उड़ा दीं!"
 
@@ -235,9 +223,9 @@ Heartbreak hardens to fury. Karan grabs a sports bat:
 
 > "मैं अर्जुन को नहीं छोड़ूँगा! उसने धोखे से मुझे गिराया है, आई एम गोइंग टू डिस्ट्रॉय हिम!"
 
-Cool and friends wrestle it away.
+AnuKool and friends wrestle it away.
 
-**Cool:**
+**AnuKool:**
 
 > "करन, रुक! बदले की आग में सिर्फ तू खुद को जलाएगा। असली जवाब अर्जुन को तोड़ना नहीं, मैदान में वापस खड़ा होकर दिखाना है!"
 

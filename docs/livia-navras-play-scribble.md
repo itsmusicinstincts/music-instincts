@@ -9,9 +9,10 @@
 
 ## Logline (1 sentence)
 
-**Karma Dev**, overwhelmed by Earth's booming population and karmic ledger, recruits scientist **AKV**'s AI **Maya** — but she cannot feel — so Karma, **Cool (Anukool)**, and **Pratikool** awaken her **Navarasas** through a live human sports story at **Livia**: athlete **Karan** and celebrity **Arjun**, whose sponsorship dream turns friendship into rivalry.
+**Karma Dev**, overwhelmed by Earth's booming population and karmic ledger, recruits scientist **AKV**'s AI **Maya** — but she cannot feel — so Karma, **AnuKool**, and **PratiKool** awaken her **Navarasas** through a live human sports story at **Livia**: athlete **Karan** and celebrity **Arjun**, whose sponsorship dream turns friendship into rivalry.
 
 > **Status (latest):** **👉 Scene order (Scenes 1–21):** `livia-navras-scene-flow.md` — **read this first.** This file = script dialogue + production notes. **Miro:** [Scenes Flow board](https://miro.com/app/board/uXjVHs6iRk4=/).
+> **Insert tip:** Draft new scenes on Miro as `x.5` / `x.6` between neighbors — on sync they become the next integer and later scenes shift down.
 
 ---
 
@@ -22,7 +23,7 @@
 | Tone | Comic end-to-end; sincere under the jokes |
 | Hero / guide | Maya (AI student) + Karma Dev (cosmic administrator / teacher) |
 | Structure | Nine rasas via sports battleground; Scenes **1–21** complete arc (Shringar→Shanta + race climax + cosmic coda) |
-| Shadows | **Cool** = bright (encourage) · **Pratikool** = dark (provoke / amplify) |
+| Shadows | **AnuKool** = bright (encourage) · **PratiKool** = dark (provoke / amplify) |
 | Instant karma | Small action → fast comic/emotional echo |
 | Ending (TBD) | Maya can mimic; humans *choose* which side of emotion they lean into |
 
@@ -35,8 +36,8 @@
 | Role | Who / vibe | Performer |
 |------|------------|-----------|
 | **Karma (Karma Dev)** | Cosmic administrator of actions & consequences | TBD |
-| **Cool (Anukool)** | Bright shadow — optimistic, grounded, supportive | TBD |
-| **Pratikool** | Dark shadow — cynical, provocative, conflict amplifier | TBD |
+| **AnuKool** | Bright shadow — optimistic, grounded, supportive | TBD |
+| **PratiKool** | Dark shadow — cynical, provocative, conflict amplifier | TBD |
 | **Maya** | State-of-the-art AI humanoid; emotional consciousness training | TBD |
 
 ### Earth realm (Livia / Singapore)
@@ -58,35 +59,94 @@
 
 ---
 
-### SCENE 1 — The Cosmic Collaboration [VIDEO → STAGE] *(≈3 min)*
+### SCENE 1 — Karma Operations – The Hisaab Kitaab Department [VIDEO → STAGE] *(timing TBD — was ≈3; this draft is longer)*
 
-**Location:** Startup tech lab → main stage · **People:** AKV, Maya, Karma Dev, Cool, Pratikool
+**Setting:** Cosmic Heaven / Karma Operations → Earth (Tech Hub)
+**People:** Karma Dev, **AnuKool**, **PratiKool**, AKV, Maya
 
-**ON VIDEO**
-- Modern startup laboratory. AKV assembles, calibrates, and programs Maya.
+#### Act I — The Welcome & The Monologue
 
-**ON STAGE**
-- AKV and Maya step out of the screen onto live stage (futuristic entrance theme).
-- **Karma Dev, Cool, Pratikool** materialize.
+*(Atmospheric, ethereal music. Screen: grand cosmic setup, glowing ledger scrolls, planetary dashboards.)*
 
-**Karma Dev** — Earth's population boom has overloaded the cosmic ledger of human deeds. He needs computational reinforcement.
+> **"Karma Operations – The Hisaab Kitaab Department"**
 
-**The Cosmic Paradigm Shift**
-> In earlier ages, the immortals guided and assisted mortals. Now the cycle has turned: mortals have created technology that must aid the immortals.
+**Karma Dev:** "स्वागत है आपका 'Karma Operations' में!"
 
-**AKV:** "Listen, I've created one of the most advanced humanoids in history. She can process infinite tasks, but your karmic ledger is built on human emotion, not mathematical formulas. How will she handle that?"
+*(Walks downstage, addresses the audience.)*
 
-**Karma Dev:** "Sage Bharat Muni codified the spectrum of human emotion through the **Navarasas**. Mortals couldn't grant her a soul alone, but together—divine wisdom and your human engineering—we will awaken her artificial neurons to true feeling."
+**Karma Dev:** "समय का पहिया चलता रहता है, और उस पहिए की धुरी हूँ मैं—**'कर्म'**। इंसान चाहे जो सोच ले, जहाँ चाहे भाग ले, मेरी नज़र से कोई नहीं बच सकता। हर अच्छे और बुरे काम का हिसाब मेरे पास है। लेकिन इस अनंत यात्रा में, मैं अकेला नहीं चलता... मेरे साथ हमेशा चलते हैं मेरे दो साए!"
 
-**AKV:** "On behalf of humanity, I give this gift back to the immortals. Take Maya with you."
+*(Gestures; holographic / lighting cues highlight the two shadows.)*
 
-*(Maya, Karma, Cool, and Pratikool board the celestial **Karma Chakra Chariot**. Title track about Navras and Karma Chakra as the chariot ascends.)*
+**Karma Dev:** "**AnuKool:** जो हर कर्म को पॉजिटिव नज़रिए से देखता है... और इंस्पायर करता है... Very Cool boy! **PratiKool:** जो हर सोच से नेगेटिव कर्म बनाने की कोशिश करता है... Bad boy! ...वैसे अभी दोनों पृथ्वी पर बहुत बिज़ी हैं, तो उन्हें वहीं पर मिलते हैं। *Boys, मैं आ रहा हूँ!*"
+
+#### Act II — The Arrival of the Shadows
+
+*(High-energy beat. Signature theme:)*
+
+> *"कर्म... पीछे पड़ा है कर्म... आगे खड़ा है कर्म... सबका भला हो कर्म...!"*
+
+*(AnuKool and PratiKool sprint from opposite wings, skid to a halt on either side of Karma Dev.)*
+
+**AnuKool** *(breathless, huge grin):* "हम आ गए महाराज! मैं हूँ आपका दायाँ हाथ—अनुकूल! इंसान के हर नेक काम की उम्मीद, हौसला और मुस्कान!"
+
+**PratiKool** *(grumpy, brushing dust off):* "और मैं हूँ प्रतिकूल! इंसान की हर बदमाशी, चालाकी और अहंकार को जमीन पर पटकने वाला कड़वा सच!"
+
+#### Act III — The Overload Crisis
+
+**Karma Dev** *(sighing):* "तुम दोनों आ तो गए, लेकिन पृथ्वी का हाल देखा है? आबादी इतनी बढ़ चुकी है कि हर सेकंड लाखों नए कर्म दर्ज हो रहे हैं। पाप और पुण्य के इस विशाल डेटाबेस को अकेले संभालना अब असंभव होता जा रहा है।"
+
+**PratiKool:** "मेरा तो ओवरटाइम हो रहा है अभी यहाँ... कलयुग जो ठहरा! अब संभलने वाला नहीं है मुझसे!"
+
+**AnuKool:** "धैर्य रखिए प्रभु! अगर इंसानों ने समस्याएँ बढ़ाई हैं, तो समाधान भी तो वही ढूंढते हैं। सुना है उन्होंने कुछ नया तैयार किया है... जिसे वे 'आर्टिफिशियल इंटेलिजेंस' कहते हैं!"
+
+**Karma Dev:** "बिल्कुल सही अनुकूल। इसीलिए हम सीधे यहाँ उतरे हैं। सुना है इस शहर में एक वैज्ञानिक है—**AKV**। उसने एक ऐसा AI रोबोट बनाया है जो हमारी इस समस्या का हल बन सकता है। चलो, देखते हैं उसकी उस 'माया' को!"
+
+**AnuKool** *(swagger):* "या या, साइड प्लीज़... Let me swipe and show you!"
+
+#### Act IV — Enter AKV and Maya
+
+*(AnuKool swipes the air/screen. **Maya Theme** — lab, robotics, neural code. Then AKV and Maya walk on. Maya whispers a fast data calculation into AKV's ear.)*
+
+**AKV:** "Hey Karma Boys... welcome to our planet! सुन रहा हूँ कि इमॉर्टल्स को पहली बार हम जैसे तुच्छ मॉर्टल्स की ज़रूरत पड़ रही है?"
+
+**Karma Dev:** "अरे, तुम्हें कैसे पता चला साइंटिस्ट?"
+
+**AKV:** "माया बता देती है!"
+
+**PratiKool:** "तुम्हारी नहीं, तुम्हारी इस क्रिएशन की ज़रूरत है!"
+
+**Karma Dev:** "हाँ, ये दोनों बेचारे थक गए हैं। Karma Operations का ओवरलोड हो गया है..."
+
+**PratiKool:** "Because of your overpopulation!"
+
+**AnuKool:** "तो हमें आपकी माया चाहिए to run our Karma Operations!"
+
+#### Act V — The Emotional Dilemma & Handover
+
+**Maya:** "I love travelling AKV, but this is too far... and I am not sure what's my scope."
+
+**AKV:** "She is right. She is highly intelligent, but your Karma Operations runs on actions, thoughts, and emotions. इसने इमोशन नहीं सीखा है अभी तक!"
+
+**AnuKool:** "Don't worry जी, Karma Dev will teach her!"
+
+**PratiKool:** "क्या teach her, teach her! मुझे तो शक है कि हमारी जॉब ही खा जाएगी एक दिन!"
+
+**Karma Dev:** "हम Karma Dev ऐसे ही नहीं बने साइंटिस्ट जी... अब से यह हमारी रिस्पॉन्सिबिलिटी है। हम सिखाएंगे! ...चलो माया, let's go!"
+
+**AKV:** "Bye Maya, keep in touch!"
+
+#### Transition → Scene 2
+
+*(Blackout. Screen: **NAVARASA Title Song** + Karma Chakra Chariot rocketing back to the stars. Projection settles on:)*
+
+> **"Karma Operations – The Hisaab Kitaab Department"**
 
 ---
 
 ### SCENE 2 — Navras Introduction & Title Sequence [VIDEO] *(≈3 min)*
 
-**Location:** Celestial Karma Operations Center · **People:** Karma Dev, Cool, Pratikool, Maya
+**Location:** Celestial Karma Operations Center · **People:** Karma Dev, AnuKool, PratiKool, Maya
 
 - Structured introductory discussion defining the roadmap of the nine Rasas.
 - Official visual title sequence establishes the mission ahead.
@@ -117,9 +177,9 @@
 
 ### SCENE 4 — The Pivot to Storytelling [STAGE → SCREEN] *(≈4 min)*
 
-**Location:** Celestial realm → cosmic descent to Livia · **People:** Cool, Pratikool, Karma Dev, Maya
+**Location:** Celestial realm → cosmic descent to Livia · **People:** AnuKool, PratiKool, Karma Dev, Maya
 
-*(Cool and Pratikool banter about Maya's stiff dance moves.)*
+*(AnuKool and PratiKool banter about Maya's stiff dance moves.)*
 
 **Karma Dev:** "Shringar was the simplest emotion to compute. The next eight are far more complex. We cannot teach them through dry lectures. Mortals learn through **stories**—and since humans built her, her AI will understand best through an unfolding human story."
 
@@ -217,26 +277,26 @@
 
 ### SCENE 9 — The Celestial Infiltration [SCREEN → STAGE] *(≈3 min)*
 
-**Location:** Heavens → Earth training grounds · **People:** Karma Dev, Cool, Pratikool, Maya
+**Location:** Heavens → Earth training grounds · **People:** Karma Dev, AnuKool, PratiKool, Maya
 
 **Karma Dev** *(observing):* "लगता है हमें अपनी कहानी का असली प्लॉट मिल गया है!"
 
-- Karma dispatches Cool and Pratikool down to Earth.
+- Karma dispatches AnuKool and PratiKool down to Earth.
 - AI visual sequence: twin shadows descending through the atmosphere.
 
 ---
 
 ### SCENE 10 — Sowing Seeds of Paranoia [STAGE] *(≈4 min)*
 
-**Location:** Coach Satak Singh's camp · **People:** Cool, Pratikool, Coach Satak Singh
+**Location:** Coach Satak Singh's camp · **People:** AnuKool, PratiKool, Coach Satak Singh
 
-*(Cool and Pratikool approach Satak while he broods over his assignment.)*
+*(AnuKool and PratiKool approach Satak while he broods over his assignment.)*
 
-**Pratikool** *(leaning in):* "लगता है बहुत जल्द आपकी यह नौकरी जाने वाली है, कोच साहब!"
+**PratiKool** *(leaning in):* "लगता है बहुत जल्द आपकी यह नौकरी जाने वाली है, कोच साहब!"
 
 **Coach Satak Singh:** "क्या?! क्यों जाएगी मेरी नौकरी?"
 
-**Pratikool & Cool:** "हम आपके लिए जासूस बनेंगे। वे दोनों क्या कर रहे हैं, इसकी पल-पल की खबर हम आपको लाकर देंगे।"
+**PratiKool & AnuKool:** "हम आपके लिए जासूस बनेंगे। वे दोनों क्या कर रहे हैं, इसकी पल-पल की खबर हम आपको लाकर देंगे।"
 
 *(Satak Singh agrees — integrates the two celestial shadows into his inner circle.)*
 
@@ -244,7 +304,7 @@
 
 ### SCENE 11 — The Gym – Sweat, Swagger & The Silent Sting [STAGE] *(≈3 min)*
 
-**Location:** Athletic gym · **People:** Karan, Satak Singh, Arjun, Cool, **Pratikool**, Brishti, Gaurav, Anu, Shikha, Shri
+**Location:** Athletic gym · **People:** Karan, Satak Singh, Arjun, AnuKool, **PratiKool**, Brishti, Gaurav, Anu, Shikha, Shri
 
 *(Karan trains under Satak's watch — intense drills.)*
 
@@ -256,21 +316,21 @@
 
 **The Sting:** Insult lands. Karan uneasy in front of everyone — looks disappointed, tight-lipped.
 
-*(Pratikool slips in fast — seizes the crack in the friendship.)*
+*(PratiKool slips in fast — seizes the crack in the friendship.)*
 
-**Pratikool** *(to Karan, loud enough for others):* "अर्जुन ने दोस्त बनके तुझे मौका दिया—इसका मतलब यह नहीं कि अब वो तेरा मालिक है… जो मर्ज़ी कमांड करे, जो मर्ज़ी बोले!"
+**PratiKool** *(to Karan, loud enough for others):* "अर्जुन ने दोस्त बनके तुझे मौका दिया—इसका मतलब यह नहीं कि अब वो तेरा मालिक है… जो मर्ज़ी कमांड करे, जो मर्ज़ी बोले!"
 
-*(Coach Satak Singh and Cool exchange a look — watching.)*
+*(Coach Satak Singh and AnuKool exchange a look — watching.)*
 
 **Coach Satak Singh** *(concerned):* "भाई… ये ठीक नहीं हो रहा है।"
 
-**Cool:** "रेस का मार्केटिंग प्री-इवेंट पार्टी है… लेट्स डू सम गुड पार्टी एंड ब्रिंग देयर फ्रेंडशिप बैक।"
+**AnuKool:** "रेस का मार्केटिंग प्री-इवेंट पार्टी है… लेट्स डू सम गुड पार्टी एंड ब्रिंग देयर फ्रेंडशिप बैक।"
 
 ---
 
 ### SCENE 12 — Karma Operations Centre – Twist & हास्य Setup [VIDEO / STAGE] *(≈3 min)*
 
-**Location:** Celestial Karma Operations Center · **People:** Karma Dev, Maya (Cool/Pratikool optional monitors)
+**Location:** Celestial Karma Operations Center · **People:** Karma Dev, Maya (AnuKool/PratiKool optional monitors)
 
 *(Holographic feeds show the gym sting. Maya processes the anomaly.)*
 
@@ -288,9 +348,9 @@
 
 ### SCENE 13 — हास्य रस (Hasya Ras) – Marketing Pre-Event Qawwali Party [STAGE] *(≈20 min)*
 
-**Location:** Race marketing pre-event party stage · **People:** **Ruchi** (Emcee), Arjun, Karan, friends, Cool, Pratikool, ensemble · Karma/Maya observe
+**Location:** Race marketing pre-event party stage · **People:** **Ruchi** (Emcee), Arjun, Karan, friends, AnuKool, PratiKool, ensemble · Karma/Maya observe
 
-*(Setup from Cool's plan — patch the friendship with laughter before the race.)*
+*(Setup from AnuKool's plan — patch the friendship with laughter before the race.)*
 
 **Ruchi** commands the stage as Emcee → brings on **Arjun**.
 - Dynamic comic **Qawwali** with competitive witty *shayari*.
@@ -316,7 +376,7 @@
 - Escalates to aggressive competitive dance face-off to **मल्हारी (*Malhari*)**.
 - Physical pushing and shoving. Arjun's marketing show sabotaged in front of his public.
 
-**Pratikool** *(corners Arjun in the wings):* "यह बर्दाश्त मत करना! तूने इस लड़के के लिए अपनी साख दांव पर लगाई, और इसने तेरे ही स्टेज पर आकर तेरी धज्जियां उड़ा दीं!"
+**PratiKool** *(corners Arjun in the wings):* "यह बर्दाश्त मत करना! तूने इस लड़के के लिए अपनी साख दांव पर लगाई, और इसने तेरे ही स्टेज पर आकर तेरी धज्जियां उड़ा दीं!"
 
 **The Dark Turn**
 - Stage lighting → stark black and crimson.
@@ -360,13 +420,13 @@
 
 ### SCENE 17 — The Comeback Ignition [STAGE → MONTAGE] *(≈5 min)*
 
-**People:** Karan, Cool, Brishti, Gaurav, Anu, Shikha, Shri
+**People:** Karan, AnuKool, Brishti, Gaurav, Anu, Shikha, Shri
 
 **Karan** *(grabs heavy sports bat):* "मैं अर्जुन को नहीं छोड़ूँगा! उसने धोखे से मुझे गिराया है, आई एम गोइंग टू डिस्ट्रॉय हिम!"
 
-*(Cool + friends wrestle the bat away.)*
+*(AnuKool + friends wrestle the bat away.)*
 
-**Cool:** "करन, रुक! बदले की आग में सिर्फ तू खुद को जलाएगा। असली जवाब अर्जुन को तोड़ना नहीं, मैदान में वापस खड़ा होकर दिखाना है!"
+**AnuKool:** "करन, रुक! बदले की आग में सिर्फ तू खुद को जलाएगा। असली जवाब अर्जुन को तोड़ना नहीं, मैदान में वापस खड़ा होकर दिखाना है!"
 
 **Brishti:** "गुस्सा छोड़ करन। पहले फिजियोथेरेपी शुरू करते हैं, तुम्हारी चोटों को हील करना पहली प्रायोरिटी है।"
 
@@ -384,7 +444,7 @@
 
 ### SCENE 18 — The Cycle Race & The Final 3 Laps [VIDEO / STAGE] *(prior draft · ≈5 min)*
 
-**People:** Karan, Arjun, Ajay Walia, Coach Satak Singh, crowd, friends, Cool, Pratikool, Karma, Maya
+**People:** Karan, Arjun, Ajay Walia, Coach Satak Singh, crowd, friends, AnuKool, PratiKool, Karma, Maya
 
 **Part 1 – Starting Line Shock**
 - Arjun at pole in sleek sponsored gear. Karan rolls up on rebuilt cycle. Shock; eyes lock. Starter: *3… 2… 1… BANG!*
@@ -405,7 +465,7 @@
 
 ### SCENE 19 — अद्भुत रस (Adbhuta Ras) – Sacrifice & The Power of Choice [VIDEO + STAGE] *(≈3 min)*
 
-**People:** Karan, Arjun, Maya, Karma Dev, Pratikool
+**People:** Karan, Arjun, Maya, Karma Dev, PratiKool
 
 **Part 1 – Mechanical Breakdown**
 - Final stretch: rebuilt drivechain snaps. Karan skids safely; bike dead. Arena silence.
@@ -462,7 +522,7 @@
 - Entire company on stage — barriers dissolve between mortals, immortals, and AI.
 - Multi-tempo anthem weaving all nine rasas:
   - **Shringar** — graceful love/community
-  - **Hasya** — playful energy (friends + Cool/Pratikool)
+  - **Hasya** — playful energy (friends + AnuKool/PratiKool)
   - **Raudra & Bhayanaka** — thunderous drums of trials conquered
   - **Bibhatsa & Karuna** — soulful healing harmonies
   - **Veer** — stadium horns of grit/sportsmanship
@@ -497,35 +557,35 @@
 
 ### SETUP / INTRO — Why Maya exists
 
-1. **Karma Dev's Intro — see "Opening Scene — Full Draft" above for the full dialogue.** Karma Dev, Kool & PratiKool (no Audit Devi) visit AKV; Chitragupt's overload is the real trigger. · Characters: Karma Dev, Kool, PratiKool, AKV, Maya · Music: Karma hook sting + "Navras Se Hai Kalpana" title song
+1. **Karma Dev's Intro — see "Opening Scene — Full Draft" above for the full dialogue.** Karma Dev, AnuKool & PratiKool (no Audit Devi) visit AKV; Chitragupt's overload is the real trigger. · Characters: Karma Dev, AnuKool, PratiKool, AKV, Maya · Music: Karma hook sting + "Navras Se Hai Kalpana" title song
 
    **🎬 Filmed as the OPENING VIDEO (0:00–~2:07, runtime TBD)** — this whole step is a pre-show/opening video, not staged live. Shots 4.1–5B.2 (crisis beats) **CUT per Option A** — see the full note under "Opening Scene — Full Draft" above. Shot 3.3 still needs its character swap (Audit Devi → Maya), flagged in the shotlist CSV/Miro table.
    - **0:00–0:20 Earth Entry [generic]** — Singapore satellite view at night → camera rises through the atmosphere → Earth tilts, Indian subcontinent glows gold. No characters yet.
    - **0:20–0:45 Cosmic Journey [generic]** — flight through star fields, a crystalline geometric galaxy, cosmic nodes connected by light. Still no named characters — pure atmosphere/world-building.
    - **0:45–1:10 Heaven Approach [generic, with a tease]** — glowing temple architecture, light-gates; final shot (1:05–1:10) hints at four glowing silhouettes inside the Karma Sphere — not yet identifiable.
-   - **1:10–1:35 Karma Colony Arrival — CHARACTER REVEAL** — the camera arrives at the Karma Station and the four real characters are revealed one by one: Karma Dev (gold/saffron, ledger in hand, showman pose) → Audit Devi (cool blue-white, floating ledger-tablet) → Kool (warm positive energy trail) → PratiKool (dark red energy, mirrored opposite Kool). All four assembled at the portal by 1:35.
-   - **1:35–2:07 Interior — The Four at Work → The Realization** — Karma Dev directs, Audit Devi audits, Kool/PratiKool push opposite energy streams; karma orbs multiply faster than they can sort. Audit Devi flags the overload; Karma Dev decides they need help, gesturing toward a vision of AKV's lab. **Final shot (2:03–2:07): all four turn to face the audience in a held pose — video fades to white exactly as stage lights snap up on the live actors in the same pose/costume**, so it looks like they stepped out of the screen. This is the live handoff into Scene 2.
-   - **Costume rule:** each character's video glow color must match their stage costume exactly (gold = Karma Dev, blue-white = Audit Devi, warm gold-green = Kool, deep red = PratiKool) so the handoff reads instantly.
+   - **1:10–1:35 Karma Colony Arrival — CHARACTER REVEAL** — the camera arrives at the Karma Station and the four real characters are revealed one by one: Karma Dev (gold/saffron, ledger in hand, showman pose) → Audit Devi (cool blue-white, floating ledger-tablet) → AnuKool (warm positive energy trail) → PratiKool (dark red energy, mirrored opposite AnuKool). All four assembled at the portal by 1:35.
+   - **1:35–2:07 Interior — The Four at Work → The Realization** — Karma Dev directs, Audit Devi audits, AnuKool/PratiKool push opposite energy streams; karma orbs multiply faster than they can sort. Audit Devi flags the overload; Karma Dev decides they need help, gesturing toward a vision of AKV's lab. **Final shot (2:03–2:07): all four turn to face the audience in a held pose — video fades to white exactly as stage lights snap up on the live actors in the same pose/costume**, so it looks like they stepped out of the screen. This is the live handoff into Scene 2.
+   - **Costume rule:** each character's video glow color must match their stage costume exactly (gold = Karma Dev, blue-white = Audit Devi, warm gold-green = AnuKool, deep red = PratiKool) so the handoff reads instantly.
    - Full shot-by-shot breakdown + AI video prompts: `livia-navras-intro-video-shotlist.csv` (also on Miro as the "Video Production — Opening Video" Kanban).
 2. **AKV's Creation Video — now the cold open of the Opening Scene above** (not a separate step). AKV switches Maya on; she's brilliant, empty — "Emotions: not found." (Soft workshop underscore.) · Characters: ________ · Music: ________
 3. **AI Training Montage** — Maya learns handshakes, jumps, dance, talk — mechanically, comically. Still happens, as part of the same opening screen sequence, before Karma Dev's team arrives. · Characters: ________ · Music: ________
 4. **Maya Watches Kids Play** — she's confused by their laughter and games. Still happens, same as above. · Characters: ________ · Music: ________
 5. **SUPERSEDED — Audit Devi's Complaint.** Audit Devi is cut from the cast. The "Maya can't understand emotions" beat is now delivered by AKV + PratiKool's "deal breaker" line inside the Opening Scene above.
 6. **MERGED into the Opening Scene above — Karma Proposes the Navras.** Karma's couplet ("Man mein jo hai bhavna...") + his Natya Shastra pitch now closes that scene directly, rather than being a separate step.
-7. **Introducing the Livia Team — see "Scene 2 — In Heaven" above for the full dialogue.** Maya, still confused, is sent by Karma to do on-the-job training: track Kool & PratiKool (left behind on Earth) via a Google Earth zoom into Livia. · Characters: Karma Dev, Maya, Kool, PratiKool (referenced) · Music: ________
+7. **Introducing the Livia Team — see "Scene 2 — In Heaven" above for the full dialogue.** Maya, still confused, is sent by Karma to do on-the-job training: track AnuKool & PratiKool (left behind on Earth) via a Google Earth zoom into Livia. · Characters: Karma Dev, Maya, AnuKool, PratiKool (referenced) · Music: ________
 8. **Cycle Movie — Spy Escape** — see spy montage above [VIDEO]. Vandana (sister) scolds Karan; CBI spy gag → escape on cycles (**"Woh Sikandar"**). · Characters: Karan, Vandana, Arjun · Music: "Woh Sikandar…"
 9. **Gym: Friends & Challenge — see "Scene 4" above [VIDEO].** Friends ask Karan for fitness tips → Arjun redirects → race challenge. · Characters: Karan, Arjun, friends · Music: ________
 10. **Race: Karan Wins — see "Scene 5" above [VIDEO].** Impromptu race → Karan wins, all praise, Arjun proud. Then **"Yeh Bandhan"** trailer (Scene 6). · Characters: Karan, Arjun, friends · Music: TBD
 11. **The Sponsorship Challenge — see "Scene 7" above.** · Characters: Karan, Arjun, Nishanth, Satak Lee · Music: "Aata Maji Satak Li"
-12. **Kool & PratiKool Corner Satak — see "Scene 8" above.** Funny hire; they cycle with Arjun as "assistant coaches." · Characters: Kool, PratiKool, Satak Lee · Music: ________
-13. **Sponsorship Approved — see "Scene 9" above [VIDEO].** Friends waiting outside; Karan thanks Arjun in front of all; Team A, Team B, Coach celebrate. Kool: "This is so my type of feeling… Over to you, Maya." · Characters: Karan, Arjun, Team A, Team B, Satak Lee, Kool, Maya · Music: TBD · **Choreographer: TBD** · **Locations: SUTD, swimming pool, tennis court, basketball court**
+12. **AnuKool & PratiKool Corner Satak — see "Scene 8" above.** Funny hire; they cycle with Arjun as "assistant coaches." · Characters: AnuKool, PratiKool, Satak Lee · Music: ________
+13. **Sponsorship Approved — see "Scene 9" above [VIDEO].** Friends waiting outside; Karan thanks Arjun in front of all; Team A, Team B, Coach celebrate. AnuKool: "This is so my type of feeling… Over to you, Maya." · Characters: Karan, Arjun, Team A, Team B, Satak Lee, AnuKool, Maya · Music: TBD · **Choreographer: TBD** · **Locations: SUTD, swimming pool, tennis court, basketball court**
 14. **Training Begins** — *[may overlap Scene 9 montage — confirm with team]* · Characters: ________ · Music: ________
 15. **Explaining the Stakes** — *[partially covered in Scene 9 celebration — confirm merge]* · Characters: ________ · Music: ________
 16. **"All Is Well" Montage (Video)** — *[may merge with Scene 9 — confirm]* · Characters: ________ · Music: ________
 13. **Karma's Aside: Achieving Isn't Easy** — Karma congratulates the AI's start, warns that achieving a goal is never easy. *[Needs staging expansion.]* · Characters: ________ · Music: ________
 14. **Basketball vs Girls' Team** — Naina enters, boys tease Karan ("tere naina..."), he's distracted — "Yeh Ladka Hai Deewana." Arjun feels sidelined. · Characters: ________ · Music: ________
-15. **The Fork** — PratiKool instigates Arjun's jealousy; Kool nudges Karan toward Naina (KKHH sting → Main Hoon Na). · Characters: ________ · Music: ________
-18. **Kool Pitches a Party to Coach** — sees a drift in the team, suggests a party to re-motivate them. · Characters: ________ · Music: ________
+15. **The Fork** — PratiKool instigates Arjun's jealousy; AnuKool nudges Karan toward Naina (KKHH sting → Main Hoon Na). · Characters: ________ · Music: ________
+18. **AnuKool Pitches a Party to Coach** — sees a drift in the team, suggests a party to re-motivate them. · Characters: ________ · Music: ________
 28. **Karma & Audit Devi's Commentary** — reflecting on how negative emotion turns a life — "Jaisi Karni, Waisi Bharni." · Characters: ________ · Music: ________
 34. **Karma's Transition to Bhayanak** — "there's more to learn... two spectrums, negative and positive... you'll have to go back before humans even evolved." · Characters: ________ · Music: ________
 
@@ -537,8 +597,8 @@
 
 ### HASYA (LAUGHTER)
 
-19. **Karma Introduces Hasya Ras** — Heaven-set stage scene: Kool & PratiKool crack bad jokes (a "don't laugh" challenge) — only Audit Devi & Karma laugh; Maya gives horrible emoticons. Kool to PratiKool: "AI mein tera influence zyaada lag raha hai." · Characters: ________ · Music: ________
-20. **Hasya: The Qawwali Party** — joyful chaos; Kool awards bonus points, PratiKool docks them. · Characters: ________ · Music: ________
+19. **Karma Introduces Hasya Ras** — Heaven-set stage scene: AnuKool & PratiKool crack bad jokes (a "don't laugh" challenge) — only Audit Devi & Karma laugh; Maya gives horrible emoticons. AnuKool to PratiKool: "AI mein tera influence zyaada lag raha hai." · Characters: ________ · Music: ________
+20. **Hasya: The Qawwali Party** — joyful chaos; AnuKool awards bonus points, PratiKool docks them. · Characters: ________ · Music: ________
 21. **Songs & Dances on Stage** — *[placeholder, to be expanded with specific numbers]*. · Characters: ________ · Music: ________
 
 ### BIBHATSA (DISGUST)
@@ -550,16 +610,16 @@
 
 ### KARUNA (SORROW)
 
-26. **Karuna: The Accident's Aftermath** — friends rush to Karan, notice Arjun's absence; Kool suspects his guilt. Coach says he must pull Karan from the contract unless he recovers in time. · Characters: ________ · Music: ________
+26. **Karuna: The Accident's Aftermath** — friends rush to Karan, notice Arjun's absence; AnuKool suspects his guilt. Coach says he must pull Karan from the contract unless he recovers in time. · Characters: ________ · Music: ________
 
 ### RAUDRA (ANGER)
 
 27. **Raudra: Friends Are Furious** — the team is furious; Karan storms out to confront and hurt Arjun (and his cycle) — Durandhar-style rage scene. *[To be built.]* · Characters: ________ · Music: ________
-29. **Coach & Kool Intervene** — they stop Karan from destroying himself and Arjun; redirect toward sportsmanship. · Characters: ________ · Music: ________
+29. **Coach & AnuKool Intervene** — they stop Karan from destroying himself and Arjun; redirect toward sportsmanship. · Characters: ________ · Music: ________
 
 ### VEERA (COURAGE)
 
-30. **Veera: Kool Redirects the Anger** — (Veer Ras song, background/stage.) Gym/swim/run recovery support; the team reconciles. · Characters: ________ · Music: ________
+30. **Veera: AnuKool Redirects the Anger** — (Veer Ras song, background/stage.) Gym/swim/run recovery support; the team reconciles. · Characters: ________ · Music: ________
 31. **Arjun's Guilt & Isolation** — Arjun watches Karan train, feels guilty and lonely — only the coach still works with him. · Characters: ________ · Music: ________
 32. **Race Day** — Arjun, the true leader, struggles on his old, damaged cycle and trips/falls as it gives way beneath him. Karan sees this, stops, and says: "You take this.. finish it" — handing Arjun his own cycle and giving up his own shot at the win. Arjun finishes the race on Karan's cycle, humbled by the friend he wronged. · Characters: ________ · Music: ________
 33. **Coach's Verdict** — sportsmanship and team spirit are the real win; recommends both for sponsorship. · Characters: ________ · Music: ________
@@ -832,7 +892,7 @@ Duration: 10 seconds. Aspect ratio: 16:9. Background must remain solid green thr
 
 ## Scene 4 — Karma Colony Arrival (1:10–1:35) — REVISED: robots at work, then the 4 walk in
 
-> Changed from the original "silhouettes solidify in place" idea: now robots are already laboring and struggling when the camera arrives, and Karma Dev, Audit Devi, Kool & PratiKool walk in together to witness it — stronger contrast, and it matches the story logic (an overworked robot workforce is *why* they need Maya).
+> Changed from the original "silhouettes solidify in place" idea: now robots are already laboring and struggling when the camera arrives, and Karma Dev, Audit Devi, AnuKool & PratiKool walk in together to witness it — stronger contrast, and it matches the story logic (an overworked robot workforce is *why* they need Maya).
 
 **Shot 4.1 (1:10–1:16) — robots at work, establishing** — status: drafted, not yet generated
 
