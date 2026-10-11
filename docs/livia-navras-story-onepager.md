@@ -39,54 +39,46 @@
 | **Ajay Walia** *(Nishant)* | Flamboyant billionaire; boss of **NEKI** (Nike parody; *नेकी और पूछ-पूछ*) |
 | **Coach Satak Singh** | Demanding veteran coach hired by Walia |
 | **Ruchi** *(Ruchi)* | Stage Emcee / Host |
-| **Sports Crew** | Brishti, Gaurav, Anu, Shikha, Shri |
+| **Minal** | Reel-life mother in the Scene 7 spoof |
+| **Sports crew** | Brishti, Gaurav, Aru, Shikha, Shri, KK, Pramod, Venu, Satish |
 
 ---
 
-## The Story, Beat by Beat (Scenes 1–21)
+## The Story, Beat by Beat (Google Sheet order)
 
-**Cosmic setup**
-1. **Karma Operations – Hisaab Kitaab** *(timing TBD)* — Karma welcomes the house; **AnuKool** & **PratiKool** sprint in; overload → swipe to AKV; Maya has no emotions; title song back to heaven.
-2. **Navras Intro & Title Sequence** *(≈3)* — heaven control room; nine-rasa roadmap + title cards.
-
-**First rasa**
-3. **Shringar Ras** *(≈5)* — shloka → *Suraj Hua Maddham* / *Kuch Kuch Hota Hai* / *Tere Vaaste* → Maya's comic robot dance.
-
-**Into the human story**
-4. **Pivot to Storytelling** *(≈4)* — teach via story; Maya locks on Livia; cosmic zoom.
-5. **Reel Life vs Real Life** *(≈4)* — *Chanda Kab Door* spoof → Arjun influencer → IB spy prank → cycle getaway.
-6. **Marina Bay Ride** *(≈7)* — skyline cycling; sprint (**Karan wins**); Arjun opens doors → friend at **NEKI**, **Ajay Walia** (*नेकी और पूछ-पूछ*).
-7. **NEKI / Ajay Walia's Office** *(≈4)* — prove it in NEKI's big cycle race; **Coach Satak Singh** assigned; Arjun stakes izzat.
-8. **Song Continuation on Stage** *(≈3)* — Karan song coda; Arjun: focus / Walia threat; joke about Satak; both laugh.
-
-**Celestial infiltration**
-9. **Celestial Infiltration** *(≈3)* — Karma: real plot found; AnuKool & PratiKool descend.
-10. **Sowing Seeds of Paranoia** *(≈4)* — duo spy for Satak.
-11. **Gym – Silent Sting** *(≈3)* — Arjun showboats/insults; PratiKool stokes; Coach worried; AnuKool pitches marketing party.
-
-**Hasya → Raudra**
-12. **Karma Ops – Twist & Hasya Setup** *(≈3)* — Maya asks about friendship twist; Karma → Hasya shloka.
-13. **Hasya Ras – Marketing Qawwali Party** *(≈20)* — Ruchi hosts; Oiyamma / Sharara / Ghaghra / Dhurandhar / *Mere Angane Mein*.
-14. **Raudra Ras – Stage Crash** *(≈3)* — *Malhari* clash → Arjun vows sporting war.
-
-**Bibhatsa → Veer**
-15. **Bibhatsa Ras** *(≈3)* — sabotage ride; invisible wires; Karma on moral disgust.
-16. **Karuna Ras** *(≈2)* — crash → hospital; Satak / Walia cancel; contract torn.
-17. **Veer Ras** *(≈5)* — rage held back; AnuKool: turn fire into grit; comeback montage.
-
-**Race & wonder**
-18. **Cycle Race & Final 3 Laps** *(≈5)* — Karan returns; duel; VIP shock; stadium board.
-19. **Adbhuta Ras** *(≈3)* — chain snaps; Arjun gives bike; humans have **choice**.
-
-**Cosmic coda**
-20. **Bhayanaka Ras** *(≈8)* — Raktabija / Mahakali myth; Tandava on the brink.
-21. **Shanta Ras & Grand Finale** *(≈3)* — Shiva stills Kali; full-cast Navras anthem; Maya dances awake; Namaste.
+1. **Karma Operations – The Hisaab Kitaab Department** *(≈5)* — Welcome + shadow sprint → overload → swipe to AKV → Maya has no emotions → title song home
+2. **Karma Operations Center & Title Sequence** *(≈3)* — Orientation + official title graphic
+3. **Maya's English Song on Bharat Muni** *(≈2)* — see sheet
+4. **Shringar Ras** *(≈2)* — Shloka → romantic medley → Maya robot
+5. **Shringar Ras – Love & Romance** *(≈3)* — Shloka → romantic medley → Maya robot
+6. **The Storytelling Pivot & The Scan** *(≈2)* — Karma notices Shy Maaya , Happy with progress. Story narration is best form of learning so lets get some Hands on experience ; Find the Right Candidates..  l…
+7. **Livia – Reel Life vs Real Life** *(≈2)* — Spoof interrupted → influencer montage 
+8. **Livia – Reel Life vs Real Life** *(≈2)* — Yahan Ke Hum Sikandar
+9. **Marina Bay Ride & Pro Proposition** *(≈3)* — sprint (Karan wins);
+10. **Sikandar on Stage — NEKI Pitch** *(≈3)* — Shika : Karan , can you help me with my Running Timing ? Venu : Thoda Bhai mera swimming perfect nahin .. check karoge kya ? Aru : Please Karan , Help me wit…
+11. **Corporate Sponsorship – NEKI / Ajay Walia's Office** *(≈3)* — NEKI race-to-prove;  Satak assigned; Arjun and Ajay : Same dialogue .. I am trusting you , Dont fail me.
+12. **AK PK Find Satak Singh** *(≈3)* — AK PK find Coach Satak and build insecurity and get themselves enrolled into the team in the pretext of helping the coach win  Maaya Closes off by saying  : …
+16. **The Gym – The Silent Sting** *(≈3)* —  Coach  comes in and Arjun introduces new members to Karan..  बहुत बढ़िया Karan! फॉर्म बिल्कुल सही है, इसी पेस को बनाए रखो। btw meet my other students from t…
+16b. **Party Song on Stage** *(≈—)* — Dance finishes with Karan joining and dancing and partying and Arjun walk in and sees this and gets upset again that he is not serious in life in front of al…
+17. **Karma Operations Centre – Twist & Hasya Setup** *(≈1)* — Maya : Oh their friendship is getting sour.. Feeling uneasy now about how its going .. Is this is any Ras ?   Karma : Nahin maaya .. Abhi toh aur uneasy hone…
+18. **Hasya Ras — Video Lesson** *(≈2)* —   Karma teaches Hasya; sings Hasya shloka →
+19. **Hasya Ras – Marketing Pre-Event Qawwali Party** *(≈12)* — AnuKool's party plan; Ruchi hosts; Arjun qawwali + medley
+20. **Shararth** *(≈—)* — see sheet
+21. **Raudra Ras – Stage Crash & Birth of a Rival** *(≈0)* — Malhari clash mid-party; Arjun vows sporting war
+22. **Raudra Ras — Dance Company** *(≈3)* — Raudra shloka
+23. **The Sabotage & The Fall** *(≈3)* — Invisible wire trap; cycle destroyed; Karan down
+24. **Karuna Ras – The Shattered Dream** *(≈2)* — Sponsorship cancelled; contract torn over bed
+25. **The Comeback Ignition** *(≈5)* — Rage held; friends assign roles; physio + bike rebuild montage
+26. **Cycle Race & Final 3 Laps** *(≈3)* — Karan returns; duel; FINAL 3 LAPS
+27. **Adbhuta Ras – Sacrifice & Choice** *(≈2)* — Chain snaps; Arjun gives bike; humans have Choice
+28. **Bhayanaka Ras – Raktabija & Mahakali** *(≈8)* — Blood-demon myth → Kali Tandava
+29. **Shanta Ras & Grand Finale** *(≈3)* — Shiva stills Kali; Maya awakens; Namaste
 
 ---
 
 ## Format Notes
 
-- **Approx. total:** ~95 min (sum of scene estimates).
-- **Songs (locked shortlists):** Scene 3 Shringar medley · Scene 13 Hasya medley (+ *Mere Angane Mein*) · Scene 14 *Mary and Me* + *Malhari* · Scene 21 full Navras anthem.
+- **Approx. total:** ≈80 min from timed sheet rows (16b and 20 untimed).
+- **Songs:** Scene 4–5 Shringar medley · Scene 8–10 *Yahan Ke Hum Sikandar* · Scene 19 Qawwali medley · Scene 21–22 *Malhari* / Raudra · Scene 29 Navras anthem.
 - **Visuals:** Live stage + video backdrop; Maya evolves from mechanical → fluid by finale.
 - **Full scene tracker:** `livia-navras-scene-flow.md` · **Script:** `livia-navras-play-scribble.md` · **Miro:** [Scenes Flow board](https://miro.com/app/board/uXjVHs6iRk4=/).

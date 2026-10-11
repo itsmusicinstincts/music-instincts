@@ -1,7 +1,7 @@
 # NAVARASA: THE COSMIC CODE OF SPORTS
 
 ### Continuous Storyboard & Narration Write-up  
-**Scenes 1–17 locked (cleaned master) · Scenes 18–21 prior draft (see scene-flow)**
+**Synced from the Google production sheet.** Scene numbers match that sheet (no 13–15; party is **16b**).
 
 > Companion Excel: `docs/navarasa-master-production.xlsx`  
 > Scene tracker: `docs/livia-navras-scene-flow.md`  
@@ -21,224 +21,61 @@
 - **AKV** — Visionary scientist; inventor of Maya.
 - **KARAN (Jiten)** — Passionate athlete balancing a desk job with sports.
 - **ARJUN (Kalpesh)** — Singapore's top influencer; friend → rival.
-- **SHANTI (Shanti)** — Karan's dramatic sister; also Mother in the Bollywood spoof.
-- **AJAY WALIA (Nishant)** — Flamboyant billionaire; boss of **NEKI** (Nike-parody sportswear; gag: *नेकी और पूछ-पूछ*).
-- **COACH SATAK SINGH** — Veteran coach assigned to Karan.
+- **SHANTI (Shanthi)** — Karan's sister (Scene 8).
+- **MINAL** — Reel-life mother in the Scene 7 spoof.
+- **AJAY WALIA (Nishant)** — Flamboyant billionaire; boss of **NEKI**.
+- **COACH SATAK SINGH (Ankit)** — Veteran coach. AnuKool and PratiKool get onto his team.
 - **RUCHI** — Stage Emcee / Host.
-- **SPORTS CREW:** Brishti, Gaurav, Anu, Shikha, Shri.
-- **THREE AGENTS:** Cycling buddies in suits for the IB prank.
+- **SPORTS CREW:** Brishti, Gaurav, Aru, Shikha, Shri, KK, Pramod, Venu, Satish.
 
 ---
 
-## Continuous Narration (Scenes 1–17)
+## Continuous Narration (sheet order: 1–12, 16, 16b, 17–29)
 
-The screen opens on **Karma Operations – The Hisaab Kitaab Department**: glowing ledgers, planetary dashboards. **Karma Dev** welcomes the house — he is the axle of time's wheel, and no deed escapes his hisaab. He is never alone. His two shadows: **AnuKool** (Very Cool boy — every deed seen in a positive light) and **PratiKool** (Bad boy — turns thought toward negative karma). They're busy on Earth, so he goes to them.
+This follows the Google Sheet.
 
-A catchy beat: *कर्म... पीछे पड़ा है कर्म...* **AnuKool** and **PratiKool** sprint from opposite wings and skid to a halt beside him — right hand of hope, and the bitter truth that slams human mischief to the ground.
+**1.** Karma welcomes the house to **Karma Operations – The Hisaab Kitaab Department**, introduces **AnuKool** and **PratiKool**, and they sprint in on *कर्म... पीछे पड़ा है कर्म*. The paap-punya database is overloaded. AnuKool swipes open AKV's lab. Maya has no emotions yet. Karma takes her. Blackout into the NAVARASA title song. *(≈5)*
 
-Karma sighs: Earth's population logs lakhs of new karmas every second; the paap-punya database is impossible alone. PratiKool is in overtime — Kaliyug won't be handled. AnuKool: humans who made the mess also invent the fix — artificial intelligence. Karma names the scientist **AKV** and his robot **Maya**. AnuKool swipes the screen open.
+**2.** Title sequence on the celestial deck: **NAVARASA**. *(≈3)*
 
-**Maya's theme.** AKV and Maya walk on. AKV: immortals need mere mortals for the first time? Maya told him. PratiKool: we need the creation, not you — overpopulation broke Karma Operations. AnuKool: we need Maya to run it.
+**3.** Maya's English song on Bharat Muni. *(≈2)*
 
-Maya isn't sure of the scope; the trip is too far. AKV: she is brilliant, but Karma Operations runs on actions, thoughts, and emotions — she hasn't learned emotion yet. AnuKool: Karma Dev will teach her. PratiKool fears she'll eat their jobs. Karma takes the responsibility. AKV: "Bye Maya, keep in touch."
+**4–5.** **Shringar**: video shloka, then the stage medley (*Suraj Hua Maddham*, *Kuch Kuch Hota Hai*, *Tere Vaaste*) and Maya's robot dance. *(≈2 + 3)*
 
-Blackout. The **NAVARASA** title song and the Karma Chakra Chariot rocket home. The screen settles again on **Karma Operations – The Hisaab Kitaab Department**.
+**6.** Karma sees shy Maya and is pleased. Story is the way she will learn. Scan for the right people. Lock on **Livia**. *(≈2)*
 
----
+**7.** Reel life: **Minal**'s spoof to *Chanda Kab Door*, cut into Arjun's influencer montage. *(≈2)*
 
-High above the clouds, inside the celestial **Karma Operations Center**, holographic data feeds track billions of earthly deeds. Karma, AnuKool, and PratiKool gather around Maya, initiating her diagnostic core as the massive golden title graphic locks into the sky: **NAVARASA**.
+**8.** Real life: sister **Shanti**, Karan, Arjun, and agents KK, Pramod, Venu, to *Yahan Ke Hum Sikandar*. *(≈2)*
 
----
+**9.** Marina Bay ride. Same song. Sprint — **Karan wins**. *(≈3)*
 
-The journey begins with **Shringar Ras**, the essence of love and beauty.
+**10.** On stage, friends lift Karan and ask for sports help. Arjun tells them to let him breathe — Karan also has a job. Satish says he should open an academy. Brishti tells Arjun to use his influencer reach. Arjun knows the CEO of **NEKI**. Karan: *NEKI aur pooch pooch?* Everyone laughs. Arjun calls **Ajay Walia** for Friday. *(≈3)*
 
-A sacred Sanskrit shloka echoes across the hall, followed by Hindi narration explaining love as the primal creative impulse of existence. Warm amber spotlights flood the floor as couples sweep onto the stage through a romantic medley—from *सूरज हुआ मद्धम* to *कुछ कुछ होता है*, culminating in *तेरे वास्ते*.
+**11.** NEKI office. Race-to-prove. **Satak** is assigned. Arjun and Walia: I am trusting you — don't fail me. *(≈3)*
 
-As the dancers strike their final pose, Maya steps to center stage. Digital pulses of pink light and heart emoticons ripple across her frame. She attempts romance herself—a stiff, hilarious mechanical robot dance to a vintage black-and-white Bollywood track. The crowd erupts.
+**12.** At the MRT, **AnuKool** and **PratiKool** find Satak, stir his insecurity, and join the team as if they are helping him win. Maya: nice job, AK and PK — this will be fun. *(≈3)*
 
-AnuKool and PratiKool exchange smirks. **Karma Dev** shakes his head:
+**16.** Gym. Coach praises Karan's form and introduces AK and PK. Karan mishears the names. He tells Arjun to mind his own training, says he is performing better without even trying, and walks out hurt. PratiKool asks why he is quiet. Karan: Arjun is his best friend and gave him the chance of a lifetime. PratiKool: is Arjun his owner? AnuKool tells him to use the criticism, then asks the coach for a party so it isn't only training. *(≈3)*
 
-> "Shringar was easy to compute. The remaining eight Rasas are far too complex for raw code. Mortals don't learn from dry spreadsheets—they learn through **stories**. She was built by humans, and her AI will only awaken through an unfolding human story."
+**16b.** Party song. Karan dances. Arjun walks in, angry that he isn't serious with the race so close. PratiKool: answer an insult with an insult — gatecrash Arjun's pre-event party and show him up on his own stage. *(timing blank on the sheet)*
 
-Karma commands Maya to scan for high drama. Her radar locks onto Singapore, zooming into **Livia**. A Google Earth-style hyper-zoom plunges from the stars to the city streets.
+**17.** Maya feels the friendship turning sour and asks if this is a rasa. Karma: it will get more uneasy — but first there is an entertainment event. Enjoy **Hasya** first. Maya wants it the Bharat Muni way. *(≈1)*
 
----
+**18.** Hasya video. Karma sings the Hasya shloka. Kids with Ashish and Neha. *(≈2)*
 
-We cut to a vintage 90s Bollywood field. A tearful mother (**Shanti**) stands between **Karan** and **Arjun**, belting:
+**19.** Marketing qawwali. Ruchi hosts. *Oiyamma*, *Sharara*, *Ghaghra*, *Dhurandhar*. *(≈12)*
 
-> *चंदा कब दूर गगन से...*
+**20.** **Shararth** dance company (Bristi, Rujal, Misbah, Vinita, Neha). *(timing blank)*
 
-The screen glitches. Karma Dev steps into the frame:
+**21–22.** **Raudra.** The show crashes into *Malhari*. Arjun vows a sporting war. A second Raudra dance company follows the shloka. *(0 + 3 on the sheet)*
 
-> "ना ना ना… यह तो सिर्फ 'रील लाइफ' का ड्रामा है! असल जिंदगी इससे बिल्कुल अलग होती है।"
+**23.** Invisible wire. Karan and the cycle go down. *(≈3)*
 
-The reel snaps to **Arjun's** dazzling reality: Singapore's reigning influencer—cameras, viral counters, red carpets, screaming fans.
+**24.** **Karuna.** Walia cancels. Satak tears the contract over the bed. *(≈2)*
 
-Then **Karan's** modest flat. He is glued to a sports race on TV. Sister **Shanti** storms in:
+**25.** **Veer.** Friends hold Karan's rage and rebuild him and the bike. *(≈5)*
 
-> "भाई! तुम दिन-रात टीवी पर सिर्फ स्पोर्ट्स देखकर अपना वक्त क्यों बर्बाद कर रहे हो?!"
+**26–29.** Prior-draft finish, retimed on the sheet: race and final laps *(≈3)*, Adbhuta handover *(≈2)*, Bhayanaka *(≈8)*, Shanta finale *(≈3)*.
 
-The doorbell. Three men in black suits and sunglasses, stone-cold:
-
-> "हम इन्वेस्टिगेशन ब्यूरो से हैं। हमें आपके भाई की सख्त ज़रूरत है, क्योंकि वे असल में एक सीक्रेट स्पाई हैं। देश की सेवा के लिए हम इन्हें ले जा रहे हैं।"
-
-Shanti faints onto the sofa. Karan laughs, grabs helmet and bike, and sprints out with his disguised crew.
-
----
-
-Along Lavender / Kallang highway, Marina Bay Sands behind them, the pack rides in a paceline—flashbacks of Karan dominating community sports. They pull over by the bay.
-
-**Friends:**
-
-> "करन, तू जब भी मैदान में होता है, तेरी खुशी और तेरा पैशन अलग ही लेवल पर दिखता है! Why are you wasting your life behind an office desk? You belong in professional sports!"
-
-**Arjun** protects him, then challenges:
-
-> "अरे छोड़ो यार… Let him enjoy his riding."  
-> "चल, इन सबको छोड़… एक रेस लगाते हैं!"
-
-Karan wins the sprint. Arjun finishes proud. Friends push Arjun to open doors.
-
-**Arjun:**
-
-> "ठीक है। मेरा एक दोस्त है NEKI में—अजय वालिया। He is a brilliant businessman. मैं उससे बात करता हूँ।"
-
-Friends riff the brand gag: **"NEKI — नेकी और पूछ-पूछ!"**
-
----
-
-Inside **NEKI** HQ — **Ajay Walia's** extravagant suite — Arjun pitches Karan under the giant logo.
-
-**Walia:**
-
-> "NEKI — नेकी और पूछ-पूछ! सिर्फ टैलेंट से स्पॉन्सरशिप नहीं मिलती, माय बॉय। मुझे रिजल्ट्स और ब्रांड वैल्यू चाहिए। मैं बहुत जल्द एक बड़ी नेशनल साइकल रेस स्पॉन्सर कर रहा हूँ—उसमें हिस्सा लो और मुझे अपनी काबिलियत साबित करके दिखाओ।"
-
-Condition: train under **Coach Satak Singh**.
-
-**Arjun** grips Karan's hand:
-
-> "सुन, मैंने तेरे पीछे अपना पूरा नाम और साख दांव पर लगा दी है। So make sure you deliver—दोस्तों और इंडस्ट्री में मेरी इज्जत मत डुबोना! …पर मुझे पता है, तू यह कर दिखाएगा।"
-
-The pact is sealed.
-
----
-
-On stage, Karan is still riding the song's last para—singing, dancing. Arjun walks in, hand of friendship turning into pressure:
-
-> "भाई — बहुत कुछ दाव पर लगाया है मैंने… please focus कर। तेरा परफॉर्मेंस तो मुझसे भी खराब हो रहा है!!!"
-
-Karan's hand lands on Arjun's shoulder:
-
-> "चिल यार, देख लेंगे… तू जानता है मेरे लिए साइकल तो बाएँ हाथ का खेल है…"
-
-Arjun: reputation, **Ajay Walia**'s threat — they could all be ruined. Karan laughs it off; Satak will be comedy. Arjun's punchline:
-
-> "वैसे… बाएँ हाथ नहीं — पैर से चलाना पड़ेगा।"
-
-Both crack up.
-
----
-
-In heaven, Karma grins:
-
-> "लगता है हमें अपनी कहानी का असली प्लॉट मिल गया है!"
-
-AnuKool and PratiKool streak to Earth like shooting stars into Satak's camp. PratiKool whispers:
-
-> "लगता है बहुत जल्द आपकी यह नौकरी जाने वाली है, कोच साहब!"
-
-**Satak:** "क्या?! क्यों जाएगी मेरी नौकरी?"
-
-**PratiKool:** "हम आपके लिए जासूस बनेंगे। वे दोनों पीठ पीछे क्या कर रहे हैं, इसकी पल-पल की खबर हम आपको लाकर देंगे।"
-
-Satak absorbs them into the camp.
-
----
-
-In the gym, Satak praises Karan's form. **Arjun** struts in, hijacks the equipment, flexes for the crowd, and insults Karan:
-
-> "देख भाई, ऐसे करते हैं! तू खुद को प्रो एथलीट कहता है ना? असली फॉर्म और स्वैग इसे कहते हैं!"
-
-Karan goes uneasy—disappointed in front of everyone. **PratiKool** strikes at once:
-
-> "अर्जुन ने दोस्त बनके तुझे मौका दिया—इसका मतलब यह नहीं कि अब वो तेरा मालिक है… जो मर्ज़ी कमांड करे, जो मर्ज़ी बोले!"
-
-Coach and AnuKool watch. Satak murmurs:
-
-> "भाई… ये ठीक नहीं हो रहा है।"
-
-**AnuKool:**
-
-> "रेस का मार्केटिंग प्री-इवेंट पार्टी है… लेट्स डू सम गुड पार्टी एंड ब्रिंग देयर फ्रेंडशिप बैक।"
-
----
-
-Cut to the **Karma Operations Centre**. Maya watches the feeds, confused:
-
-> "कर्मा देव… स्टोरी में अचानक ट्विस्ट क्यों आ गया? वे इतने अच्छे दोस्त थे—फिर ये क्या हो रहा है?"
-
-**Karma:**
-
-> "तू भावनाओं के बहुत सारे बदलाव देखने वाली है… और भावनाओं के वे पहलू भी, जो काबू में नहीं रहते। अब उस लर्निंग के लिए तैयार हो जा—पर पहले आसान से शुरू करते हैं। थोड़ा एंटरटेनमेंट… सुना है मार्केटिंग इवेंट है। थोड़ा हँसी-मज़ाक होगा… और मैं तुझे हास्य रस भी सिखा सकता हूँ—जो इंसान की ज़िंदगी के सारे एंटरटेनमेंट की बुनियाद है।"
-
-**Maya:** "ओह… हँसी-मज़ाक?"
-
-Karma sings the **Hasya** Sanskrit shloka.
-
----
-
-**Hasya Ras — marketing pre-event party.** **Ruchi** hosts. Arjun leads comic Qawwali + shayari, then *Oiyamma*, *Sharara Sharara*, *Ghaghra* (Arjun in a ghaghra), and *Dhurandhar*. Friendship looks briefly repairable.
-
----
-
-**Raudra.** Mid-party, Karan and the sports crew crash the stage to *Mary and Me*, exploding into *Malhari*. Shoves, props flying—Arjun's marketing show ruined.
-
-**PratiKool** in the wings:
-
-> "यह बर्दाश्त मत करना! तूने इस लड़के के लिए अपनी साख दांव पर लगाई, और इसने तेरे ही स्टेज पर आकर तेरी धज्जियां उड़ा दीं!"
-
-Lights → crimson and black. Karma chants the **Raudra** shloka. Arjun ties a dark forehead band:
-
-> "इसने मुझे मेरे ही स्टेज पर नीचा दिखाया है ना? अब मैं इसे कहीं और नहीं, उसी के मैदान में धूल चटाऊँगा! I am going to take him down in his own domain!"
-
----
-
-On a bright highway, Karan rides in peak flow. Around a blind corner, Arjun's crew pulls a thin wire taut. Karan hits it at speed—cycle flips, frame cracked, gears shredded; Karan down. Karma's mourning shloka marks the fall.
-
----
-
-**Karuna Ras** — hospital chill. Satak on the phone:
-
-> "वालिया साहब, करन का बहुत भयानक एक्सीडेंट हो गया है। साइकल टूट चुकी है और वह खुद चलने की हालत में भी नहीं है।"
-
-**Walia** (ice):
-
-> "नो रिजल्ट्स, नो स्पॉन्सरशिप। तुरंत कॉन्ट्रैक्ट कैंसिल करो!"
-
-Satak enters, tears the contract over Karan's bed. Scraps flutter in slow motion. Karan clutches bandaged ribs as the dream shatters. Karuna theme plays; Maya logs human sorrow.
-
----
-
-Heartbreak hardens to fury. Karan grabs a sports bat:
-
-> "मैं अर्जुन को नहीं छोड़ूँगा! उसने धोखे से मुझे गिराया है, आई एम गोइंग टू डिस्ट्रॉय हिम!"
-
-AnuKool and friends wrestle it away.
-
-**AnuKool:**
-
-> "करन, रुक! बदले की आग में सिर्फ तू खुद को जलाएगा। असली जवाब अर्जुन को तोड़ना नहीं, मैदान में वापस खड़ा होकर दिखाना है!"
-
-**Brishti:** "गुस्सा छोड़ करन। पहले फिजियोथेरेपी…"  
-**Gaurav:** "…We are going to fund and back you!"  
-**Anu:** "डाइट, रिकवरी और स्ट्रेंथ ट्रेनिंग का नया प्लान…"  
-**Shikha:** "…तेरी बाइक पहले से ज्यादा तेज दौड़ने के लिए तैयार मिलेगी!"  
-**Shri:** "…अपनी नजर फिनिश लाइन पर रखनी है।"
-
-Comeback montage: physio, garage rebuild, limp → jog → cleats locked into rebuilt pedals. Eyes burning. Ready for the starting line.
-
----
-
-## Next (Scenes 16–19 — prior draft on file)
-
-Race climax, Adbhuta bike handover, Bhayanaka myth, Shanta finale — already sketched in `livia-navras-scene-flow.md`. Polish when you dictate the race / remaining rasas.
+Timed rows on the sheet add up to **≈80 min**. Party (16b) and Shararth (20) have no time yet.
